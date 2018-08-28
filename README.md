@@ -20,7 +20,7 @@
 
 	<p class="moi"><img src="images/fofomini.png" class="imageflottante" alt="fofo" />
 
-	Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'**infectiologie**!  
+	Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie !  
 Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.
 
 	</p>
