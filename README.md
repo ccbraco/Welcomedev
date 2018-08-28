@@ -38,10 +38,10 @@
 	
 	<figure>
 			<img src="images/logouniv.png" alt="université de Tours" />
-		
-			<img src="images/IRBI.png" alt="université de Tours" />
-		
-			<img src="images/IP.png" alt="université de Tours" />
+		</figure>
+			<figure><img src="images/IRBI.png" alt="université de Tours" />
+		</figure>
+			<figure><img src="images/IP.png" alt="université de Tours" />
 		</figure>
 
 		
