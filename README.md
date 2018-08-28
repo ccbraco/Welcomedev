@@ -25,16 +25,7 @@
 	</p>
 
 </section>	
-		
-<section>
-		<h2 class="dessous">Ce que j'ai fait</h2><br>
-
-	
-
-					<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.
-<br/><br>
-
-	<aside><div id="liens">
+		<aside>
 	
 	 <h3> si tu veux en savoir plus<h3>
 	<figure>
@@ -44,7 +35,17 @@
 		</figure>
 			<figure><img src="images/IP.png" alt="université de Tours" />
 		</figure>
-	</div></aside>
+	
+	</aside>
+<section>
+		<h2 class="dessous">Ce que j'ai fait</h2><br>
+
+	
+
+					<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.
+<br/><br>
+
+	
 		
 	<section>
 	<ul>
