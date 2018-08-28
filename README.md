@@ -7,9 +7,7 @@
 	
 
 	<body>
-	<div class="titre">
-		<h1>La cuisine des insectes</h1>
-	</div>
+	
 	<div class="qui">	
 		<h4>par STRIDULI, agence de communication scientifique</h4>
 	</div>
