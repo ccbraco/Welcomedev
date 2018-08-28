@@ -9,17 +9,13 @@
 	
 	<div id="qui">	
 		<h2>Qui je suis ?</h2>
-	</div>
+	
 	<div class="lien">	
 		<a href="#site_web_ancre"><span class="clignote">aller vers site web</span></a>
 	</div>
 
 		<br>
 		<br>
-		
-	
-		
-<section>	
 
 	<p class="intro"><img src="images/fofomini.png" class="imageflottante" alt="fofo" />
 
@@ -27,7 +23,7 @@
 
 	</p>
 
-</section>	
+</div>	
 	
 	
 	<div id= "aca">	
