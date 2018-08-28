@@ -16,7 +16,7 @@
 	<div class="lien">	
 		<a href="#site_web_ancre"><span class="clignote">aller vers site web</span></a>
 	</div>
-</header>
+
 		<br>
 		<br>
 		
