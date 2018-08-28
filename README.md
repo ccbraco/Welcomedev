@@ -46,7 +46,7 @@
 		</figure>
 	</div></aside>
 		
-	<article>
+	<section>
 	<ul>
 			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
 			<li><span class="date">2008-2013</span>Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
@@ -54,7 +54,7 @@
 			<li><span class="date">2013-2016</span>Chercheur Contractuel à l'Institut Pasteur, Paris.</li>
 			
 		</ul>
-		</article>
+		</section>
 		
 	<article>
 <p><em>les premières étapes de la recette</em></p>
