@@ -5,14 +5,14 @@ body {height:100%;}
 #container
 {
     height:100%;
-    width:70%;
+    width:100%;
     margin:auto;
 }
 
 #qui
 {
     background-color:white;
-    height:50px;
+    height:100px;
 
 }
 #aca
@@ -24,7 +24,7 @@ body {height:100%;}
 }
 #cit
 {
-    float:left;
+    float:right;
     background-color:#0000ff;
     width:50%;
     height:100%;
