@@ -7,7 +7,7 @@ h1, h2, p
 
 ul, ol
 {
-color: gray;
+color: black;
 }
 
 h1
@@ -24,9 +24,9 @@ color: green;
 {
 color: blue;
 }
-.insecte
+.date
 {
-color: purple;
+color: yellow;
 }
 h3 em
 {
