@@ -44,7 +44,7 @@
 			<li><span class="date">2013-2016</span>Chercheur Contractuel à l'Institut Pasteur, Paris.</li>
 			
 		</ul>
-		</div>
+	</div>
 	
 	<div id= "cit">
 	<h2> mon parcours citoyen </h2>
