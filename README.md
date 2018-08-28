@@ -34,7 +34,8 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 
 					<p> <mark>Pour 4 personnes </mark><br/><br>
 	<div id="parcours">
-		<figure>
+	<aside>	
+	<figure>
 			<img src="images/logouniv.png" alt="université de Tours" />
 		</figure>
 		<figure>
@@ -43,8 +44,8 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 		<figure>
 			<img src="images/IP.png" alt="université de Tours" />
 		</figure>
-	<aside>		
-	
+		
+	</aside>
 <ul>
 			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
 			<li><span class="date">2008-2013</span>Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
@@ -54,7 +55,7 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 		</ul>
 
 		
-	</aside>	
+		
 	</div>
 	<article>
 <p><em>les premières étapes de la recette</em></p>
