@@ -23,10 +23,10 @@
 	
 	<div id= "aca">	
 	
-		<h2 class="dessous">Ce que j'ai fait</h2><br>
+		<h2>Ce que j'ai fait</h2><br>
 
 	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.
-<br/><br>
+<br>
 
 	<ul>
 			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
@@ -37,16 +37,7 @@
 		</ul>
 	</div>
 	
-	<div id= "cit">
-	<h2> mon parcours citoyen </h2>
-	<ul>
-			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
-			<li><span class="date">2008-2013</span>Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
-			<li><span class="date">2012-2013</span>Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours.</li>
-			<li><span class="date">2013-2016</span>Chercheur Contractuel à l'Institut Pasteur, Paris.</li>
-			
-		</ul>
-		</div>
+
 	
 <nav>
 <h3>pour cuisiner d'autres insectes, par ici </h3>
