@@ -35,7 +35,7 @@
 <br/><br>
 
 	<div id="parcours">
-	<aside>	
+	
 	<figure>
 			<img src="images/logouniv.png" alt="université de Tours" />
 		</figure>
@@ -46,14 +46,14 @@
 			<img src="images/IP.png" alt="université de Tours" />
 		</figure>
 		
-	</aside>
-<ul>
+	
+<aside>	<ul>
 			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
 			<li><span class="date">2008-2013</span>Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
 			<li><span class="date">2012-2013</span>Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours.</li>
 			<li><span class="date">2013-2016</span>Chercheur Contractuel à l'Institut Pasteur, Paris.</li>
 			
-		</ul>
+		</ul></aside>
 
 		
 		
