@@ -1,5 +1,8 @@
 /*structure de la page : position des sections*/
-
+#container
+{
+    display: flex;
+}
 
 
 /*polices */
