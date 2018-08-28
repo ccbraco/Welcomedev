@@ -1,3 +1,10 @@
+/*polices */
+
+h1, h2, p
+{font-family: Georgia, verdana, courier new, sans-serif;
+}
+/* couleur teste*/
+
 ul, ol
 {
 color: gray;
@@ -30,23 +37,15 @@ ul + p
 	color: orange;
 }
 
-/* taille du texte test*/
+/* taille du texte */
 p
 {
-	font-size: 1.2em;
+	font-size: 1em;
 }
 h1
 {
-	font-size: 5em;
+	font-size: 9em;
 }
-
-/*polices */
-
-
-p
-{font-family: Georgia, verdana, courier new, sans-serif;
-}
-
 
 /* décoration*/
 .intro
@@ -88,7 +87,7 @@ h2
 
 body
 {
-	background-color: #ccccff
+	background-color:  #f0f5f5
 }
 
 h1 
