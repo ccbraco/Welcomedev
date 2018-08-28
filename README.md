@@ -17,10 +17,10 @@
 	
 	<div id= "container">
 	<div id= "aca">	
-		<h2 class=dessous>Ce que j'ai fait</h2><br>
+		<h2 class= "dessous">Ce que j'ai fait</h2><br>
 
 	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.</p>
-<br>
+
 
 	<ul>
 			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
