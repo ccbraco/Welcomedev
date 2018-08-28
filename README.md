@@ -34,6 +34,7 @@
 	</div>
 		<div id= "cit">
 	<h2> Mon parcours citoyen </h2>
+	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.</p>
 	<ul>
 			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
 			<li><span class="date">2008-2013</span>Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
