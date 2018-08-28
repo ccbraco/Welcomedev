@@ -85,12 +85,12 @@ h2
 
 /* couleur fond*/
 
-body
+h2
 {
 	background-color:  #f0f5f5
 }
 
-h2 
+body 
 {
 	background-image: url("images/dots.png");
 	background-attachment: fixed;
