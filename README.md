@@ -1,13 +1,10 @@
 
 <html>
-	<head>
 			<meta charset="utf-8"/>
 			<link rel="stylesheet" href="style.css" />
-<header>
 	
 		<title>Les insectes en cuisine</title>
 	
-	</head>
 
 	<body>
 	<div class="titre">
