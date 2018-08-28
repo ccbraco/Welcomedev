@@ -11,14 +11,14 @@ body {height:100%;}
 
 #qui
 {
-    background-color:#ff0000;
+    background-color:white;
     height:50px;
 
 }
 #aca
 {
     float:left;
-    background-color:#00ff00;
+    background-color:yellow;
     width:50%;
     height:100%;
 }
