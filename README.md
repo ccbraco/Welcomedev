@@ -6,12 +6,18 @@
 
 	<body>
 	
-	
+	<div id="qui">	
+		<h2>Qui je suis ?</h2>
+
+	<p class="intro"><img src="images/fofomini.png" class="imageflottante" alt="fofo" />
+
+	Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie !  </p>
+	</div>	
 	
 	
 	<div id= "container">
 	<div id= "aca">	
-		<h2>Ce que j'ai fait</h2><br>
+		<h2 class=dessous>Ce que j'ai fait</h2><br>
 
 	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.</p>
 <br>
