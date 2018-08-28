@@ -23,7 +23,7 @@
 </section>	
 		
 <section>
-		<h2 class="dessous">Grillons au lait de coco</h2><br>
+		<h2 class="dessous">Mon parcours</h2><br>
 
 	
 
