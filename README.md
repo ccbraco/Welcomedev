@@ -7,7 +7,7 @@
 	<body>
 	
 	<div class="qui">	
-		<h4>par STRIDULI, agence de communication scientifique</h4>
+		<h3>Qui je suis ?</h3>
 	</div>
 	<div class="lien">	
 		<a href="#site_web_ancre"><span class="clignote">aller vers site web</span></a>
