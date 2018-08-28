@@ -3,7 +3,19 @@
 {
     display: flex;
 }
-
+/* mise en page des sections*/
+#qui
+{
+    background-color:#ffffe6;
+}
+#aca
+{
+    background-color:#e6ffe6;
+}
+#cit
+{
+    background-color:#e6f7ff;
+}
 
 /*polices */
 
