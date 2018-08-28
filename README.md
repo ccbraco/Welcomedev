@@ -11,7 +11,7 @@
 
 	<p class="intro"><img src="images/fofomini.png" class="imageflottante" alt="fofo" />
 
-	Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie !  </p>
+	Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie !  <br /><br /><br /><br /><br /><br /></p>
 	</div>	
 	<br />
 	
