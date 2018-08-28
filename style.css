@@ -1,3 +1,21 @@
+/*structure de la page : position des sections*/
+#qui
+{
+    background-color:#ff0000;
+}
+#aca
+{
+    float:left;
+    background-color:#00ff00;
+    width:25%;
+}
+#cit
+{
+    float:left;
+    background-color:#0000ff;
+    width:75%;
+}
+
 /*polices */
 
 h1, h2, p
