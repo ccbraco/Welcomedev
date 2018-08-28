@@ -41,16 +41,11 @@
 		</ul>
 		</div>
 	
-
-	
-<nav>
-<h3>pour cuisiner d'autres insectes, par ici </h3>
-<a href="criquets panés.html"> <strong>autre recette</strong>  </a>
-</nav>
+</div>
 <footer>
 		<h3 id="site_web_ancre"><em>le site de striduli c'est ici</em></h3>
 <a href="https://striduli.wixsite.com/striduli" title= "ça déchire grave">STRIDULI</a> <br>
 </footer>
-	</div>
+	
 	</body>
 </html>
