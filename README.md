@@ -5,7 +5,7 @@
 	
 
 	<body>
-	<div id= "container">
+	
 	
 	<div id="qui">	
 		<h2>Qui je suis ?</h2>
@@ -15,7 +15,7 @@
 	Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie !  </p>
 	</div>	
 	
-	
+	<div id= "container">
 	<div id= "aca">	
 		<h2>Ce que j'ai fait</h2><br>
 
