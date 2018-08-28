@@ -162,25 +162,12 @@ header
 {
 	flex: 1
 }
-.qui
-{
-	background-color: white;
-	align-self: flex-end; 
-
-}
 
 
-nav
-{
-	display: flex;
-	flex-direction: column; 
 
-}
 
-#ingredients 
-{
-	display: flex;
-}
+
+
 footer
 {
 	display: flex;
