@@ -7,7 +7,7 @@
 	<body>
 	
 	<div class="qui">	
-		<h3>Qui je suis ?</h3>
+		<h2>Qui je suis ?</h2>
 	</div>
 	<div class="lien">	
 		<a href="#site_web_ancre"><span class="clignote">aller vers site web</span></a>
@@ -39,6 +39,12 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 			<figcaption>grillons séchés</figcaption>
 		</figure>
 	<aside>		
+	- **2006-2008** _Master d'infectiologie à l'université François Rabelais, Tours._
+- **2008-2013** _Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours._
+- **2012-2013** _Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours._
+- **2013-2016** _Chercheur Contractuel à l'Institut Pasteur, Paris._
+
+
 		<ul>
 			<li><span class="insecte">40 grillons</span></li>
 			<li>20cl de lait de coco</li>
