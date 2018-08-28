@@ -43,7 +43,16 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 - **2008-2013** _Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours._
 - **2012-2013** _Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours._
 - **2013-2016** _Chercheur Contractuel à l'Institut Pasteur, Paris._
-
+<ul>
+			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
+			<li>20cl de lait de coco</li>
+			<li>2 citrons</li>
+			<li>1 petit oignon blanc</li>
+			<li>1 tomate</li>
+			<li>1 moitié de concombre</li>
+			<li>1 moitié de poivron vert</li>
+			<li>sel poivre</li>
+		</ul>
 
 		<ul>
 			<li><span class="insecte">40 grillons</span></li>
