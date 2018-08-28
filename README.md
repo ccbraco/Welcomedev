@@ -18,7 +18,7 @@
 		
 <section>	
 
-	<p class="intro"><a href="images/logo.png"><img src="images/logomini.png" class="imageflottante" alt="logo pour manger" title="clique pour voir plus grand" /></a>Les insectes comestibles sont-ils le futur de l’alimentation ? Épicuriens gourmands, aventuriers ou sceptiques invétérés, on finira tous par y goûter. Petit guide pour se mettre à l'entomophagie</p>
+	<p class="moi"><a href="images/fofo.jpg"><img src="images/fofomini.jpg" class="imageflottante" alt="fofo" title="clique pour voir plus grand" /></a>Les insectes comestibles sont-ils le futur de l’alimentation ? Épicuriens gourmands, aventuriers ou sceptiques invétérés, on finira tous par y goûter. Petit guide pour se mettre à l'entomophagie</p>
 
 </section>	
 		
