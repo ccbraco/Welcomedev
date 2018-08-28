@@ -43,13 +43,14 @@
 			
 		</ul>
 		</div>
+		</div>
 		
 	<div id="dev">	
 		<h2> Ce que je veux faire </h2>
 
 	<p> developpeuse web et blabla bla </p>
 	</div>	
-</div>
+
 <footer>
 		<h3 id="site_web_ancre"><em>le site de striduli c'est ici</em></h3>
 <a href="https://striduli.wixsite.com/striduli" title= "ça déchire grave">STRIDULI</a> <br>
