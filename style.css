@@ -2,6 +2,7 @@
 #container
 {
     display: flex;
+	 justify-content: space-around;
 }
 /* mise en page des sections*/
 #qui
