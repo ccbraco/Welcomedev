@@ -1,34 +1,7 @@
 /*structure de la page : position des sections*/
-html {height:100%;}
-body {height:100%;}
 
-#container
-{
-    height:100%;
-    width:100%;
-    margin:auto;
-}
 
-#qui
-{
-    background-color:white;
-    height:100px;
 
-}
-#aca
-{
-    float:left;
-    background-color:yellow;
-    width:50%;
-    height:100%;
-}
-#cit
-{
-    float:right;
-    background-color:#0000ff;
-    width:50%;
-    height:100%;
-}
 /*polices */
 
 h1, h2, p
