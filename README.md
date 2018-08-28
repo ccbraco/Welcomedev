@@ -3,7 +3,7 @@
 			<meta charset="utf-8"/>
 			<link rel="stylesheet" href="style.css" />
 	
-		<title>Les insectes en cuisine</title>
+		<h1>Les insectes en cuisine</h1>
 	
 
 	<body>
