@@ -13,12 +13,12 @@
 
 	Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie !  </p>
 	</div>	
-	<br/>
-	<br/>
+	<br />
+	<br />
 	
 	<div id= "container">
 	<div id= "aca">	
-		<h2 class= "dessous">Ce que j'ai fait</h2><br>
+		<h2 class= "dessous">Ce que j'ai fait</h2>
 
 	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.</p>
 
@@ -32,7 +32,7 @@
 		</ul>
 	</div>
 		<div id= "cit">
-	<h2> mon parcours citoyen </h2>
+	<h2> Mon parcours citoyen </h2>
 	<ul>
 			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
 			<li><span class="date">2008-2013</span>Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
