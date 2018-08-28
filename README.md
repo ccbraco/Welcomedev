@@ -33,18 +33,23 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 	
 
 					<p> <mark>Pour 4 personnes </mark><br/><br>
-	<div id="ingredients">
+	<div id="parcours">
 		<figure>
-			<img src="images/grillons.jpg" alt="assiette de grillons" />
-			<figcaption>grillons séchés</figcaption>
+			<img src="images/logouniv.png" alt="université de Tours" />
+		</figure>
+		<figure>
+			<img src="images/IRBI.png" alt="université de Tours" />
+		</figure>
+		<figure>
+			<img src="images/IP.png" alt="université de Tours" />
 		</figure>
 	<aside>		
 	
 <ul>
 			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
-			<li>**2008-2013** _Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
-			<li>2012-2013** _Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours.</li>
-			<li>2013-2016** _Chercheur Contractuel à l'Institut Pasteur, Paris.</li>
+			<li><span class="date">2008-2013</span>Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
+			<li><span class="date">2012-2013</span>Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours.</li>
+			<li><span class="date">2013-2016</span>Chercheur Contractuel à l'Institut Pasteur, Paris.</li>
 			
 		</ul>
 
