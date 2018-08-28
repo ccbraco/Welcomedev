@@ -14,11 +14,7 @@
 	Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie !  </p>
 	</div>	
 	<br />
-	<br />
-	<br />
-	<br />
-	<br />
-	<br />
+	
 	<h2 class= "dessous">Ce que j'ai fait</h2>
 	
 	<div id= "container">
