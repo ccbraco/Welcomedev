@@ -28,7 +28,7 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 </section>	
 		
 <section>
-		<h2 class="dessous">Mon parcours</h2><br>
+		<h2 class="dessous">Ce que j'ai fait</h2><br>
 
 	
 
@@ -73,7 +73,51 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 	</article>
 </section>
 		
+<section>
+		<h2 class="dessous">Ce que je fais</h2><br>
 
+	
+
+					<p> <mark>Pour 4 personnes </mark><br/><br>
+	<div id="ingredients">
+		<figure>
+			<img src="images/grillons.jpg" alt="assiette de grillons" />
+			<figcaption>grillons séchés</figcaption>
+		</figure>
+	<aside>		
+	- **2006-2008** _Master d'infectiologie à l'université François Rabelais, Tours._
+- **2008-2013** _Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours._
+- **2012-2013** _Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours._
+- **2013-2016** _Chercheur Contractuel à l'Institut Pasteur, Paris._
+
+
+		<ul>
+			<li><span class="insecte">40 grillons</span></li>
+			<li>20cl de lait de coco</li>
+			<li>2 citrons</li>
+			<li>1 petit oignon blanc</li>
+			<li>1 tomate</li>
+			<li>1 moitié de concombre</li>
+			<li>1 moitié de poivron vert</li>
+			<li>sel poivre</li>
+		</ul>
+	</aside>	
+	</div>
+	<article>
+<p><em>les premières étapes de la recette</em></p>
+		
+		<ol class="étapes">
+			<li>Couper la tomate en dés</li>
+			<li>Emincer finement le concombre et la moitié du poivron vert</li>
+			<li>Hacher l'oignon</li>
+			<li>bien mélanger</li>
+		</ol>
+		<p> Disposer sur un plat les grillons arrosés de jus de citron.<br>
+			Poivrer et laisser mariner 10 min au frigo.<br>
+			Egoutter les grillons et arroser du jus du deuxième citron.<br>
+		Ajouter les crudités et le lait de coco, le concombre, le sel. Mettre 1h au frais avant de servir.</p>
+	</article>
+</section>
 <nav>
 <h3>pour cuisiner d'autres insectes, par ici </h3>
 <a href="criquets panés.html"> <strong>autre recette</strong>  </a>
