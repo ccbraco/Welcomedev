@@ -19,10 +19,11 @@
 	<br />
 	<br />
 	<br />
+	<h2 class= "dessous">Ce que j'ai fait</h2>
 	
 	<div id= "container">
 	<div id= "aca">	
-		<h2 class= "dessous">Ce que j'ai fait</h2>
+		<h2> mon parcours pro</h2>
 
 	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.</p>
 
