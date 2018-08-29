@@ -7,7 +7,7 @@
 	<body>
 	<div id="intro">
 	<p>
-	<img src="images/biohazard.png" class="floatleft" alt="biohazard" />
+	<img src="images/hazardous.jpg" class="hazardous" alt="biohazard" />
 	<img src="images/biohazard.png" class="floatright" alt="biohazard" />
 		 Bienvenue sur ma page de présentation de..., et bien de moi même ! N'ai pas peur, tu entre en zone contanminé mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais tenter de t'expliquer pourquoi je suis là ! </p>
 		
