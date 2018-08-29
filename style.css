@@ -1,10 +1,18 @@
 /*structure de la page : position des sections*/
+header
+{
+	display: flex;
+	background-image: url("images/biohazard.png");
+	flex-wrap: wrap;
+	align-items: center;
+}
 #container
 {
     display: flex;
 	 justify-content: space-around;
 }
 /* mise en page des sections*/
+
 #qui
 {
     background-color:#ffffe6;
@@ -32,12 +40,12 @@ color: black;
 
 h1
 {
-color: blue;
+color: #ff6600;
 }
 
 h2, h3
 {
-color: green;
+color: #2eb8b8;
 }
 
 .étapes
@@ -104,10 +112,15 @@ h2
 }
 
 /* couleur fond*/
-
+h1
+{
+	background-color:  #66d9ff;
+	opacity: 0.8;
+}
 h2
 {
-	background-color:  #f0f5f5
+	background-color:  #f0f5f5;
+	opacity: 0.8;
 }
 
 body 
@@ -117,7 +130,7 @@ body
 }
 p
 {
-	background-color: #ffffe6;
+	background-color: #ff751a;
 	opacity: 0.7;
 }
 
@@ -150,14 +163,7 @@ p
 
 /* flexbox*/
 
-header
 
-{
-	display: flex;
-	background-image: url("images/biohazard.png");
-	flex-wrap: wrap;
-	align-items: center;
-}
 .titre
 {
 	flex: 1
