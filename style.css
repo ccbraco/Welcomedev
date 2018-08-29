@@ -11,6 +11,15 @@ header
     display: flex;
 	 justify-content: space-around;
 }
+.titre
+{
+	flex: 1
+}
+footer
+{
+	display: flex;
+	justify-content: space-between;
+}
 /* mise en page des sections*/
 
 #qui
@@ -56,38 +65,31 @@ h3 em
 	color: orange;
 }
 
-/*polices */
+
+/* mise en page du texte*/
 
 h1, h2, p
 {font-family: Georgia, verdana, courier new, sans-serif;
 }
-/* couleur teste*/
 
 ul, ol
 {
 color: black;
 }
 
-
-
-.étapes
-{
-color: blue;
-}
 .date
 {
 color: yellow;
 }
 
-ul + p
-{
-	color: orange;
-}
-
-/* taille du texte */
 p
 {
 	font-size: 1em;
+	background-color: white;
+	opacity: 0.9;
+	border-radius: 7px;
+	box-shadow: 6px 6px 0px #2F4F4F;
+	padding: 12px; /* Marge intérieure de 12px */
 }
 
 
@@ -103,7 +105,7 @@ p
 {
 	text-decoration: overline;
 }
-/* alignement*/
+
 
 
 
@@ -130,11 +132,7 @@ body
 	background-image: url("images/background.png");
 	background-attachment: fixed;
 }
-p
-{
-	background-color: white;
-	opacity: 0.9;
-}
+
 
 /* bordures*/
 
@@ -143,41 +141,12 @@ img
 	border: 1px gray groove;
 }
 
-p
-{
-	border-radius: 7px;
-}
 
-/*ombre*/
 
-p
-{
-	box-shadow: 6px 6px 0px #2F4F4F;
 
-}
 
-/*marge*/
-
-p
-{
-    padding: 12px; /* Marge intérieure de 12px */
-}
 
 /* flexbox*/
 
 
-.titre
-{
-	flex: 1
-}
 
-
-
-
-
-
-footer
-{
-	display: flex;
-	justify-content: space-between;
-}
