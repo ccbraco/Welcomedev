@@ -6,9 +6,10 @@
 
 	<body>
 	<div id="intro">
+	<p>
 	<img src="images/biohazard.png" class="floatleft" alt="biohazard" />
 	<img src="images/biohazard.png" class="floatright" alt="biohazard" />
-		<p> Bienvenue sur ma page de présentation de..., et bien de moi même ! N'ai pas peur, tu entre en zone contanminé mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais tenter de t'expliquer pourquoi je suis là ! </p>
+		 Bienvenue sur ma page de présentation de..., et bien de moi même ! N'ai pas peur, tu entre en zone contanminé mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais tenter de t'expliquer pourquoi je suis là ! </p>
 		
 	<div id="qui">	
 		<h2>Qui je suis ?</h2>
