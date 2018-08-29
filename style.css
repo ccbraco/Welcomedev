@@ -173,14 +173,14 @@ img
 a /* Liens par défaut (non survolés) */
 {
    text-decoration: none;
-   color: red;
+   color: #99ffff;
    font-style: italic;
 }
 
 a:hover /* Apparence au survol des liens */
 {
    text-decoration: underline;
-   color: green;
+   color: #ff66b3;
 }
 
 
