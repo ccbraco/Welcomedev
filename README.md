@@ -39,7 +39,7 @@
 	
 	<div id= "container">
 	<div id= "aca">	
-		<h2> Mon parcours pro</h2>
+		<h3> Mon parcours pro</h3>
 
 	
 
@@ -55,7 +55,7 @@
 
 	</div>
 		<div id= "cit">
-	<h2> Mon parcours citoyen </h2>
+	<h3> Mon parcours citoyen </h3>
 	
 	<ul>
 			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
