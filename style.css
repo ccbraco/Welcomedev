@@ -2,7 +2,7 @@
 header
 {
 	display: flex;
-	
+	background-color:  #007a99;
 	flex-wrap: wrap;
 	align-items: center;
 }
@@ -19,6 +19,7 @@ footer
 {
 	display: flex;
 	justify-content: space-between;
+	background-color:  #007a99;
 }
 /* mise en page des sections*/
 
