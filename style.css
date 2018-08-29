@@ -40,12 +40,14 @@ footer
 /* mise en page des sections*/
 #intro
 {
-	font-size: 1em;
-	background-color: #006666;
-	color: blue;
+	font-size: 1.2em;
+	background-color: #248f8f;
+	color: white;
 	opacity: 0.9;
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
+    font-style: italic;
+	text-align: center;
 }
 nav
 {
@@ -120,6 +122,7 @@ font-size: 0.7em;
 .date
 {
 color: #99e6e6;
+font-weight: bold;
 }
 
 p
@@ -129,18 +132,7 @@ p
 }
 
 
-/* décoration*/
-.intro
-{
-	font-style: oblique;
-}
-.intro
-{font-weight: bold;
-}
-.clignote
-{
-	text-decoration: overline;
-}
+
 
 
 
