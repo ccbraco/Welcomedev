@@ -38,11 +38,11 @@ footer
 }
 #aca
 {
-    background-color:#e6ffe6;
+    background-color:  #007a99;
 }
 #cit
 {
-    background-color:#e6f7ff;
+   background-color:  #007a99;
 }
 /* mise en page des titres*/
 h1
@@ -83,12 +83,13 @@ h1, h2, p
 
 ul, ol
 {
-color: black;
+color: white;
+font-size: 13em;	
 }
 
 .date
 {
-color: yellow;
+color: #99e6e6;
 }
 
 p
