@@ -48,10 +48,17 @@ footer
 	box-shadow: 6px 6px 0px #2F4F4F;
 	padding: 12px; /* Marge intérieure de 12px */
 }
+nav
+{
+    float: left;
+    width: 150px;
+    border: 1px solid black;
+}
 
 #qui
 {
     background-color:#ffffe6;
+	margin-left: 170px;
 }
 #aca
 {
