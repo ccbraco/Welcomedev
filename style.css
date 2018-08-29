@@ -14,7 +14,9 @@ header
 .titre
 {
 	background-color:  #007a99;
-	flex: 1
+	flex: 1;
+	color: white;
+	
 }
 body 
 {
