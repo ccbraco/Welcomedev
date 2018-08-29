@@ -10,7 +10,7 @@
 		<h2>Qui je suis ?</h2>
 
 	<p class="intro">
-	<a href="images/CV FL.pdf">Télécharger mon cv<img src="images/fofomini.png" class="imageflottante" alt="cv fofo" title="clique pour voir mon cv"/></a>
+	<a href="images/CV FL.pdf">Télécharger mon cv<img src="images/fofomini.png" class="imageflottante" alt="cv fofo" /></a>
 
 	Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie !  <br /><br /><br /><br /><br /><br /></p>
 	</div>	
