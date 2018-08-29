@@ -16,10 +16,10 @@
 	    
 	    
 	    <ol>
-                <li><a href="https://www.cdc.gov/vhf/ebola/index.html">le virus Ebola</a></li>
-                <li><a href="https://www.cdc.gov/parasites/ascariasis/index.html">Le parasite Ascaris (beurk)</a></li>
-                <li><a href="https://www.cdc.gov/tetanus/index.html">La bactérie du tetatnos (qui te plie en deux)</a></li>
-		<li><a href="https://www.cdc.gov/leprosy/">La bactérie de la lèpre (tu perds des bouts)</a></li>
+                <li><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></li>
+                <li><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></li>
+                <li><a href="https://www.cdc.gov/tetanus/index.html" target="_blank">La bactérie du tetatnos (qui te plie en deux)</a></li>
+		<li><a href="https://www.cdc.gov/leprosy/" target="_blank">La bactérie de la lèpre (tu perds des bouts)</a></li>
             </ol>
         </nav>
 	
@@ -44,10 +44,10 @@
 	
 
 	<ul>
-			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
-			<li><span class="date">2008-2013</span>Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
-			<li><span class="date">2012-2013</span>Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours.</li>
-			<li><span class="date">2013-2016</span>Chercheur Contractuel à l'Institut Pasteur, Paris.</li>
+			<li><span class="date">2006-2008</span> Master d'Infectiologie l'<a href="https://sciences.univ-tours.fr/version-francaise/bienvenue-sur-le-site-de-la-faculte-de-sciences-et-techniques-159428.kjsp" target="_blank"> L'université des sciences et techniques</a>, Tours.</li>
+			<li><span class="date">2008-2013</span>Doctorat de virologie à l'<a href="http://irbi.univ-tours.fr/" target="_blank"> Institut de Recherche sur la Biologie de l'Insecte</a>, Tours.</li>
+			<li><span class="date">2012-2013</span>Attaché temporaire d'enseignement et recherche à l'université de Tours.</li>
+			<li><span class="date">2013-2016</span>Chercheur Contractuel à l'<a href="https://www.pasteur.fr/fr" target="_blank"> Institut Pasteur</a>, Paris.</li>
 			
 		</ul>
 		
@@ -60,9 +60,9 @@
 	
 	<ul>
 			<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
-			<li><span class="date">2007-2008</span>Bénévole <a href="http://www2.cnrs.fr/jeunes/25.htm"> Club CNRS</a>Science pop', Tours.</li>
-			<li><span class="date">2008-</span>Bénévole et administratrice de l'<a href="http://www.lespetitsdebrouillards.org/">Association les Petits Débrouillards</a>, Tours et Paris.</li>
-			<li><span class="date">2018-</span>Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli">STRIDULI</a>, Tours.</li>
+			<li><span class="date">2007-2008</span>Bénévole <a href="http://www2.cnrs.fr/jeunes/25.htm" target="_blank"> Club CNRS</a>Science pop', Tours.</li>
+			<li><span class="date">2008-</span>Bénévole et administratrice de l'<a href="http://www.lespetitsdebrouillards.org/" target="_blank">Association les Petits Débrouillards</a>, Tours et Paris.</li>
+			<li><span class="date">2018-</span>Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank">STRIDULI</a>, Tours.</li>
 		</ul>
 		
 	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.</p>
