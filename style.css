@@ -34,7 +34,7 @@ footer
 	border-radius: 5px;
 	display: flex;
 	justify-content: space-between;
-	background-color:  #007a99;
+	background-color:  #ccffff;
 }
 /* mise en page des sections*/
 
@@ -54,10 +54,11 @@ footer
 h1
 {
 	border-radius: 5px;
-	background-color:  #007a99;
+	background-color:  #ccffff;
 	text-align: center;
 	font-size: 20em;
 	color: white;
+	border: 1px #99e6e6 groove;
 }
 
 
