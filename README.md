@@ -7,7 +7,7 @@
 	<body>
 	<div id="intro">
 	
-		<p class= "bienvenue"> Bienvenue sur ma page de présentation de..., et bien de moi même ! <br />
+		<p> Bienvenue sur ma page de présentation de..., et bien de moi même ! <br />
 		N'ai pas peur, tu entre en zone contanminé mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais tout t'expliquer pourquoi je suis là ! </p>
 		
 	<div id="qui">	
