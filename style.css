@@ -90,8 +90,13 @@ h2
 h3
 {
 color: #2eb8b8;
+text-align: center;	
 }
-
+.patho
+{
+	font-size: 1em;
+	color: white;
+}	
 h3 em
 {
 	color: orange;
