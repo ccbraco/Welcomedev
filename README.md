@@ -57,13 +57,14 @@
 		<div id= "cit">
 	<h3> Mon parcours citoyen </h3>
 	
+	
 	<ul>
-			<li><span class="date">2006-2008</span> Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
-			<li><span class="date">2008-2013</span>Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.</li>
-			<li><span class="date">2012-2013</span>Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours.</li>
-			<li><span class="date">2013-2016</span>Chercheur Contractuel à l'Institut Pasteur, Paris.</li>
-			
+			<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
+			<li><span class="date">2007-2008</span>Bénévole <a href="http://www2.cnrs.fr/jeunes/25.htm"> Club CNRS</a>Science pop', Tours.</li>
+			<li><span class="date">2008-</span>Bénévole et administratrice de l'<a href="http://www.lespetitsdebrouillards.org/">Association les Petits Débrouillards</a>, Tours et Paris.</li>
+			<li><span class="date">2018-</span>Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli">STRIDULI</a>, Tours.</li>
 		</ul>
+		
 	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.</p>
 		</div>
 		</div>
