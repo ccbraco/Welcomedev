@@ -16,7 +16,8 @@
 	<p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="imageflottante" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br />
 	C'est toujours difficile de se décrire mais je crois que l'on peut dire de moi que je suis une "curieuse". Curieuse va bien bien avec le monde des sciences et donc j'ai suivi cette voie depuis toujours. 
-	<br /> comme tu vas t'en rendre compte au fur et à mesure de cette page, (tu peux télécharger mon cv en cliquant sur ma photot) j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie ! 
+	<br /> comme tu vas t'en rendre compte au fur et à mesure de cette page, (tu peux télécharger mon cv en cliquant sur ma photot) j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie ! <br/>
+	Mes chouchoux c'est le virus, ils ne sont pas reconnu comme vivant (le sujet est toujours en discussion), ils sont à l'origine d'un nombre incalculable de polémique et leurs gènes sont comme un programme informatique: ils codent pour des fonctions dans un environnement bien précis. Leur objectif : se multiplier ! 
 	<br /></p>
 	</div>	
 	<br />
