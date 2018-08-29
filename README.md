@@ -12,11 +12,15 @@
 		</div>
 		
 	  <nav>
-            <ul>
-                <li><a href="#">Accueil</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">CV</a></li>
-            </ul>
+            <h3> Mes pathogènes préférés</h3>
+	    <p class="patho"> je les ai classé par ordre de préférence alors clique si tu l'ose !<p>
+	    
+	    <ol>
+                <li><a href="https://www.cdc.gov/vhf/ebola/index.html">le virus Ebola</a></li>
+                <li><a href="https://www.cdc.gov/parasites/ascariasis/index.html">Le parasite Ascaris (beurk)</a></li>
+                <li><a href="https://www.cdc.gov/tetanus/index.html">La bactérie du tetatnos (qui te plie en deux)</a></li>
+		<li><a href="https://www.cdc.gov/leprosy/">La bactérie de la lèpre (tu perds des bouts)</a></li>
+            </ol>
         </nav>
 	
 	<div id="qui">	
