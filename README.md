@@ -13,7 +13,7 @@
 		
 	  <nav>
             <h3> Mes pathogènes préférés</h3>
-	    <p class="patho"> je les ai classé par ordre de préférence alors clique si tu l'ose !<p>
+	    
 	    
 	    <ol>
                 <li><a href="https://www.cdc.gov/vhf/ebola/index.html">le virus Ebola</a></li>
