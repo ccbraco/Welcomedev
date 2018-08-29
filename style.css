@@ -22,7 +22,6 @@ body
 {
 	background-image: url("images/background.png");
 	background-attachment: fixed;
-	opacity: 0.7;
 }
 footer
 {
@@ -84,7 +83,7 @@ h1, h2, p
 ul, ol
 {
 color: white;
-font-size: 8em;	
+font-size: 0.5em;	
 }
 
 .date
