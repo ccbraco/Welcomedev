@@ -101,11 +101,14 @@ h2
 
 /* faire flotter une image*/
 
-.imageflottante
+.floatleft
 {
 	float: left;
 }
-
+.floatright
+{
+	float: right;
+}
 .dessous
 {
 	clear: both;
