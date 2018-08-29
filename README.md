@@ -12,10 +12,8 @@
 	<div id="qui">	
 		<h2>Qui je suis ?</h2>
 
-	<p class="moi">
-	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="imageflottante" alt="cv fofo" title="télécharger mon cv"/></a>
-
-	Alors ça, c'est une bonne question ! <br />
+	<p>
+	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="imageflottante" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br />
 	C'est toujours difficile de se décrire mais je crois que l'on peut dire de moi que je suis une "curieuse". Curieuse va bien bien avec le monde des sciences et donc j'ai suivi cette voie depuis toujours. 
 	<br /> comme tu vas t'en rendre compte au fur et à mesure de cette page, (tu peux télécharger mon cv en cliquant sur ma photot) j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie ! 
 	<br /></p>
