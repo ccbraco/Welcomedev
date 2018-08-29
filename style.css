@@ -154,7 +154,7 @@ header
 
 {
 	display: flex;
-	justify-content: space-around;
+	background-image: url("images/biohazard.png");
 	flex-wrap: wrap;
 	align-items: center;
 }
