@@ -54,11 +54,14 @@ nav
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
 }
-
-#qui
+#quoi
 {
     background-color:white;
 	margin-left: 170px;
+	border-radius: 7px;
+#qui
+{
+    background-color:white;
 	border-radius: 7px;
 }
 #aca
