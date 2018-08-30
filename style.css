@@ -50,7 +50,7 @@ nav
 
 #qui
 {
-    background-color:#ffffe6;
+    background-color:white;
 	margin-left: 170px;
 	border-radius: 7px;
 }
@@ -158,7 +158,7 @@ img
 a /* Liens par défaut (non survolés) */
 {
    text-decoration: none;
-   color: #99ffff;
+   color: white;
    font-style: italic;
 }
 
