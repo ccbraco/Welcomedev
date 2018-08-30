@@ -8,7 +8,7 @@
 	<div id="intro">
 	
 		<p> Bienvenue sur ma page de présentation de..., et bien de moi même ! <br />
-		N'ai pas peur, tu entre en zone contanminé mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais tout t'expliquer pourquoi je suis là ! </p>
+		N'ai pas peur, tu entre en zone contanminé mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais t'expliquer pourquoi je suis là ! </p>
 		</div>
 		
 	  <nav>
@@ -27,11 +27,11 @@
 		<h2>Qui je suis ?</h2>
 
 	<p>
-	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br />
-	C'est toujours difficile de se décrire mais je crois que l'on peut dire de moi que je suis une "curieuse". Curieuse va bien bien avec le monde des sciences et donc j'ai suivi cette voie depuis toujours. 
-	<br /> comme tu vas t'en rendre compte au fur et à mesure de cette page, (tu peux télécharger mon cv en cliquant sur ma photot) j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie ! <br/>
-	Mes chouchoux c'est le virus, ils ne sont pas reconnu comme vivant (le sujet est toujours en discussion), ils sont à l'origine d'un nombre incalculable de polémique et leurs gènes sont comme un programme informatique: ils codent pour des fonctions dans un environnement bien précis. Leur objectif : se multiplier ! 
-	<br /></p>
+	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
+		 Je crois que l'on peut dire de moi que je suis une <strong>"curieuse"<strong>. Comprendre et décortiquer le monde qui nous entoure c'est un peu une passion. 
+		 Curieuse va bien bien avec le monde des sciences et donc j'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... 
+	<br /> comme tu vas t'en rendre compte au fur et à mesure de cette page, (tu peux télécharger mon cv en cliquant sur ma photo) j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit, j'ai fait pas mal de bénévolat dans l'animation scientifique auprès du grand public et j'ai même monté mon agence d'animation et de communication scientifique. Et c'est cette dernière qui m'a conduite ici.  <br/><br/>
+	Mais chut! je te laisse découvrir ma page pour en savoir plus.</p>
 	</div>	
 	<br />
 	
@@ -39,7 +39,7 @@
 	
 	<div id= "container">
 	<div id= "aca">	
-		<h3> Mon parcours pro</h3>
+		<h3> Mon parcours académique</h3>
 
 	
 
@@ -51,11 +51,13 @@
 			
 		</ul>
 		
-	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.</p>
+	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant. Ce monde, c'est l'infectiologie ! <br/>
+	Mes chouchoux: <strong>les virus<strong>, ils sont à l'origine d'un nombre incalculable de polémiques et leurs gènes sont comme un programme informatique: ils codent pour des fonctions dans un environnement bien précis. Leur objectif : se multiplier ! <br /><br />  Si tu as le courage, je t'ai mis des liens de mes pathogènes préférés. 
+	<br /></p>
 
 	</div>
 		<div id= "cit">
-	<h3> Mon parcours citoyen </h3>
+	<h3> Mon parcours pas académique </h3>
 	
 	
 	<ul>
@@ -65,7 +67,7 @@
 			<li><span class="date">2018-</span>Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank">STRIDULI</a>, Tours.</li>
 		</ul>
 		
-	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.</p>
+	<p>Au cours de mes études, j'ai toujours eu à coeur de rester ancrer dans la société ! Le monde de la recherche a un gros défaut, il nous coupe souvent de la réalité. On est bien à l'aise dans son labo, avec son sujet de recherche ultra mega précis mais parfois, on peut s'y perdre et on oublie que l'on doit beaucoup à nos contemporains. On ne communique pas les sciences auprès du grand public, on les questionne, les discute, on leur donne une place (essentielle) dans la société. En tant que citoyen, on participe au débat et en tant que chercheur, on peut apporter un peu de nos connaissances afin de faire avancer le débat. C'est pour ça que je me suis beaucoup investit auprès des petits débrouillards, cela m'a appris que les savoirs se trouvent partout et que les chercheurs n'ont pas le monopole de la vérité.</p>
 		</div>
 		</div>
 		
