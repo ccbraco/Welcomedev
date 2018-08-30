@@ -76,10 +76,10 @@
 	</div>	
 
 <footer>
-<a href="https://www.facebook.com/louis.faustine" target="_blank>facebook</a> 
+<p><a href="https://www.facebook.com/louis.faustine" target="_blank>facebook</a> 
 <a href="linkedin.com/in/faustine-louis-2981bab3" target="_blank>linkedin</a> 
 <a href="https://www.researchgate.net/profile/Faustine_Louis" target="_blank>reserchgate</a> 
-<a href="https://striduli.wixsite.com/striduli" target="_blank>striduli</a> 																     
+<a href="https://striduli.wixsite.com/striduli" target="_blank>striduli</a> 								</P>								     
 </footer>
 	
 	</body>
