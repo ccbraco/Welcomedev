@@ -76,7 +76,7 @@
 	</div>	
 
 <footer>
-<div id= "reseaux">
+<div id= "container">
 <figure><a href="https://www.facebook.com/louis.faustine"><img src="images/facebook.png" alt="facebook" title="facebook"/></a> </figure>
 <figure><a href="https://www.linkedin.com/in/faustine-louis-2981bab3/"><img src="images/linkedin.png" alt="linkedin" title="linkedin"/></a> </figure>
 <figure><a href="https://www.researchgate.net/profile/Faustine_Louis"><img src="images/researchgate.png" alt="" title="researchgate"/></a></figure> 
