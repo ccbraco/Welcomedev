@@ -82,7 +82,12 @@
 	<div id="dev">	
 		<h2> Ce que je veux faire </h2>
 
-	<p> developpeuse web et blabla bla </p>
+	<p> Bon tout ça c'est bien joli mais ppour quoi je suis là moi ??  Et bien figure toi que comme les virus, j'évolue ! Depuis plusieurs mois j'ai monté mon agence d'animation scientifique. Cela me donnait un statut officiel et me permettait de me faire rémunérer lors de mes interventions. <br /> Pour monter et lancer tout ça  je me suis installée à la pépinière des sanitas (lien). J'y ai rencontré Fabien Vidal (lien) qui m'a invité au lancement d'une game jam à Tours. <br />Curieuse comme je suis, je me suis intéressées de plus en plus au domaine et je reçue alors une proposition de formation de développeur !  (un signe certain dirait) <br /><br /> Il fallait que j'aille jusqu'au bout de mes recherches, cette formation me conviendrait-elle ? Sans plus attendre je prend contact avec mon ami Richard afin de lui demander conseil. 
+	"STOP ! me dit-il. Pas cette formation !  mais si le métier t'interesse tu peux regarder sur openclassroom, code combat et france IOI. "<br />
+	Je suis bonne élève alors je suis les cours openclassroom, je me renseigne sur le métier et m'inscris à la réunion d'information du cefim. Et très franchement ça me plait, mon conjoint me décroche de mon ordi et moi hurlant "non non, encore une petite ligne (de code) et j'arrête." <br /><br />
+	<br />
+	Alors me voilà ! oui, mon sens artistique est particulier et ma page web un peu simpliste mais je vais apprendre à faire mieux avec vous, promis !
+	</p>
 	</div>	
 
 	<footer>
