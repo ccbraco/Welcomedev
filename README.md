@@ -76,8 +76,10 @@
 	</div>	
 
 <footer>
-		<h3 id="site_web_ancre"><em>le site de striduli c'est ici</em></h3>
-<a href="https://striduli.wixsite.com/striduli" title= "ça déchire grave">STRIDULI</a> <br>
+<a href="https://www.facebook.com/louis.faustine" target="_blank><img src="images/facebook.png" alt="facebook" title="facebook"/></a> 
+<a href="linkedin.com/in/faustine-louis-2981bab3" target="_blank><img src="images/linkedin.png" alt="linkedin" title="linkedin"/></a> 
+<a href="https://www.researchgate.net/profile/Faustine_Louis" target="_blank><img src="images/researchgate.png" alt="" title="researchgate"/></a> 
+<a href="https://striduli.wixsite.com/striduli" target="_blank><img src="images/striduli.png" alt="striduli" title="striduli"/></a> 																     
 </footer>
 	
 	</body>
