@@ -55,6 +55,9 @@
 		</ul>
 		
 	</div>
+	
+	
+	
 	<div id= "container">
 	<div id= "aca">	
 		<h3> Mon parcours académique</h3>
@@ -73,6 +76,10 @@
 	</p>
 
 	</div>
+	
+	
+	
+	
 		<div id= "cit">
 	<h3> Mon parcours pas académique </h3>
 	
