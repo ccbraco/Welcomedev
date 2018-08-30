@@ -12,6 +12,12 @@ header
 justify-content: space-between;
 }
 
+#reseaux
+{
+	display: flex;
+justify-content: center;
+}
+
 body 
 {
 	background-image: url("images/background.png");
