@@ -11,17 +11,7 @@
 		N'ai pas peur, tu entre en zone contanminé mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais t'expliquer pourquoi je suis là ! </p>
 		</div>
 		
-	  <nav>
-            <h4> Mes pathogènes préférés</h4>
-	    
-	    
-	    <ol>
-                <li><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></li>
-                <li><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></li>
-                <li><a href="https://www.cdc.gov/tetanus/index.html" target="_blank">La bactérie du tetatnos (qui te plie en deux)</a></li>
-		<li><a href="https://www.cdc.gov/leprosy/" target="_blank">La bactérie de la lèpre (tu perds des bouts)</a></li>
-            </ol>
-        </nav>
+	
 	
 	<div id="qui">	
 		<h2>Qui je suis ?</h2>
@@ -37,6 +27,19 @@
 	
 	
 	<h2 class= "dessous">Ce que j'ai fait</h2>
+	
+	
+	  <nav>
+            <h4> Mes pathogènes préférés</h4>
+	    
+	    
+	    <ol>
+                <li><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></li>
+                <li><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></li>
+                <li><a href="https://www.cdc.gov/tetanus/index.html" target="_blank">La bactérie du tetatnos (qui te plie en deux)</a></li>
+		<li><a href="https://www.cdc.gov/leprosy/" target="_blank">La bactérie de la lèpre (tu perds des bouts)</a></li>
+            </ol>
+        </nav>
 	
 	<div id= "quoi">
 	<p> je divise mon parcours en deux parties mais en réalité, elles sont complètement imbriquées (je voulais montrer que je savais faire des listes ;-P ). 
