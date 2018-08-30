@@ -31,9 +31,10 @@
 		 Je crois que l'on peut dire de moi que je suis une <strong>"curieuse"<strong>. Comprendre et décortiquer le monde qui nous entoure c'est un peu une passion. 
 		 Curieuse va bien bien avec le monde des sciences et donc j'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... 
 	<br /> comme tu vas t'en rendre compte au fur et à mesure de cette page, (tu peux télécharger mon cv en cliquant sur ma photo) j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit, j'ai fait pas mal de bénévolat dans l'animation scientifique auprès du grand public et j'ai même monté mon agence d'animation et de communication scientifique. Et c'est cette dernière qui m'a conduite ici.  <br/><br/>
-	Mais chut! je te laisse découvrir ma page pour en savoir plus.</p>
+	Mais chut! je te laisse découvrir ma page pour en savoir plus.
+	</p>
 	</div>	
-	<br />
+	
 	
 	<h2 class= "dessous">Ce que j'ai fait</h2>
 	
@@ -52,7 +53,7 @@
 		</ul>
 		
 	<p> Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant. Ce monde, c'est l'infectiologie ! <br/>
-	Mes chouchoux: <strong>les virus<strong>, ils sont à l'origine d'un nombre incalculable de polémiques et leurs gènes sont comme un programme informatique: ils codent pour des fonctions dans un environnement bien précis. Leur objectif : se multiplier ! <br /><br />  Si tu as le courage, je t'ai mis des liens de mes pathogènes préférés. 
+	Mes chouchoux: <strong>les virus</strong>, ils sont à l'origine d'un nombre incalculable de polémiques et leurs gènes sont comme un programme informatique: ils codent pour des fonctions dans un environnement bien précis. Leur objectif : se multiplier ! <br /><br />  Si tu as le courage, je t'ai mis des liens de mes pathogènes préférés. 
 	<br /></p>
 
 	</div>
