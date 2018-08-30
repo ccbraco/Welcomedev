@@ -12,7 +12,7 @@
 		</div>
 		
 	  <nav>
-            <h3> Mes pathogènes préférés</h3>
+            <h4> Mes pathogènes préférés</h4>
 	    
 	    
 	    <ol>
