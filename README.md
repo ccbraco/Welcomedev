@@ -28,7 +28,7 @@
 
 	<p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
-		 Je crois que l'on peut dire de moi que je suis une <strong>"curieuse"<strong>. Comprendre et décortiquer le monde qui nous entoure c'est un peu une passion. 
+		 Je suis une jeune maman de 34 ans (oui je sais on ne dirait pas) et je crois que l'on peut dire de moi que je suis une <strong>curieuse</strong>. Comprendre et décortiquer le monde qui nous entoure, c'est un peu une passion. 
 		 Curieuse va bien bien avec le monde des sciences et donc j'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... 
 	<br /> comme tu vas t'en rendre compte au fur et à mesure de cette page, (tu peux télécharger mon cv en cliquant sur ma photo) j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit, j'ai fait pas mal de bénévolat dans l'animation scientifique auprès du grand public et j'ai même monté mon agence d'animation et de communication scientifique. Et c'est cette dernière qui m'a conduite ici.  <br/><br/>
 	Mais chut! je te laisse découvrir ma page pour en savoir plus.
@@ -37,7 +37,7 @@
 	
 	
 	<h2 class= "dessous">Ce que j'ai fait</h2>
-	
+	<p> je divise un peu mon parcours en deux voies mais en réalité, elles sont complètement imbriquées.
 	<div id= "container">
 	<div id= "aca">	
 		<h3> Mon parcours académique</h3>
@@ -65,10 +65,9 @@
 			<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
 			<li><span class="date">2007-2008</span>Bénévole <a href="http://www2.cnrs.fr/jeunes/25.htm" target="_blank"> Club CNRS</a>Science pop', Tours.</li>
 			<li><span class="date">2008-</span>Bénévole et administratrice de l'<a href="http://www.lespetitsdebrouillards.org/" target="_blank">Association les Petits Débrouillards</a>, Tours et Paris.</li>
-			<li><span class="date">2018-</span>Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank">STRIDULI</a>, Tours.</li>
 		</ul>
 		
-	<p>Au cours de mes études, j'ai toujours eu à coeur de rester ancrer dans la société ! Le monde de la recherche a un gros défaut, il nous coupe souvent de la réalité. On est bien à l'aise dans son labo, avec son sujet de recherche ultra mega précis mais parfois, on peut s'y perdre et on oublie que l'on doit beaucoup à nos contemporains. On ne communique pas les sciences auprès du grand public, on les questionne, les discute, on leur donne une place (essentielle) dans la société. En tant que citoyen, on participe au débat et en tant que chercheur, on peut apporter un peu de nos connaissances afin de faire avancer le débat. C'est pour ça que je me suis beaucoup investit auprès des petits débrouillards, cela m'a appris que les savoirs se trouvent partout et que les chercheurs n'ont pas le monopole de la vérité.</p>
+	<p>Au cours de mes études, j'ai toujours eu à coeur de rester ancrer dans la société ! Le monde de la recherche a un gros défaut, il te coupe souvent de la réalité. On est bien à l'aise dans son labo, avec son sujet de recherche ultra mega précis mais parfois, on peut s'y perdre et on oublie que l'on doit beaucoup à nos contemporains.<br /> <br />On ne communique pas les sciences auprès du grand public, on les questionne, les discute, on leur donne une place (essentielle) dans la société. En tant que citoyen, on participe au débat et en tant que chercheur, on peut apporter un peu de nos connaissances afin de faire avancer le débat. <br /><br />C'est pour ça que je me suis beaucoup investit auprès des petits débrouillards, cela m'a appris que les savoirs se trouvent partout et que les chercheurs n'ont pas le monopole de la vérité.</p>
 		</div>
 		</div>
 		
