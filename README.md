@@ -76,11 +76,12 @@
 	</div>	
 
 <footer>
-<p>me trouver sur les réseaux sociaux
-<a href="https://www.facebook.com/louis.faustine">facebook</a> 
-<a href="linkedin.com/in/faustine-louis-2981bab3">linkedin</a> 
-<a href="https://www.researchgate.net/profile/Faustine_Louis">reserchgate</a> 
-<a href="https://striduli.wixsite.com/striduli">striduli</a> 								</P>								     
+<p>
+<a href="https://www.facebook.com/louis.faustine"><img src="images/facebook.png" alt="facebook" title="facebook"/></a> 
+<a href="https://www.linkedin.com/in/faustine-louis-2981bab3/"><img src="images/linkedin.png" alt="linkedin" title="linkedin"/></a> 
+<a href="https://www.researchgate.net/profile/Faustine_Louis"><img src="images/researchgate.png" alt="" title="researchgate"/></a> 
+<a href="https://striduli.wixsite.com/striduli"><img src="images/striduli.png" alt="striduli" title="striduli"/></a> 						
+	</P>	
 </footer>
 	
 	</body>
