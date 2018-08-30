@@ -63,12 +63,12 @@ nav
 }
 #aca
 {
-    background-color:  #007a99;
+    background-color:  #248f8f;
 	border-radius: 7px;
 }
 #cit
 {
-   background-color:  #007a99;
+   background-color:  #00b38f;
 	border-radius: 7px;
 }
 /* mise en page des titres*/
@@ -93,7 +93,14 @@ h2
 	text-align: center;
 	border: 1px #99e6e6 groove;
 }
+
 h3
+{
+color: #00cccc;
+text-align: center;	
+}
+
+h4
 {
 color: #cc0000;
 text-align: center;	
