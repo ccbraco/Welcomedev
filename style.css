@@ -24,15 +24,16 @@ body
 	background-image: url("images/background.png");
 	background-attachment: fixed;
 }
+
 footer
 {
 	border-radius: 5px;
 	display: flex;
 	justify-content: space-between;
 	background-color:  white;
-	border: 1px #99e6e6 groove;
-	
+	border: 1px #99e6e6 groove;	
 }
+
 /* mise en page des sections*/
 #intro
 {
@@ -42,38 +43,52 @@ footer
 	opacity: 0.9;
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
-  
 	text-align: center;
 }
+
 nav
 {
     float: left;
     width: 150px;
-	background-image: url("images/biohazard.png");
+background-image: url("images/biohazard.png");
    
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
 }
-#quoi
-{
-    background-color:white;
-	margin-left: 170px;
-	border-radius: 7px;
-}
+
+
+
 #qui
 {
-    background-color:white;
+    background-color:#006666;
 	border-radius: 7px;
+	opacity: 0.95;
+}
+#quoi
+{
+    background-color:#006080;
+	margin-left: 170px;
+	border-radius: 7px;
+	opacity: 0.95;
 }
 #aca
 {
-    background-color:  #248f8f;
+    background-color:  #ccffcc;
 	border-radius: 7px;
+	border: 2px #001a00 groove;
 }
 #cit
 {
-   background-color:  #00b38f;
+   background-color:  #ccffcc;
 	border-radius: 7px;
+	border: 2px #001a00 groove;
+}
+#now
+{
+    background-color:#006666;
+	margin-left: 170px;
+	border-radius: 7px;
+	opacity: 0.95;
 }
 /* mise en page des titres*/
 h1
