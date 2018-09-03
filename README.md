@@ -67,7 +67,7 @@
 	Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant. Ce monde, c'est l'infectiologie ! <br/>
 	Mes chouchoux: <strong>les virus</strong>, ils sont à l'origine d'un nombre incalculable de polémiques et leurs gènes sont comme un programme informatique: ils codent pour des fonctions dans un environnement bien précis. Leur objectif : se multiplier ! <br /><br />   Mon travail de thèse consistait à comprendre comment un virus en particulier se multipliait dans les cellules de son hôte. On appelle ça de la mécanistique virale, ça demande pas mal d'imagination et beaucoup d'abstraction car on travaille avec de l'invisible et on ne peut comprendre qu'indirectement et par déduction comment le virus est codé ! Tu veux en savoir plus ? Ma thèse est <a href="https://www.theses.fr/2013TOUR4037" target="_blank">ici</a>. <br /><br />
 	Après, j'ai enchainé pendant 2 ans à l'Institut Pasteur en travaillant sur un virus de fièvre hémrorragique (non non pas ébola) considéré comme arme bioterroriste potentielle. <br /> Ses petit plus:
-	<img src="images/mosquito.png" class="floatleft" alt="moustique" />
+	<img src="images/mosquito.png" class="floatright" alt="moustique" />
 	<ul class= "plus">
 		<li> transmis par les moustiques</li>
 		<li> transmis par les fluides corporels</li>
@@ -88,7 +88,9 @@
 	
 	
 		
-	<p class= "cit">Au cours de mes études, j'ai toujours eu à coeur de rester ancrer dans la société ! Le monde de la recherche a un gros défaut, il te coupe souvent de la réalité. On est bien à l'aise dans son labo, avec son sujet de recherche ultra mega précis mais parfois, on peut s'y perdre et on oublie que l'on doit beaucoup à nos contemporains.<br /> <br />On ne communique pas les sciences auprès du grand public, on les questionne, les discute, on leur donne une place (essentielle) dans la société. En tant que citoyen, on participe au débat et en tant que chercheur, on peut apporter un peu de nos connaissances afin de faire avancer le débat. <br /><br />C'est pour ça que je me suis beaucoup investit auprès des petits débrouillards, cela m'a appris que les savoirs se trouvent partout et que les chercheurs n'ont pas le monopole de la vérité.</p>
+	<p class= "cit">Au cours de mes études, j'ai toujours eu à coeur de rester ancrer dans la société ! Le monde de la recherche a un gros défaut, il te coupe souvent de la réalité. On est bien à l'aise dans son labo, avec son sujet de recherche ultra mega précis mais parfois, on peut s'y perdre et on oublie que l'on doit beaucoup à nos contemporains.<br /> <br />On ne communique pas les sciences auprès du grand public, on les questionne, les discute, on leur donne une place (essentielle) dans la société. En tant que citoyen, on participe au débat et en tant que chercheur, on peut apporter un peu de nos connaissances afin de faire avancer le débat. <br /><br />C'est pour ça que je me suis beaucoup investit auprès des petits débrouillards, cela m'a appris que les savoirs se trouvent partout et que les chercheurs n'ont pas le monopole de la vérité.
+	<img src="images/petitsdeb.png"  alt="petits débrouillards" />
+	</p>
 		</div>
 		</div>
 		
