@@ -216,7 +216,7 @@ a:hover /* Apparence au survol des liens */
 
 /* video et images*/
 
-.video
+#video
 {
 float: left;
     width: 200px;
