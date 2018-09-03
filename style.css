@@ -165,6 +165,7 @@ p
 	font-size: 0.9em;
 	padding: 12px; /* Marge intérieure de 12px */
 	color: #003322;
+	text-align: center;
 }
 
 .cit
@@ -172,8 +173,15 @@ p
 	font-size: 0.9em;
 	padding: 12px; /* Marge intérieure de 12px */
 	color: #003322;
+	text-align: center;
 }
-
+.plus
+{
+	font-size: 0.9em;
+	color: #003322;
+	text-align: center;
+	
+}
 
 
 
