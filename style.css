@@ -218,7 +218,6 @@ a:hover /* Apparence au survol des liens */
 
 #video
 {
-float: left;
-    width: 200px;
+margin-left: 190px;
 }
 
