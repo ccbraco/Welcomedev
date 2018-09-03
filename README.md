@@ -53,7 +53,7 @@
 			<li><span class="date">2013-2016</span>Chercheur Contractuel à l'<a href="https://www.pasteur.fr/fr" target="_blank"> Institut Pasteur</a>, Paris.</li>
 			
 		</ul>
-		
+		</p>
 	</div>
 	
 	
