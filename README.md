@@ -89,6 +89,7 @@
 	
 		
 	<p class= "cit">Au cours de mes études, j'ai toujours eu à coeur de rester ancrer dans la société ! Le monde de la recherche a un gros défaut, il te coupe souvent de la réalité. On est bien à l'aise dans son labo, avec son sujet de recherche ultra mega précis mais parfois, on peut s'y perdre et on oublie que l'on doit beaucoup à nos contemporains.<br /> <br />On ne communique pas les sciences auprès du grand public, on les questionne, les discute, on leur donne une place (essentielle) dans la société. En tant que citoyen, on participe au débat et en tant que chercheur, on peut apporter un peu de nos connaissances afin de faire avancer le débat. <br /><br />C'est pour ça que je me suis beaucoup investit auprès des petits débrouillards, cela m'a appris que les savoirs se trouvent partout et que les chercheurs n'ont pas le monopole de la vérité.
+	<br /><br /><br />
 	<img src="images/petitsdeb.png"  alt="petits débrouillards" />
 	</p>
 		</div>
