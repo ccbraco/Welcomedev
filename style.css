@@ -138,7 +138,7 @@ h3 em
 
 /* mise en page du texte*/
 
-h1, h2, p
+h1, h2, p, ul, ol
 {font-family: Georgia, verdana, courier new, sans-serif;
 }
 
@@ -179,7 +179,6 @@ p
 {
 	font-size: 0.9em;
 	color: #003322;
-	text-align: center;
 	
 }
 
@@ -190,6 +189,7 @@ p
 .floatleft
 {
 	float: left;
+	border-radius: 5px;
 }
 .floatright
 {
