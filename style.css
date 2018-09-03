@@ -144,8 +144,8 @@ h1, h2, p
 
 ul, ol
 {
-color: black;
-font-size: 0.7em;	
+color: white;
+font-size: 0.8em;	
 }
 
 .date
@@ -187,6 +187,7 @@ p
 img
 {
 	border-radiux: 5px;
+	border: 2px #001a00 groove;
 }
 
 
