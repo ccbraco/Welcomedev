@@ -60,13 +60,13 @@ background-image: url("images/biohazard.png");
 
 #qui
 {
-    background-color:#006666;
+    background-color: #006666;
 	border-radius: 7px;
 	opacity: 0.95;
 }
 #quoi
 {
-    background-color:#006080;
+    background-color: #006080;
 	margin-left: 170px;
 	border-radius: 7px;
 	opacity: 0.95;
@@ -85,7 +85,7 @@ background-image: url("images/biohazard.png");
 }
 #now
 {
-    background-color:#006666;
+    background-color: #006666;
 	margin-left: 170px;
 	border-radius: 7px;
 	opacity: 0.95;
@@ -106,8 +106,8 @@ h2
 {
 	text-align: left;
 	border-radius: 5px;
-	color: #003399;
-	background-color:  #99e6e6;
+	color: #66ffcc;
+	background-color:  #00384d;
 	font-size: 13em;
 	text-align: center;
 	border: 1px #99e6e6 groove;
@@ -115,8 +115,9 @@ h2
 
 h3
 {
-color: #00cccc;
+color: #006644;
 text-align: center;	
+    text-decoration: underline;
 }
 
 h4
@@ -157,6 +158,7 @@ p
 {
 	font-size: 1em;
 	padding: 12px; /* Marge intérieure de 12px */
+	color: #b3ffe6;
 }
 
 
