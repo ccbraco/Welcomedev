@@ -159,6 +159,10 @@ p
 	padding: 12px; /* Marge intérieure de 12px */
 	color: #b3ffe6;
 }
+.intro
+{
+	color: #00384d;
+}
 .aca
 {
 	font-size: 0.9em;
