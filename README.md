@@ -11,7 +11,7 @@
 		N'ai pas peur, tu entre en zone contanminé mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais t'expliquer pourquoi je suis là ! </p>
 		</div>
 		
-	
+	<video src="biosafety.mp4" controls poster="biosafety.png" width="600"></video>
 	
 	<div id="qui">	
 		<h2>Qui je suis ?</h2>
