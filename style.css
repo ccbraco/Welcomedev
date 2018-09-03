@@ -195,6 +195,7 @@ p
 .floatright
 {
 	float: right;
+	border-radius: 5px;
 }
 .dessous
 {
@@ -206,7 +207,6 @@ p
 img
 {
 	border-radiux: 5px;
-	border: 2px #001a00 groove;
 }
 
 
