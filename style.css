@@ -182,7 +182,18 @@ p
 	color: #003322;
 	
 }
+a /* Liens par défaut (non survolés) */
+{
+   text-decoration: none;
+   color: #e65c00;
+   font-style: italic;
+}
 
+a:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: #ff66b3;
+}
 
 
 /* faire flotter une image*/
@@ -203,24 +214,10 @@ p
 }
 
 
+/* video et images*/
 
-
-a /* Liens par défaut (non survolés) */
+video
 {
-   text-decoration: none;
-   color: #e65c00;
-   font-style: italic;
+align-items: center;
 }
-
-a:hover /* Apparence au survol des liens */
-{
-   text-decoration: underline;
-   color: #ff66b3;
-}
-
-
-
-/* flexbox*/
-
-
 
