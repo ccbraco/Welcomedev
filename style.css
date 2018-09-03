@@ -218,6 +218,7 @@ a:hover /* Apparence au survol des liens */
 
 video
 {
-align-items: center;
+float: left;
+    width: 200px;
 }
 
