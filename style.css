@@ -49,7 +49,7 @@ footer
 nav
 {
     float: left;
-    width: 150px;
+    width: 170px;
 background-image: url("images/biohazard.png");
    opacity: 0.9;
 	border-radius: 7px;
@@ -67,7 +67,7 @@ background-image: url("images/biohazard.png");
 #quoi
 {
     background-color: #006080;
-	margin-left: 170px;
+	margin-left: 190px;
 	border-radius: 7px;
 	opacity: 0.95;
 }
