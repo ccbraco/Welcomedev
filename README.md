@@ -116,7 +116,7 @@
 	<br /> Honnêtement c'est un milieu que je ne connaissais pas du tout mais je me suis surprise à vouloir en savoir plus, à vouloir même y participer !<br /> 
 	
  Je me renseigne et prends le temps de la réflexion. J'ai envi d'en savoir plus sur le métier de développeur, si cela me permettra de trouver un emploi intérressant et stable ? Je reçue peu de temps après une proposition de formation de développeur par un organisme de Tours via pôle emploi ! 
-<br /><br /> Il fallait que j'aille jusqu'au bout de mes recherches, cette formation me conviendrait-elle ? Sans plus attendre je prend contact avec mon ami Richard afin de lui demander conseil. 
+<br /><br /> Il fallait que j'aille jusqu'au bout de mes recherches, cette formation me conviendrait-elle ? Sans plus attendre je prends contact avec mon ami Richard afin de lui demander conseil. 
 	"STOP ! me dit-il. Pas cette formation !  mais si le métier t'interesse tu peux regarder sur openclassroom, code combat et france IOI. "<br />
 <img src="images/informaticien.png" class="floatleft" alt="informaticien" />	Je suis bonne élève alors je suis les cours openclassroom, je me renseigne sur le métier et m'inscris à la réunion d'information du cefim. Et très franchement ça me plait, je dois me décrocher de mon ordi en hurlant "non non, encore une petite ligne (de code) " <br /><br />
 	<br />
@@ -134,5 +134,4 @@
 	</div>	
 	</footer>
 	
-</body>
-</html>
+
