@@ -103,7 +103,7 @@
 	
 	
 	<br /><br /><br />
-	 <a href="http://www.lespetitsdebrouillards.org/?rub=axes"><img src="images/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
+	 <a href="http://www.lespetitsdebrouillards.org/?rub=axes" target="_blank"><img src="images/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
 	<br /><h4> Nos 3 axes</h4>
 	</p>
 		</div>
@@ -112,7 +112,7 @@
 	<div id="dev">	
 		<h2> Ce que je veux faire </h2>
 
-	<p> Figures toi que comme les virus, j'évolue ! <br /><br /> Depuis plusieurs mois j'ai monté mon agence d'animation scientifique  me permettant de me faire rémunérer lors de mes interventions. <br /> Pour monter et lancer tout ça  je me suis installée à <a href="http://www.pepinieres-agglotours.fr/#pepinieres">la pépinière des Sanitas </a>. J'y ai rencontré plein de gens super sympas et on m'a invité au lancement d'une <a href="https://openagenda.com/paloaltours/events/hitbox-makers-48h-pour-creer-un-jeu">game jam</a> Tours.
+	<p> Figures toi que comme les virus, j'évolue ! <br /><br /> Depuis plusieurs mois j'ai monté mon agence d'animation scientifique  me permettant de me faire rémunérer lors de mes interventions. <br /> Pour monter et lancer tout ça  je me suis installée à <a href="http://www.pepinieres-agglotours.fr/#pepinieres" target="_blank">la pépinière des Sanitas </a>. J'y ai rencontré plein de gens super sympas et on m'a invité au lancement d'une <a href="https://openagenda.com/paloaltours/events/hitbox-makers-48h-pour-creer-un-jeu" target="_blank">game jam</a> Tours.
 	<br /> Honnêtement c'est un milieu que je ne connaissais pas du tout mais je me suis surprise à vouloir en savoir plus, à vouloir même y participer !<br /> 
 	
  Je me renseigne et prends le temps de la réflexion. J'ai envi d'en savoir plus sur le métier de développeur, si cela me permettra de trouver un emploi intérressant et stable ? Je reçue peu de temps après une proposition de formation de développeur par un organisme de Tours via pôle emploi ! 
