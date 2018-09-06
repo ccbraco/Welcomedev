@@ -82,10 +82,8 @@
 		<li> transmis par les fluides corporels</li>
 		<li> transmis par l'air </li>
 		<li> particulièrement tueur chez les bébés animaux</li>
-	</ul>
-Mon rôle c'était de voir si ce virus pouvait être transmis par les moustiques sur le territoire français. Bon ce virus peut se la jouer un  Ebola et est considéré comme une arme bioterroriste potentielle, alors du coup c'était un peu stress. 
- <br /><br />
-	</p>
+	</ul></p>
+<p>Mon rôle c'était de voir si ce virus pouvait être transmis par les moustiques sur le territoire français. Bon ce virus peut se la jouer un  Ebola et est considéré comme une arme bioterroriste potentielle, alors du coup c'était un peu stress. </p>
 
 	</div>
 	
@@ -105,7 +103,7 @@ Mon rôle c'était de voir si ce virus pouvait être transmis par les moustiques
 	
 	
 	<br /><br /><br />
-	<a href="http://www.lespetitsdebrouillards.org/?rub=axes"><img src="images/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
+	<h3> Nos 3 axes</h3> <a href="http://www.lespetitsdebrouillards.org/?rub=axes"><img src="images/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
 	
 	</p>
 		</div>
