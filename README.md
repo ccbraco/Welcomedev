@@ -64,7 +64,7 @@
 	<div id= "aca">	
 		<h3> Mon parcours académique</h3>
 		
-	<p class= "aca"> 
+	<p> 
 	<img src="images/funvirus.png" class="floatleft" alt="fun virus" />
 	Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant. Ce monde, <em>c'est l'infectiologie </em>!  <br /><br />
 	
@@ -95,7 +95,7 @@
 	
 	
 		
-	<p class= "cit">Je ne sais jamais vraiment comment présenter cette partie. J'aime bien communiquer avec les autres et je trouves que l'on exclut vachement les citoyens des questions scientifiques.  <br /><br />
+	<p>Je ne sais jamais vraiment comment présenter cette partie. J'aime bien communiquer avec les autres et je trouves que l'on exclut vachement les citoyens des questions scientifiques.  <br /><br />
 	Il existe une sorte de condescendance envers les non initiés aux sciences que l'on ne considère pas comme compétents... Je dois avouer que j'étais un peu comme ça quand j'ai commencé à aller vers la médiation scientifique, avec les mêmes préjugés. Puis j'ai renocntré des gens de tous les horizons et j'ai compris une chose importante, que nous avons tous nos façons de penser, la mienne étant plus académique, mais que tous le monde se questionne, pense, réfléchis et est <em>légitime </em>.  <br /><br />
 	Les chercheurs n'ont pas le monopole de la vérité, ils apportent un éclairage, peuvent expliquer des phénomènes afin de faciliter la réflexion de tous mais ils sont avant tout citoyen et participent alors aux débats comme vous et moi. <br /><br />
 	Les petits débrouillards, c'est une aventure sociale, humaine, personnelle et professionelle. Nos projets sont tournés vers le numérique, la transition écologique et le vivre ensemble ! 
