@@ -103,8 +103,8 @@
 	
 	
 	<br /><br /><br />
-	<h3> Nos 3 axes</h3> <a href="http://www.lespetitsdebrouillards.org/?rub=axes"><img src="images/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
-	
+	 <a href="http://www.lespetitsdebrouillards.org/?rub=axes"><img src="images/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
+	<br /><br /><h3> Nos 3 axes</h3>
 	</p>
 		</div>
 		</div>
