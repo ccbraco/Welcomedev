@@ -60,7 +60,7 @@ background-image: url("images/biohazard.png");
 
 #qui
 {
-    background-color: #006666;
+    background-color: #99ffff;
 	border-radius: 7px;
 	
 }
@@ -76,12 +76,14 @@ background-image: url("images/biohazard.png");
     background-color:  white;
 	border-radius: 7px;
 	border: 2px #001a00 groove;
+	font-family: Georgia, verdana, courier new, sans-serif;
 }
 #cit
 {
    background-color:  white;
 	border-radius: 7px;
 	border: 2px #001a00 groove;
+	font-family: Georgia, verdana, courier new, sans-serif;
 }
 #dev
 {
@@ -157,7 +159,7 @@ p
 {
 	font-size: 1em;
 	padding: 12px; /* Marge intérieure de 12px */
-	color: #b3ffe6;
+	color: #004080;
 	text-align: center;
 }
 .intro
