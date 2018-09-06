@@ -104,7 +104,7 @@
 	
 	<br /><br /><br />
 	 <a href="http://www.lespetitsdebrouillards.org/?rub=axes" target="_blank"><img src="images/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
-	<br /><h4> Nos 3 axes</h4>
+	<br />                   Nos 3 axes</p>
 	</p>
 		</div>
 		</div>
