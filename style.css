@@ -51,7 +51,7 @@ nav
     float: left;
     width: 170px;
 background-image: url("images/biohazard.png");
-   opacity: 0.9;
+   opacity: 0.8;
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
 }
