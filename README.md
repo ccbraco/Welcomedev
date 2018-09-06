@@ -105,7 +105,7 @@ Mon rôle c'était de voir si ce virus pouvait être transmis par les moustiques
 	
 	
 	<br /><br /><br />
-	<a href="http://www.lespetitsdebrouillards.org/?rub=axes"><img src="iimages/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
+	<a href="http://www.lespetitsdebrouillards.org/?rub=axes"><img src="images/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
 	
 	</p>
 		</div>
@@ -114,11 +114,15 @@ Mon rôle c'était de voir si ce virus pouvait être transmis par les moustiques
 	<div id="dev">	
 		<h2> Ce que je veux faire </h2>
 
-	<p> Bon tout ça c'est bien joli mais ppour quoi je suis là moi ??  Et bien figure toi que comme les virus, j'évolue ! Depuis plusieurs mois j'ai monté mon agence d'animation scientifique. Cela me donnait un statut officiel et me permettait de me faire rémunérer lors de mes interventions. <br /> Pour monter et lancer tout ça  je me suis installée à la pépinière des sanitas (lien). J'y ai rencontré Fabien Vidal (lien) qui m'a invité au lancement d'une game jam à Tours. <br />Curieuse comme je suis, je me suis intéressées de plus en plus au domaine et je reçue alors une proposition de formation de développeur !  (un signe certain dirait) <br /><br /> Il fallait que j'aille jusqu'au bout de mes recherches, cette formation me conviendrait-elle ? Sans plus attendre je prend contact avec mon ami Richard afin de lui demander conseil. 
+	<p> Figures toi que comme les virus, j'évolue ! <br /><br /> Depuis plusieurs mois j'ai monté mon agence d'animation scientifique  me permettant de me faire rémunérer lors de mes interventions. <br /> Pour monter et lancer tout ça  je me suis installée à <a href="http://www.pepinieres-agglotours.fr/#pepinieres">la pépinière des Sanitas </a>. J'y ai rencontré plein de gens super sympas et on m'a invité au lancement d'une <a href="https://openagenda.com/paloaltours/events/hitbox-makers-48h-pour-creer-un-jeu">game jam</a> Tours.
+	<br /> Honnêtement c'est un milieu que je ne connaissais pas du tout mais je me suis surprise à vouloir en savoir plus, à vouloir même y participer !<br /> 
+	
+ Je me renseigne et prends le temps de la réflexion. J'ai envi d'en savoir plus sur le métier de développeur, si cela me permettra de trouver un emploi intérressant et stable ? Je reçue peu de temps après une proposition de formation de développeur par un organisme de Tours via pôle emploi ! 
+<br /><br /> Il fallait que j'aille jusqu'au bout de mes recherches, cette formation me conviendrait-elle ? Sans plus attendre je prend contact avec mon ami Richard afin de lui demander conseil. 
 	"STOP ! me dit-il. Pas cette formation !  mais si le métier t'interesse tu peux regarder sur openclassroom, code combat et france IOI. "<br />
-	Je suis bonne élève alors je suis les cours openclassroom, je me renseigne sur le métier et m'inscris à la réunion d'information du cefim. Et très franchement ça me plait, mon conjoint me décroche de mon ordi et moi hurlant "non non, encore une petite ligne (de code) et j'arrête." <br /><br />
+	Je suis bonne élève alors je suis les cours openclassroom, je me renseigne sur le métier et m'inscris à la réunion d'information du cefim. Et très franchement ça me plait, je dois me décrocher de mon ordi en hurlant "non non, encore une petite ligne (de code) " <br /><br />
 	<br />
-	Alors me voilà ! oui, mon sens artistique est particulier et ma page web un peu simpliste mais je vais apprendre à faire mieux avec vous, promis !
+	Alors me voilà ! Ma page web un peu simpliste et ma vision artistique est spéciale mais je vais apprendre à faire mieux avec vous, promis !
 	</p>
 	</div>	
 
