@@ -8,7 +8,7 @@
 	<div id="intro">
 	
 		<p class= "intro"> Bienvenue sur ma page de présentation de..., et bien de moi même ! <br />
-		N'ai pas peur, tu entre en zone contanminé mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais t'expliquer pourquoi je suis là ! </p>
+		N'ai pas peur, tu entre en zone contanminée mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais t'expliquer pourquoi je suis là ! </p>
 		</div>
 		
 	<div id= "video">
@@ -16,19 +16,19 @@
 	</div>
 	
 	<div id="qui">	
-		<h2>Qui je suis ?</h2>
+		<h2>Qui  je  suis ?</h2>
 
 	<p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
-		 Je suis une jeune maman de 34 ans (oui je sais on ne dirait pas) et je crois que l'on peut dire de moi que je suis une <strong>curieuse</strong>. Comprendre et décortiquer le monde qui nous entoure, c'est un peu une passion. 
-		 Curieuse va bien bien avec le monde des sciences et donc j'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... 
-	<br /> comme tu vas t'en rendre compte au fur et à mesure de cette page, (tu peux télécharger mon cv en cliquant sur ma photo) j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit, j'ai fait pas mal de bénévolat dans l'animation scientifique auprès du grand public et j'ai même monté mon agence d'animation et de communication scientifique. Et c'est cette dernière qui m'a conduite ici.  <br/><br/>
-	Mais chut! je te laisse découvrir ma page pour en savoir plus.
+		 Je suis un peu comme tout le monde, plein de choses à la fois ! j'ai une petites filles de 2 ans, je suis curieuse, dynamique, sympa, un peu têtue... bref c'est pas facile d'essayer de se décrire.  <br /><br />
+	 Comprendre et décortiquer le monde qui nous entoure, c'est un peu une passion, cette curiosité va bien bien avec le monde des sciences et donc j'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... 
+	<br /><br /> comme tu vas t'en rendre compte au fur et à mesure de cette page, <strong>(clique sur moi pour télécharger)</strong> j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit, j'ai fait pas mal de bénévolat dans l'animation scientifique auprès du grand public et j'ai même monté mon agence d'animation et de communication scientifique. Et c'est cette dernière qui m'a conduite ici.  <br/><br/>
+	Mais chut! Il va falloir continuer pour en savoir plus.
 	</p>
 	</div>	
 	
 	
-	<h2 class= "dessous">Ce que j'ai fait</h2>
+	<h2 class= "dessous">Ce  que j'ai  fait</h2>
 	
 	
 	  <nav>
@@ -44,7 +44,7 @@
         </nav>
 	
 	<div id= "quoi">
-	<p> je divise mon parcours en deux parties mais en réalité, elles sont complètement imbriquées (je voulais montrer que je savais faire des listes ;-P ). 
+	<p> 
 	<ul>
 		<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
 		<li><span class="date">2006-2008</span> Master d'Infectiologie l'<a href="https://sciences.univ-tours.fr/version-francaise/bienvenue-sur-le-site-de-la-faculte-de-sciences-et-techniques-159428.kjsp" target="_blank"> L'université des sciences et techniques</a>, Tours.</li>
@@ -66,10 +66,14 @@
 		
 	<p class= "aca"> 
 	<img src="images/funvirus.png" class="floatleft" alt="fun virus" />
-	Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant. Ce monde, c'est l'infectiologie ! <br/>
-	Mes chouchoux: <strong>les virus</strong>, ils sont à l'origine d'un nombre incalculable de polémiques et leurs gènes sont comme un programme informatique: ils codent pour des fonctions dans un environnement bien précis. Leur objectif : se multiplier ! <br /><br />   Mon travail de thèse consistait à comprendre comment un virus en particulier se multipliait dans les cellules de son hôte. On appelle ça de la mécanistique virale, ça demande pas mal d'imagination et beaucoup d'abstraction car on travaille avec de l'invisible et on ne peut comprendre qu'indirectement et par déduction comment le virus est codé ! Tu veux en savoir plus ? Ma thèse est <a href="https://www.theses.fr/2013TOUR4037" target="_blank">ici</a>. <br /><br />
-	Après, j'ai enchainé pendant 2 ans à l'Institut Pasteur en travaillant sur un virus de fièvre hémrorragique (non non pas ébola) considéré comme arme bioterroriste potentielle. <br /> Ses petit plus:
+	Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant. Ce monde, <em>c'est l'infectiologie </em>!  <br /><br />
 	
+	Mes chouchoux: <strong>les virus</strong>, ils sont à l'origine d'un nombre incalculable de polémiques et leurs gènes sont comme un programme informatique: ils codent pour des fonctions dans un environnement bien précis. Leur objectif : se multiplier ! <br /><br />  
+	
+	<em>Mon travail de thèse </em> a consisté à décortiquer le mécanisme utiliser par un virus d'insecte pour se multiplier dans les cellules de son hôte. Bon j'imagine que ça ne te parle pas trop mais en gros ça demande pas mal d'imagination et beaucoup d'abstraction. On travaille avec de l'invisible donc autant te dire que tu te torture les méninges pour tenter de comprendre comment ça marche ! Quelle est la fonction de ce gène, pour quoi il code ? A quoi ça sert ?  
+	 <br /><br /> Je sens que tu veux en savoir plus ! Ma thèse est <a href="https://www.theses.fr/2013TOUR4037" target="_blank">ici</a>. <br /><br />
+	Après, j'ai enchainé pendant 2 ans à l'Institut Pasteur en travaillant sur un virus tueur de bébé animaux. Si tu as bien regardé la vidéo, je travaillais en LVL3 (1:10) <br /> 
+	Ses petit plus:
 	<br />
 	<img src="images/mosquito.png" class="floatright" alt="moustique" />
 	
@@ -79,7 +83,8 @@
 		<li> transmis par l'air </li>
 		<li> particulièrement tueur chez les bébés animaux</li>
 	</ul>
-	
+Mon rôle c'était de voir si ce virus pouvait être transmis par les moustiques sur le territoire français. Bon ce virus peut se la jouer un  Ebola et est considéré comme une arme bioterroriste potentielle, alors du coup c'était un peu stress. 
+ <br /><br />
 	</p>
 
 	</div>
@@ -92,9 +97,16 @@
 	
 	
 		
-	<p class= "cit">Au cours de mes études, j'ai toujours eu à coeur de rester ancrer dans la société ! Le monde de la recherche a un gros défaut, il te coupe souvent de la réalité. On est bien à l'aise dans son labo, avec son sujet de recherche ultra mega précis mais parfois, on peut s'y perdre et on oublie que l'on doit beaucoup à nos contemporains.<br /> <br />On ne communique pas les sciences auprès du grand public, on les questionne, les discute, on leur donne une place (essentielle) dans la société. En tant que citoyen, on participe au débat et en tant que chercheur, on peut apporter un peu de nos connaissances afin de faire avancer le débat. <br /><br />C'est pour ça que je me suis beaucoup investit auprès des petits débrouillards, cela m'a appris que les savoirs se trouvent partout et que les chercheurs n'ont pas le monopole de la vérité.
+	<p class= "cit">Je ne sais jamais vraiment comment présenter cette partie. J'aime bien communiquer avec les autres et je trouves que l'on exclut vachement les citoyens des questions scientifiques.  <br /><br />
+	Il existe une sorte de condescendance envers les non initiés aux sciences que l'on ne considère pas comme compétents... Je dois avouer que j'étais un peu comme ça quand j'ai commencé à aller vers la médiation scientifique, avec les mêmes préjugés. Puis j'ai renocntré des gens de tous les horizons et j'ai compris une chose importante, que nous avons tous nos façons de penser, la mienne étant plus académique, mais que tous le monde se questionne, pense, réfléchis et est <em>légitime </em>.  <br /><br />
+	Les chercheurs n'ont pas le monopole de la vérité, ils apportent un éclairage, peuvent expliquer des phénomènes afin de faciliter la réflexion de tous mais ils sont avant tout citoyen et participent alors aux débats comme vous et moi. <br /><br />
+	Les petits débrouillards, c'est une aventure sociale, humaine, personnelle et professionelle. Nos projets sont tournés vers le numérique, la transition écologique et le vivre ensemble ! 
+	
+	
+	
 	<br /><br /><br />
-	<img src="images/petitsdeb.png"  alt="petits débrouillards" />
+	<a href="http://www.lespetitsdebrouillards.org/?rub=axes"><img src="iimages/petitsdeb.png" alt="petits débrouillards" title="nos 3 axes"/></a>
+	
 	</p>
 		</div>
 		</div>
