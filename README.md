@@ -127,10 +127,10 @@
 	<footer>
 	<div id= "reseaux">
 	<p> Me suivre sur les réseaux sociaux </p>
-	<figure><a href="https://www.facebook.com/louis.faustine"><img src="images/facebook.png" alt="facebook" title="facebook"/></a> </figure>
-	<figure><a href="https://www.linkedin.com/in/faustine-louis-2981bab3/"><img src="images/linkedin.png" alt="linkedin" title="linkedin"/></a> </figure>
-	<figure><a href="https://www.researchgate.net/profile/Faustine_Louis"><img src="images/researchgate.png" alt="" title="researchgate"/></a></figure> 
-	<figure><a href="https://striduli.wixsite.com/striduli"><img src="images/striduli.png" alt="striduli" title="striduli"/></a> 		</figure>				
+	<figure><a href="https://www.facebook.com/louis.faustine" target="_blank"><img src="images/facebook.png" alt="facebook" title="facebook"/></a> </figure>
+	<figure><a href="https://www.linkedin.com/in/faustine-louis-2981bab3/" target="_blank"><img src="images/linkedin.png" alt="linkedin" title="linkedin"/></a> </figure>
+	<figure><a href="https://www.researchgate.net/profile/Faustine_Louis" target="_blank"><img src="images/researchgate.png" alt="" title="researchgate"/></a></figure> 
+	<figure><a href="https://striduli.wixsite.com/striduli" target="_blank"><img src="images/striduli.png" alt="striduli" title="striduli"/></a> 		</figure>				
 	</div>	
 	</footer>
 	
