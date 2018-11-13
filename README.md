@@ -6,12 +6,13 @@
 
 <body>
 <nav>
-	<h4> Mes pathogènes préférés</h4>
 		<ol>
             		<li><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></li>
              		<li><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></li>
-            		<li><a href="https://www.cdc.gov/tetanus/index.html" target="_blank">La bactérie du tetatnos (qui te plie en deux)</a></li>
-			<li><a href="https://www.cdc.gov/leprosy/" target="_blank">La bactérie de la lèpre (tu perds des bouts)</a></li>
+            		<li><a href="images/CV FL.pdf" target="_blank">Mon CV</a>
+			</li>
+			<li><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a>
+				</li>
          	   </ol>
  </nav>	
 	
