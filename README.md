@@ -4,12 +4,19 @@
 			<link rel="stylesheet" href="style.css" />
 	
 
-	<body>
+<body>
 	<section id="intro">
-	
 		<p class= "intro"> Bienvenue sur ma page de présentation de..., et bien de moi même ! <br />
 		N'ai pas peur, tu entre en zone contanminée mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais t'expliquer pourquoi je suis là ! </p>
-		
+		<nav>
+         	   <h4> Mes pathogènes préférés</h4>
+	    	    <ol>
+            		<li><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></li>
+             		<li><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></li>
+            		<li><a href="https://www.cdc.gov/tetanus/index.html" target="_blank">La bactérie du tetatnos (qui te plie en deux)</a></li>
+			<li><a href="https://www.cdc.gov/leprosy/" target="_blank">La bactérie de la lèpre (tu perds des bouts)</a></li>
+         	   </ol>
+        	</nav>	
 	
 	<div id="qui">	
 		<h2>Qui  je  suis ?</h2>
@@ -32,17 +39,7 @@
 	<h2 class= "dessous">Ce  que j'ai  fait</h2>
 	
 	
-	  <nav>
-            <h4> Mes pathogènes préférés</h4>
-	    
-	    
-	    <ol>
-                <li><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></li>
-                <li><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></li>
-                <li><a href="https://www.cdc.gov/tetanus/index.html" target="_blank">La bactérie du tetatnos (qui te plie en deux)</a></li>
-		<li><a href="https://www.cdc.gov/leprosy/" target="_blank">La bactérie de la lèpre (tu perds des bouts)</a></li>
-            </ol>
-        </nav>
+	  
 	
 	<div id= "quoi">
 	<p> 
