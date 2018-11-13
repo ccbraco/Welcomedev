@@ -1,1 +1,8 @@
-
+/*structure de la page : position des sections*/
+nav
+{
+    display: inline-block;
+    width: 150px;
+    border: 1px solid black;
+    vertical-align: top; 
+}
