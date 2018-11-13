@@ -1,7 +1,7 @@
 /*structure de la page : position des sections*/
 header
 {
-	display: flex;
+	
 	background-color:  #007a99;
 	flex-wrap: wrap;
 	align-items: center;
