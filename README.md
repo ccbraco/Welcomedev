@@ -16,11 +16,11 @@
  </nav>	
   <section>
 	  <aside>
-                <h1>À propos de l'auteur</h1>
+                <h1>Qui je suis ?</h1>
                 <p>C'est moi, Zozor ! Je suis né un 23 novembre 2005.</p>
             </aside>
             <article id="description">
-		<p>
+		    <p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
 		 Je suis un peu comme tout le monde, plein de choses à la fois ! j'ai une petites filles de 2 ans, je suis curieuse, dynamique, sympa, un peu têtue... bref c'est pas facile d'essayer de se décrire.  <br /><br />
 	 Comprendre et décortiquer le monde qui nous entoure, c'est un peu une passion, cette curiosité va bien bien avec le monde des sciences et donc j'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... 
@@ -28,6 +28,13 @@
 	Mais chut ! Il va falloir continuer pour en savoir plus.
 	</p>
 	</article>
+	   <aside>
+                <h1>vidéo</h1>
+            </aside>
+	   <aside>
+                <h1>vidéo</h1>
+            </aside>
+	  
 	</section>
 	
 
