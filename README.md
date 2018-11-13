@@ -5,21 +5,24 @@
 	
 
 <body>
-<nav>
-		<ol>
+	<div id="container">
+		<nav>
+			<ol>
             		<ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></ul>
              		<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></ul>
             		<ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul>
 			<ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a>
 				</ul>
-         	   </ol>
- </nav>	
-  <section>
-	  <aside>
+         		   </ol>
+		 </nav>	
+		 <aside>
                 <h1>Qui je suis ?</h1>
                 <p>C'est moi, Zozor ! Je suis né un 23 novembre 2005.</p>
             </aside>
-            <article id="description">
+	
+ 	 <div id="main">
+	 
+            <div id="description">
 		    <p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
 		 Je suis un peu comme tout le monde, plein de choses à la fois ! j'ai une petites filles de 2 ans, je suis curieuse, dynamique, sympa, un peu têtue... bref c'est pas facile d'essayer de se décrire.  <br /><br />
@@ -27,15 +30,14 @@
 	<br /><br /> Comme tu vas t'en rendre compte au fur et à mesure de cette page, j'ai choisi un parcours universitaire tourné vers le monde de l'infiniment petit, j'ai fait pas mal de bénévolat dans l'animation scientifique auprès du grand public et j'ai même monté mon agence d'animation et de communication scientifique. Et c'est cette dernière qui m'a conduite ici.  <br/><br/>
 	Mais chut ! Il va falloir continuer pour en savoir plus.
 	</p>
-	</article>
-	   <aside id= "video">
+	</div>
+	
+	   <div id= "video">
                 <h1>vidéo1</h1>
-            </aside>
-	   <aside>
-                <h1>vidéo2</h1>
-            </aside>
-	  
-	</section>
+            </div>
+	   
+	  </div>
+	
 	
 
 
