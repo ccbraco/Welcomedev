@@ -15,12 +15,8 @@
          	   </ol>
  </nav>	
 	
-<section id="intro">
-		<p class= "intro"> Bienvenue sur ma page de présentation de..., et bien de moi même ! <br />
-		N'ai pas peur, tu entre en zone contanminée mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais t'expliquer pourquoi je suis là ! </p>
-		
 	
-	<section id="qui">	
+<section id="qui">	
 		<h2>Qui  je  suis ?</h2>
 
 		<article id="description">
@@ -125,7 +121,7 @@
 	Alors me voilà ! Ma page web un peu simpliste et ma vision artistique est spéciale mais je vais apprendre à faire mieux avec vous, promis !
 	</p>
 	</div>	
-</section>
+
 	<footer>
 	<div id= "reseaux">
 	<p> Me suivre sur les réseaux sociaux </p>
