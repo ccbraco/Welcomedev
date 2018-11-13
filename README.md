@@ -29,10 +29,10 @@
 	</p>
 	</article>
 	   <aside id= "video">
-                <h1>vidéo</h1>
+                <h1>vidéo1</h1>
             </aside>
 	   <aside>
-                <h1>vidéo</h1>
+                <h1>vidéo2</h1>
             </aside>
 	  
 	</section>
