@@ -1,6 +1,7 @@
 /*structure de la page : position des sections*/
 nav
 {
+    position: fixed;
     float: left;
     width: 150px;
     border: 1px solid black;
@@ -13,7 +14,8 @@ section
 }
 #video
 {
-    float: right;
-    width: 150px;
-    border: 1px solid black;
+    position: absolute;
+    right: 0px;
+    top: 0px;
 }
+
