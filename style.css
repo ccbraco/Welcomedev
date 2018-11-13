@@ -37,6 +37,10 @@ footer
 /* mise en page des sections*/
 #intro
 {
+	  display: inline-block;    
+    border: 1px solid blue;
+    vertical-align: top;
+	
 	font-size: 1.2em;
 	background-color: #b3ffff;
 	color: white;
