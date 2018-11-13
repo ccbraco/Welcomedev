@@ -5,43 +5,47 @@
 	
 
 <body>
-	<section id="intro">
-		<p class= "intro"> Bienvenue sur ma page de présentation de..., et bien de moi même ! <br />
-		N'ai pas peur, tu entre en zone contanminée mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais t'expliquer pourquoi je suis là ! </p>
-		<nav>
-         	   <h4> Mes pathogènes préférés</h4>
-	    	    <ol>
+<nav>
+	<h4> Mes pathogènes préférés</h4>
+		<ol>
             		<li><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></li>
              		<li><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></li>
             		<li><a href="https://www.cdc.gov/tetanus/index.html" target="_blank">La bactérie du tetatnos (qui te plie en deux)</a></li>
 			<li><a href="https://www.cdc.gov/leprosy/" target="_blank">La bactérie de la lèpre (tu perds des bouts)</a></li>
          	   </ol>
-        	</nav>	
+ </nav>	
 	
-	<div id="qui">	
+<section id="intro">
+		<p class= "intro"> Bienvenue sur ma page de présentation de..., et bien de moi même ! <br />
+		N'ai pas peur, tu entre en zone contanminée mais si tu prends tes précautions, tout devrait bien se passer. Enfiles ta combinaison de protection, ton masque et suis moi, je vais t'expliquer pourquoi je suis là ! </p>
+		
+	
+	<section id="qui">	
 		<h2>Qui  je  suis ?</h2>
 
-	<p>
+		<article id="description">
+		<p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
 		 Je suis un peu comme tout le monde, plein de choses à la fois ! j'ai une petites filles de 2 ans, je suis curieuse, dynamique, sympa, un peu têtue... bref c'est pas facile d'essayer de se décrire.  <br /><br />
 	 Comprendre et décortiquer le monde qui nous entoure, c'est un peu une passion, cette curiosité va bien bien avec le monde des sciences et donc j'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... 
 	<br /><br /> Comme tu vas t'en rendre compte au fur et à mesure de cette page, j'ai choisi un parcours universitaire tourné vers le monde de l'infiniment petit, j'ai fait pas mal de bénévolat dans l'animation scientifique auprès du grand public et j'ai même monté mon agence d'animation et de communication scientifique. Et c'est cette dernière qui m'a conduite ici.  <br/><br/>
 	Mais chut ! Il va falloir continuer pour en savoir plus.
 	</p>
-	</div>	
-	
-	
+	</article>
 		
-	<section id= "video">
+	<aside id= "video">
 	<video src="images/Biosafety.webmsd.webm" controls poster="images/biosafety.png" width="600"></video>
-	</section>
+	</aside>
+	<aside id= "video">
+	<video src="images/Biosafety.webmsd.webm" controls poster="images/biosafety.png" width="600"></video>
+	</aside>
+	</section>	
+	
+	
 	
 	<h2 class= "dessous">Ce  que j'ai  fait</h2>
 	
-	
-	  
-	
-	<div id= "quoi">
+	<section id= "quoi">
 	<p> 
 	<ul>
 		<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
@@ -54,7 +58,7 @@
 			<li><span class="date">2018</span> Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank"> STRIDULI</a>, Tours.</li>
 		</ul>
 		</p>
-	</div>
+	</section>
 	
 	
 	
