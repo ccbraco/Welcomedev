@@ -11,3 +11,9 @@ section
     margin-left: 170px;
     border: 1px solid blue;
 }
+#video
+{
+    float: right;
+    width: 150px;
+    border: 1px solid black;
+}
