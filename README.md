@@ -7,12 +7,11 @@
 <body>
 <nav>
 		<ol>
-            		<li><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></li>
-             		<li><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></li>
-            		<li><a href="images/CV FL.pdf" target="_blank">Mon CV</a>
-			</li>
-			<li><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a>
-				</li>
+            		<ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></ul>
+             		<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></ul>
+            		<ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul>
+			<ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a>
+				</ul>
          	   </ol>
  </nav>	
 	
