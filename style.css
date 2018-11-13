@@ -1,17 +1,13 @@
 /*structure de la page : position des sections*/
 nav
 {
-     float: left;
-	display: inline-block;
+    float: left;
     width: 150px;
     border: 1px solid black;
-    vertical-align: top; 
 }
+
 section
 {
-	 margin-left: 170px;
-    display: inline-block;    
+    margin-left: 170px;
     border: 1px solid blue;
-    vertical-align: top;
-	
 }
