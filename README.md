@@ -16,7 +16,7 @@
          	   </ol>
  </nav>	
 	
-	
+<section>	
 <section id="qui">	
 		<h2>Qui  je  suis ?</h2>
 
@@ -122,6 +122,10 @@
 	Alors me voilà ! Ma page web un peu simpliste et ma vision artistique est spéciale mais je vais apprendre à faire mieux avec vous, promis !
 	</p>
 	</div>	
+</section>
+
+
+
 
 	<footer>
 	<div id= "reseaux">
