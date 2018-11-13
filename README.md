@@ -35,7 +35,7 @@
 	   <div id= "video">
                 <h1>vidéo1</h1>
             </div>
-	   <div class="spacer"></div>
+	  
 	  </div>
 	
 	
