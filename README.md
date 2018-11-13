@@ -28,7 +28,7 @@
 	Mais chut ! Il va falloir continuer pour en savoir plus.
 	</p>
 	</article>
-	   <aside>
+	   <aside id= "video">
                 <h1>vidéo</h1>
             </aside>
 	   <aside>
