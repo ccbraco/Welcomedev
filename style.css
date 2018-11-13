@@ -6,3 +6,10 @@ nav
     border: 1px solid black;
     vertical-align: top; 
 }
+#qui
+{
+    display: inline-block;    
+    border: 1px solid blue;
+    vertical-align: top;
+	
+}
