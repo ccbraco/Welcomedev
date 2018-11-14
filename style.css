@@ -37,6 +37,10 @@ justify-content: space-between;
 justify-content: space-around;
 	align-items: center;
 }
+
+
+
+
 /* mise en page des sections*/
 header
 {
@@ -53,10 +57,15 @@ nav
 }
 footer
 {
-border-radius: 5px;
-background-color:  yellow;
-border: 1px #99e6e6 groove;	
+	border: 1px solid black;
+	border-radius: 7px;
+	box-shadow: 6px 6px 0px #2F4F4F;
+	background-color:  white;	
 }
+
+
+
+
 /* faire flotter une image*/
 
 .floatleft
