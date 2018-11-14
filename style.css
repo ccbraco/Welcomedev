@@ -4,7 +4,7 @@
 nav{width:auto; display:block; height:80px;}nav
 
 #main{	width:auto; 
-	display:block;
+	display:flex;
 	border: 1px #99e6e6 groove;}
 
 #description{width:500px; 
