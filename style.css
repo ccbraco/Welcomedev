@@ -5,7 +5,8 @@ nav{width:auto; display:block; height:80px;}nav
 
 #main{	width:auto; 
 	display:flex;
-	border: 1px #99e6e6 groove;}
+	border: 1px #99e6e6 groove;
+	align-items: stretch;}
 
 #description{width:500px; 
 	margin-right:20px; 
