@@ -3,11 +3,18 @@
 
 nav{width:auto; display:block; height:80px;}nav
 
-#main{width:auto; display:block;}
+#main{	width:auto; 
+	display:block;
+	border: 1px #99e6e6 groove;}
 
-#description{width:500px; margin-right:20px; float:right;}
+#description{width:500px; 
+	margin-right:20px; 
+	float:right;
+background-color:  blue;}
 
-#video{width:260px; float:left;}
+#video{width:260px; 
+	float:left;
+background-color:  red;}
 
 footer
 {width:auto;
@@ -16,7 +23,7 @@ footer
 border-radius: 5px;
 display: flex;
 justify-content: space-between;
-background-color:  white;
+background-color:  yellow;
 border: 1px #99e6e6 groove;	
 }
 #reseaux
