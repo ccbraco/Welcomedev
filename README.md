@@ -12,9 +12,8 @@
              		<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul>
 			<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon projet</a></ul>	
             		<ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul>
-			<ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a>
-				</ul>
-         		   </ol>
+			<ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></ul>
+         		</ol>
 	 </nav>	
 	<aside>
                 <h1>A propos de moi</h1>
