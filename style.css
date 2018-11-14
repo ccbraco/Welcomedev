@@ -90,6 +90,10 @@ p
 
 
 /* faire flotter une image*/
+.centrer
+{
+	margin: 10px;
+}
 
 .floatleft
 {
