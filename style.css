@@ -16,6 +16,7 @@ justify-content: space-around;
 	border: 1px #99e6e6 groove;
 	align-items: stretch;
 	background-color: white 
+	margin: 50px;
 }
 
 #description{
