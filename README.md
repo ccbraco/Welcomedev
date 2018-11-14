@@ -7,15 +7,15 @@
 <body>
 <div id="container">
 	<nav>
-		<div id= "nav">
-			<ol>
-            		<figure><ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</a></ul></figure>
+		
+			
+            		<figure><<ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</a></ul></figure>
              		<figure><ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul></figure>
 			<figure><ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon projet</a></ul></figure>	
             		<figure><ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul></figure>
 			<figure><ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></ul></figure>
-         		</ol>
-		</div>
+         	
+		
 	 </nav>	
 	<aside>
                 <h1>A propos de moi</h1>
