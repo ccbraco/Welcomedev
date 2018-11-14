@@ -19,7 +19,7 @@
 	 </nav>	
 	<aside>
                 <h1>A propos de moi</h1>
-		<p>description des métiers du numérique, et pourquoi choisir cette orientation</p>
+		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une lultitudes de métiers dont celui de développeurs web.</p>
 	</aside>
 	<div id= "quoi">
 	<p> <ul>
