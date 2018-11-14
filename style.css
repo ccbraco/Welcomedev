@@ -9,11 +9,11 @@ nav{width:auto; display:flex; height:80px;}
 	border: 1px #99e6e6 groove;
 	align-items: stretch;}
 
-#description{width:500px; 
+#description{
 	float:right;
 background-color:  blue;}
 
-#video{width:260px; 
+#video{ 
 	float:left;
 background-color:  red;}
 
