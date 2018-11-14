@@ -1,7 +1,7 @@
 /*structure de la page : position des sections*/
 #container{width:780px; margin:0 auto;}
 
-nav{width:auto; display:flex; height:80px;}
+nav{width:auto; display:flex; height:100px;}
 #nav
 {
 	display: flex;
@@ -39,3 +39,18 @@ border: 1px #99e6e6 groove;
 justify-content: space-around;
 	align-items: center;
 }
+/* mise en page des sections*/
+header
+{
+	background-color:  #007a99;
+	flex-wrap: wrap;
+	align-items: center;
+}
+nav
+{
+    
+    border: 1px solid black;
+	border-radius: 7px;
+	box-shadow: 6px 6px 0px #2F4F4F;
+}
+
