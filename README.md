@@ -8,7 +8,7 @@
 <div id="container">
 	<nav>
 			<ol>
-            		<ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</ul>
+            		<ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</a></ul>
              		<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul>
 			<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon projet</a></ul>	
             		<ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul>
