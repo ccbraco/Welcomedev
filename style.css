@@ -9,6 +9,13 @@ nav{width:auto; display:block; height:80px;}nav
 
 #video{width:200px; float:left;}
 
-div.spacer{clear:both; height:10px; display:block;}
-
-footer{width:auto; display:block; height:24px;}
+footer
+{width:auto;
+ display:block;
+ height:24px;
+border-radius: 5px;
+display: flex;
+justify-content: space-between;
+background-color:  white;
+border: 1px #99e6e6 groove;	
+}
