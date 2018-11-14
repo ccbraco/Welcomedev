@@ -50,13 +50,13 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
 		<p> les petites débrouillards</p>
             </div>
 	</div>
-	
+</div>
 	<div id="Mon projet">
 		   <h1> Mon Projet</h1>
 		   <p> J'ai eu une petite fille qui a 2 ans maintenant et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique en attendant de réfléchir à ce que je voulait faire. J'ai 
 	</p>
 	</div>
-</div>
+
 	
 
 
