@@ -73,3 +73,14 @@ border: 1px #99e6e6 groove;
 {
 	clear: both;
 }
+a:hover /* Apparence au survol des liens */
+{
+   text-decoration: underline;
+   color: #ff66b3;
+}
+a /* Liens par défaut (non survolés) */
+{
+   text-decoration: none;
+   color: #00b3b3;
+   font-style: italic;
+}
