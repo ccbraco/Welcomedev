@@ -67,6 +67,12 @@ nav
 	border-radius: 7px;
 	opacity: 0.95;
 }
+#qui
+{
+	border-radius: 7px 7px 0px 0px;
+	
+}
+
 footer
 {
 	border: 1px solid black;
