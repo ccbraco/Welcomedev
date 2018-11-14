@@ -11,13 +11,15 @@ nav{width:auto; display:flex; height:100px;
 #main{	width:auto; 
 	display:flex;
 	align-items: stretch;
-	background-color: white 
+	background-color: white
+	margin: 20px;
 	
 }
 
 #description{
 	float:right;
-background-color: white  ;}
+background-color: white;
+}
 
 #video{ 
 	float:left;
@@ -66,16 +68,7 @@ nav
 	border-radius: 7px;
 	margin: 20px;
 }
-#description
-{
-	margin-left: 20px;
-	
-}
-#video
-{
-	margin-left: 20px;
-	
-}
+
 footer
 {
 	border: 1px solid black;
