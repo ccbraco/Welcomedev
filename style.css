@@ -85,8 +85,10 @@ footer
 	background-color:  white;	
 }
 
-p
-{padding: 12px;}
+h1, h2, p, ul, ol
+{
+	font-family: Georgia, verdana, courier new, sans-serif;
+	padding: 12px;}
 
 
 /* faire flotter une image*/
