@@ -18,12 +18,13 @@
              
 		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une multitudes de métiers d'avenir dont celui de développeurs web. C'est un métier passionnant, présentant beaucoup de similitudes avec mon métier précédent. Il est stimulant, évolue constamment, demande de la persévérance et on peut travailler n'importe où. Mais avant d'aller plus loin, je vais parler un peu de moi. </p>
 	</aside>
+	
 	<h2 id="parcours">Mon parcours</h2>
 	<div id= "quoi">
 	   
 	   <p> <ul>
 		<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
-		<li><span class="date">2006-2008</span> Master d'Infectiologie l'<a href="https://sciences.univ-tours.fr/version-francaise/bienvenue-sur-le-site-de-la-faculte-de-sciences-et-techniques-159428.kjsp" target="_blank"> L'université des sciences et techniques</a>, Tours.</li>
+		<li><span class="date">2006-2008</span> Master d'Infectiologie<a href="https://sciences.univ-tours.fr/version-francaise/bienvenue-sur-le-site-de-la-faculte-de-sciences-et-techniques-159428.kjsp" target="_blank"> L'université des sciences et techniques</a>, Tours.</li>
 		<li><span class="date">2007-2008</span> Bénévole <a href="http://www2.cnrs.fr/jeunes/25.htm" target="_blank"> Club CNRS</a> Science pop', Tours.</li>
 			<li><span class="date">2008-2013</span> Doctorat de virologie à l'<a href="http://irbi.univ-tours.fr/" target="_blank"> Institut de Recherche sur la Biologie de l'Insecte</a>, Tours.</li>
 			<li><span class="date">2008-</span> Bénévole et administratrice de l'<a href="http://www.lespetitsdebrouillards.org/" target="_blank">Association les Petits Débrouillards</a>, Tours et Paris.</li>
