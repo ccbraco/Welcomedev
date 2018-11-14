@@ -14,7 +14,9 @@ justify-content: space-around;
 #main{	width:auto; 
 	display:flex;
 	border: 1px #99e6e6 groove;
-	align-items: stretch;}
+	align-items: stretch;
+	background-color: white 
+}
 
 #description{
 	float:right;
