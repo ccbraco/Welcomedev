@@ -49,7 +49,7 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
 		<h1>vidéo 2</h1>
 		<p> les petites débrouillards</p>
             </div>
-	</div>
+	
 </div>
 	<div id="Mon projet">
 		   <h1> Mon Projet</h1>
@@ -57,7 +57,7 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
 	</p>
 	</div>
 
-	
+</div>	
 
 
 	<footer>
