@@ -2,6 +2,12 @@
 #container{width:780px; margin:0 auto;}
 
 nav{width:auto; display:flex; height:80px;}
+#nav
+{
+	display: flex;
+justify-content: space-around;
+	align-items: center;}
+
 
 
 #main{	width:auto; 
