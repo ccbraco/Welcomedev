@@ -18,7 +18,7 @@
              
 		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une lultitudes de métiers dont celui de développeurs web.</p>
 	</aside>
-	<h1>Mon parcours</h1>
+	<h2>Mon parcours</h2>
 	<div id= "quoi">
 	   
 	   <p> <ul>
@@ -32,7 +32,7 @@
 			<li><span class="date">2018</span> Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank"> STRIDULI</a>, Tours.</li>
 		</ul></p>
 	</div>
-	    <h1>A propos de moi</h1>
+	    <h2>A propos de moi</h2>
 	<div id="main">
 	   
             <div id="description">
@@ -46,7 +46,7 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
 	</div>
 	
 	   <div id= "video">
-                <h1>vidéo1</h1>
+                <h2>vidéo1</h2>
 		<p> Guêpes parasitoides </p>
 		<video src="images/wasp.webm" controls poster="images/cotesia.jpg" class="centrer" width="200"></video>
 		<h1>vidéo 2</h1>
@@ -55,7 +55,7 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
             </div>
 	</div>	
 
-	  <h1> Mon Projet</h1>
+	  <h2> Mon Projet</h2>
 	  <div id="projet">
 		   <p> J'ai eu une petite fille qui a 2 ans maintenant et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontre et de me pencher de façon sérieuse sur le métier de développeur. Avec l'aide d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat.  
 	</p>
