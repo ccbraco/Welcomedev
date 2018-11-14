@@ -47,11 +47,12 @@ En parallèle de la recherche, je me suis beaucoup investit dans la médiation s
 	</div>
 	
 	   <div id= "video">
-                <h2>vidéo1</h2>
-		<p> Guêpes parasitoides </p>
+                <h3>Une guêpe en pleine action </h3>
+		<p> <a href="https://www.youtube.com/watch?v=vMG-LWyNcAs" target="_blank"> Body Invaders | National Geographic </a> </p>
 		<video src="images/wasp.webm" controls poster="images/cotesia.jpg" class="centrer" width="200"></video>
-		<h1>vidéo 2</h1>
-		<p> les petites débrouillards</p>
+		
+		<h3>Les Petits Débrouillards</h3>
+		<p><a href="https://www.youtube.com/watch?v=DgR94p5cf1M&list=FLoTEedbBI6zQ2PW39PB2I2A" target="_blank"> Pourquoi devenir un Petit Débrouillard ? </a> </p>
 		<video src="images/pd.webm" controls poster="images/petitsdeb.png" width="200"></video>
             </div>
 	</div>	
