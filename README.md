@@ -8,33 +8,18 @@
 	<div id="container">
 		<nav>
 			<ol>
-            		<ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">le virus Ebola</a></ul>
-             		<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Le parasite Ascaris (beurk)</a></ul>
+            		<ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</ul>
+             		<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul>
+			<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon projet</a></ul>	
             		<ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul>
 			<ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a>
 				</ul>
          		   </ol>
 		 </nav>	
 		 <aside>
-                <h1>Qui je suis ?</h1>
-                <p>C'est moi, Zozor ! Je suis né un 23 novembre 2005.</p>
+                <h1>A propos de moi</h1>
+                <p>description des métiers du numérique, et pourquoi choisir cette orientation</p>
             </aside>
-	
- 	 <div id="main">
-	 
-            <div id="description">
-		    <p>
-	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
-		 Je suis un peu comme tout le monde, plein de choses à la fois ! j'ai une petites filles de 2 ans, je suis curieuse, dynamique, sympa, un peu têtue... bref c'est pas facile d'essayer de se décrire.  <br /><br />
-	 Comprendre et décortiquer le monde qui nous entoure, c'est un peu une passion, cette curiosité va bien bien avec le monde des sciences et donc j'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... 
-	<br /><br /> Comme tu vas t'en rendre compte au fur et à mesure de cette page, j'ai choisi un parcours universitaire tourné vers le monde de l'infiniment petit, j'ai fait pas mal de bénévolat dans l'animation scientifique auprès du grand public et j'ai même monté mon agence d'animation et de communication scientifique. Et c'est cette dernière qui m'a conduite ici.  <br/><br/>
-	Mais chut ! Il va falloir continuer pour en savoir plus.
-	</p>
-	</div>
-	
-	   <div id= "video">
-                <h1>vidéo1</h1>
-            </div>
 	  <div id= "quoi">
 	<p> 
 	<ul>
@@ -50,6 +35,29 @@
 		</p>
 	</div>
 	  </div>
+ 	 <div id="main">
+	 
+            <div id="description">
+		    <p>
+	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
+		Je suis le docteur Faustine LOUIS mais tu peux m'appeler Doc (ou Fofo). Bon,  je ne suis pas le genre de docteur qui soigne mais plutôt celui qui s'interesse aux microbes qui te rendent malade.  J'ai toujours été passionnée par le monde de l'invisible, que ce soit comment nos gènes fonctionnent, pourquoi les bactéries résistent aux antibiotiques et comment les virus nous infectent et se multiplient ! <br/> Mon doctorat à Tours a été passionnant ! Une vraie torture mentale concernant la mise en évidence du mécanisme de réplication d'un virus aidant une guêpe à pondre ses oeufs dans une chenille pour que ses larves puissent la dévorer de l'intérieur. 
+Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là j'avais la panoplie, combinaison de protection, laboratoire sécurisé tout ca pour mesurer si les moustiques français pourrainet transmettre ce virus Africain. <br/><br/>
+	Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur. Mais les postes sont rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible car il faut travailler tous le temps. J'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... <br /><br />
+	En parallèle de la recherche, je me suis toujours investit socialement en partageant mes connaissances auprès du grand public adultes et surtout enfants. A travers le club CNRS, nous avons pu mettre en discussion de nombreux sujets sensibles, avec les Petits Débrouillards nous avons mis en place, construit des animations scientifique permettant à de nombreux enfants de se questionner et comprendre comment développer un raisonnement scientifique. Par ailleurs, le numérique est un de nos grands axes (site), sans le savoir, mon futur projet se trouvait sous mes yeux. 
+	</p>
+	</div>
+	
+	   <div id= "video">
+                <h1>vidéo1</h1>
+		<p> Guêpes parasitoides </p>
+		<h1>vidéo 2</h1>
+		<p> les petites débrouillards</p>
+            </div>
+	 <div id="Mon projet">
+		    <p>
+	J'ai eu une petite fille qui a 2 ans maintenant et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique en attendant de réfléchir à ce que je voulait faire. J'ai 
+	</p>
+	</div>
 	
 	
 
