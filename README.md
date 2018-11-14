@@ -7,18 +7,19 @@
 <body>
 <div id="container">
 	<nav>
-		<figure><ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</a></ul></figure>
-             	<figure><ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul></figure>
+		<figure><ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul></figure>
+		<figure><ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</a></ul></figure>	
 		<figure><ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon projet</a></ul></figure>	
             	<figure><ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul></figure>
 		<figure><ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></ul></figure>
 	 </nav>	
 	<aside>
-                <h1>A propos de moi</h1>
+             
 		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une lultitudes de métiers dont celui de développeurs web.</p>
 	</aside>
 	<div id= "quoi">
-	<p> <ul>
+	   <h1>Mon parcours</h1>
+	   <p> <ul>
 		<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
 		<li><span class="date">2006-2008</span> Master d'Infectiologie l'<a href="https://sciences.univ-tours.fr/version-francaise/bienvenue-sur-le-site-de-la-faculte-de-sciences-et-techniques-159428.kjsp" target="_blank"> L'université des sciences et techniques</a>, Tours.</li>
 		<li><span class="date">2007-2008</span> Bénévole <a href="http://www2.cnrs.fr/jeunes/25.htm" target="_blank"> Club CNRS</a> Science pop', Tours.</li>
@@ -30,7 +31,7 @@
 		</ul></p>
 	</div>
 	<div id="main">
-	 
+	    <h1>A propos de moi</h1>
             <div id="description">
 		    <p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
