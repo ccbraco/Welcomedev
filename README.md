@@ -16,7 +16,7 @@
 		
 	<aside>
              
-		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une lultitudes de métiers dont celui de développeurs web.</p>
+		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une multitudes de métiers d'avenir dont celui de développeurs web. C'est un métier passionnant, présentant beaucoup de similitudes avec mon métier précédent. Il est stimulant, évolue constamment, demande de la persévérance et on peut travailler n'importe où. Mais avant d'aller plus loin, je vais parler un peu de moi. </p>
 	</aside>
 	<h2>Mon parcours</h2>
 	<div id= "quoi">
@@ -37,11 +37,11 @@
 	   
             <div id="description">
 		    <p>
-	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
-		Je suis le docteur Faustine LOUIS mais tu peux m'appeler Doc (ou Fofo). Bon,  je ne suis pas le genre de docteur qui soigne mais plutôt celui qui s'interesse aux microbes qui te rendent malade.  J'ai toujours été passionnée par le monde de l'invisible, que ce soit comment nos gènes fonctionnent, pourquoi les bactéries résistent aux antibiotiques et comment les virus nous infectent et se multiplient ! <br/> Mon doctorat à Tours a été passionnant ! Une vraie torture mentale concernant la mise en évidence du mécanisme de réplication d'un virus aidant une guêpe à pondre ses oeufs dans une chenille pour que ses larves puissent la dévorer de l'intérieur. 
-Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là j'avais la panoplie, combinaison de protection, laboratoire sécurisé tout ca pour mesurer si les moustiques français pourrainet transmettre ce virus Africain. <br/><br/>
-	Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur. Mais les postes sont rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible car il faut travailler tous le temps. J'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie... <br /><br />
-	En parallèle de la recherche, je me suis toujours investit socialement en partageant mes connaissances auprès du grand public adultes et surtout enfants. A travers le club CNRS, nous avons pu mettre en discussion de nombreux sujets sensibles, avec les Petits Débrouillards nous avons mis en place, construit des animations scientifique permettant à de nombreux enfants de se questionner et comprendre comment développer un raisonnement scientifique. Par ailleurs, le numérique est un de nos grands axes (site), sans le savoir, mon futur projet se trouvait sous mes yeux. 
+	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>
+		Je suis le docteur Faustine LOUIS mais tu peux m'appeler Doc (ou Fofo). <br/> Je ne suis pas le genre de docteur qui soigne mais plutôt celui qui s'interesse aux microbes qui te rendent malade. Passionnée par le monde de l'invisible, j'ai plongé dans le monde de la génétique et de l'infectiologie. <br/> <br/>Mon doctorat à Tours a été passionnant, une vraie torture mentale ! Je devais comprendre comment un virus se multiplie dans les cellules d'une guêpe parasitoïde qui pond ses oeufs avec le virus dans une chenille. Le virus empêche la chenille de tuer les larves de la guêpe et leur permet de la dévorer de l'intérieur ... <br/><br/> 
+Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là, j'avais la panoplie: combinaison de protection, masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/>
+En parallèle de la recherche, je me suis beaucoup investit dans la médiation scientifique avec l'association les petits débrouillards. C'est important de partager ses connaissances et de discuter sciences avec les enfants et les adultes. J'ai mis en place et participé à de nombreux débats et animations scientifiques me permettant d'acquérir plus de pédagogie et de recul sur la recherche. Par ailleurs, le numérique est un des  grands axes de l'association.<br/><br/>
+	
 	</p>
 	</div>
 	
@@ -57,7 +57,8 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
 
 	  <h2> Mon Projet</h2>
 	  <div id="projet">
-		   <p> J'ai eu une petite fille qui a 2 ans maintenant et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontre et de me pencher de façon sérieuse sur le métier de développeur. Avec l'aide d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat.  
+		   <p>
+		   Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur. Mais les postes sont rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler tous le temps. J'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie ! <br /><br /> J'ai eu une petite fille qui a 2 ans maintenant et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontre et de me pencher de façon sérieuse sur le métier de développeur. Avec l'aide d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat.  
 	</p>
 	</div>
 <br/><br/>
