@@ -21,6 +21,7 @@ nav{width:auto; display:flex; height:90px;
 #description{
 	float:right;
 background-color: white;
+	border-radius: 7px;
 }
 
 #video{ 
