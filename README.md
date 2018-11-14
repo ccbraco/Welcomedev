@@ -46,10 +46,10 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
 	   <div id= "video">
                 <h1>vidéo1</h1>
 		<p> Guêpes parasitoides </p>
-		<video src="images/wasp.webm" controls poster="images/biosafety.png" width="100"></video>
+		<video src="images/wasp.webm" controls poster="images/biosafety.png" width="200"></video>
 		<h1>vidéo 2</h1>
 		<p> les petites débrouillards</p>
-		<video src="images/pd.webm" controls poster="images/petitsdeb.png" width="100"></video>
+		<video src="images/pd.webm" controls poster="images/petitsdeb.png" width="200"></video>
             </div>
 	</div>	
 
