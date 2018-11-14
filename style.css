@@ -1,7 +1,7 @@
 /*structure de la page : position des sections*/
 #container{width:950px; margin:0 auto;
 background-color: #449B96;
-margin-top: 50px;
+margin-top: 30px;
 }
 
 nav{width:auto; display:flex; height:100px;
@@ -93,7 +93,7 @@ p
 .floatleft
 {
 	float: left;
-	margin: 5px;
+	margin: 10px;
 }
 .floatright
 {
@@ -114,4 +114,15 @@ a /* Liens par défaut (non survolés) */
    text-decoration: none;
    color: #00b3b3;
    font-style: italic;
+}
+
+h2
+{
+	text-align: left;
+	border-radius: 5px;
+	color: #66ffcc;
+	background-color:  #00384d;
+	font-size: 13em;
+	text-align: center;
+	border: 1px #99e6e6 groove;
 }
