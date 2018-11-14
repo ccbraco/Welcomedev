@@ -6,11 +6,11 @@
 
 <body>
 <nav>
-		<figure><ul><a href="#parcours">Mon parcours</a></ul></figure>
-		<figure><ul><a href="#moi">A propos de moi</a></ul></figure>	
-		<figure><ul><a href="#projet">Mon projet</a></ul></figure>	
-            	<figure><ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul></figure>
-		<figure><ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></ul></figure>
+		<figure><a href="#parcours">Mon parcours</a></figure>
+		<figure><a href="#moi">A propos de moi</a></figure>	
+		<figure><a href="#projet">Mon projet</a></figure>	
+            	<figure><a href="images/CV FL.pdf" target="_blank">Mon CV</a></figure>
+		<figure><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></figure>
 	 </nav>
 <div id="container">
 		
