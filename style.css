@@ -2,7 +2,8 @@
 #container{width:780px; margin:0 auto;
 background-color: #F07EF4 }
 
-nav{width:auto; display:flex; height:100px;}
+nav{width:auto; display:flex; height:100px;
+}
 #nav
 {
 	display: flex;
@@ -59,7 +60,7 @@ header
 }
 nav
 {
-    
+    background-color: #F07EF4
     border: 1px solid black;
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
@@ -68,12 +69,11 @@ nav
 {
     background-color: #006080;
 	border-radius: 7px;
-	opacity: 0.95;
 	margin: 50px;
 }
-#qui
+#description
 {
-	border-radius: 7px 7px 0px 0px;
+	margin-left: 50px;
 	
 }
 
