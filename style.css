@@ -57,3 +57,19 @@ border-radius: 5px;
 background-color:  yellow;
 border: 1px #99e6e6 groove;	
 }
+/* faire flotter une image*/
+
+.floatleft
+{
+	float: left;
+	border-radius: 5px;
+}
+.floatright
+{
+	float: right;
+	border-radius: 5px;
+}
+.dessous
+{
+	clear: both;
+}
