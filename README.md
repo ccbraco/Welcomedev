@@ -49,7 +49,7 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
 		<video src="images/wasp.webm" controls poster="images/biosafety.png" width="100"></video>
 		<h1>vidéo 2</h1>
 		<p> les petites débrouillards</p>
-		<video src="images/pd.webm" controls poster="images/biosafety.png" width="600"></video>
+		<video src="images/pd.webm" controls poster="images/petitsdeb.png" width="100"></video>
             </div>
 	</div>	
 
