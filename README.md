@@ -33,7 +33,6 @@
 			<li><span class="date">2018</span> Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank"> STRIDULI</a>, Tours.</li>
 		</ul>
 		</p>
-	</div>
 	  </div>
  	 <div id="main">
 	 
