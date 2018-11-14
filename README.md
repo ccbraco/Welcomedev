@@ -5,8 +5,8 @@
 	
 
 <body>
-	<div id="container">
-		<nav>
+<div id="container">
+	<nav>
 			<ol>
             		<ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</ul>
              		<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul>
@@ -15,14 +15,13 @@
 			<ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a>
 				</ul>
          		   </ol>
-		 </nav>	
-		 <aside>
+	 </nav>	
+	<aside>
                 <h1>A propos de moi</h1>
-                <p>description des métiers du numérique, et pourquoi choisir cette orientation</p>
-            </aside>
-	  <div id= "quoi">
-	<p> 
-	<ul>
+		<p>description des métiers du numérique, et pourquoi choisir cette orientation</p>
+	</aside>
+	<div id= "quoi">
+	<p> <ul>
 		<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
 		<li><span class="date">2006-2008</span> Master d'Infectiologie l'<a href="https://sciences.univ-tours.fr/version-francaise/bienvenue-sur-le-site-de-la-faculte-de-sciences-et-techniques-159428.kjsp" target="_blank"> L'université des sciences et techniques</a>, Tours.</li>
 		<li><span class="date">2007-2008</span> Bénévole <a href="http://www2.cnrs.fr/jeunes/25.htm" target="_blank"> Club CNRS</a> Science pop', Tours.</li>
@@ -31,11 +30,9 @@
 			<li><span class="date">2012-2013</span> Attaché temporaire d'enseignement et recherche à l'université de Tours.</li>
 			<li><span class="date">2013-2016</span> Chercheur Contractuel à l'<a href="https://www.pasteur.fr/fr" target="_blank"> Institut Pasteur</a>, Paris.</li>
 			<li><span class="date">2018</span> Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank"> STRIDULI</a>, Tours.</li>
-		</ul>
-		</p>
-	  </div>
-		
- 	 <div id="main">
+		</ul></p>
+	</div>
+	<div id="main">
 	 
             <div id="description">
 		    <p>
@@ -53,13 +50,14 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
 		<h1>vidéo 2</h1>
 		<p> les petites débrouillards</p>
             </div>
-	    </div>
-	 <div id="Mon projet">
+	</div>
+	
+	<div id="Mon projet">
 		   <h1< Mon Projet</h1>
 		   <p> J'ai eu une petite fille qui a 2 ans maintenant et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique en attendant de réfléchir à ce que je voulait faire. J'ai 
 	</p>
 	</div>
-	
+</div>
 	
 
 
