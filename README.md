@@ -6,9 +6,9 @@
 
 <body>
 <nav>
-		<figure><ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul></figure>
-		<figure><ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</a></ul></figure>	
-		<figure><ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon projet</a></ul></figure>	
+		<figure><ul><a href="#parcours">Mon parcours</a></ul></figure>
+		<figure><ul><a href="#moi">A propos de moi</a></ul></figure>	
+		<figure><ul><a href="#projet">Mon projet</a></ul></figure>	
             	<figure><ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul></figure>
 		<figure><ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></ul></figure>
 	 </nav>
@@ -18,7 +18,7 @@
              
 		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une multitudes de métiers d'avenir dont celui de développeurs web. C'est un métier passionnant, présentant beaucoup de similitudes avec mon métier précédent. Il est stimulant, évolue constamment, demande de la persévérance et on peut travailler n'importe où. Mais avant d'aller plus loin, je vais parler un peu de moi. </p>
 	</aside>
-	<h2>Mon parcours</h2>
+	<h2 id="parcours">Mon parcours</h2>
 	<div id= "quoi">
 	   
 	   <p> <ul>
@@ -32,7 +32,7 @@
 			<li><span class="date">2018</span> Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank"> STRIDULI</a>, Tours.</li>
 		</ul></p>
 	</div>
-	    <h2>A propos de moi</h2>
+	    <h2 id="moi">A propos de moi</h2>
 	<div id="main">
 	   
             <div id="description">
@@ -55,7 +55,7 @@ En parallèle de la recherche, je me suis beaucoup investit dans la médiation s
             </div>
 	</div>	
 
-	  <h2> Mon Projet</h2>
+	  <h2 id="projet"> Mon Projet</h2>
 	  <div id="projet">
 		   <p>
 		   Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur. Mais les postes sont rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler tous le temps. J'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie ! <br /><br /> J'ai eu une petite fille qui a 2 ans maintenant et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontre et de me pencher de façon sérieuse sur le métier de développeur. Avec l'aide d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat.  
