@@ -19,3 +19,9 @@ justify-content: space-between;
 background-color:  white;
 border: 1px #99e6e6 groove;	
 }
+#reseaux
+{
+	display: flex;
+justify-content: space-around;
+	align-items: center;
+}
