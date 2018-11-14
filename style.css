@@ -1,24 +1,40 @@
-/*structure de la page : position des sections*/
-#container{width:950px; margin:0 auto;
+/*structure de la page : position des sections, marge et couleur*/
+
+body 
+{
+	background-image: url("images/background.png");
+	background-attachment: fixed;
+}
+nav
+{width:auto; 
+display:flex; 
+height:90px;
+	background-color: white;
+    	border: 1px solid black;
+	border-radius: 7px;
+	box-shadow: 6px 6px 0px #2F4F4F;
+}
+#container
+{width:950px; margin:0 auto;
 background-color: #4CD9EF;
 margin-top: 30px;
 }
-
-nav{width:auto; display:flex; height:90px;
+#quoi
+{
+    background-color: #006080;
+	border-radius: 7px;
+	margin: 20px;
 }
-
-
-
-
-#main{	width:auto; 
+#main
+{	width:auto; 
 	display:flex;
 	align-items: stretch;
 	background-color: white;
-	margin: 20px;
-	
+	margin: 20px;	
 }
 
-#description{
+#description
+{
 	float:right;
 background-color: white;
 	border-radius: 7px;
@@ -26,50 +42,7 @@ background-color: white;
 
 #video{ 
 	float:left;
-background-color: white ;}
-
-footer
-{width:auto;
- display:block;
- height:100px;
-display: flex;
-justify-content: space-between;
-	
-}
-#reseaux
-{
-	display: flex;
-justify-content: space-around;
-	align-items: center;
-}
-
-
-
-
-/* mise en page des sections*/
-body 
-{
-	background-image: url("images/background.png");
-	background-attachment: fixed;
-}
-header
-{
-	background-color:  #007a99;
-	align-items: center;
-	flex-wrap: wrap;
-}
-nav
-{
-    	background-color: white;
-    	border: 1px solid black;
-	border-radius: 7px;
-	box-shadow: 6px 6px 0px #2F4F4F;
-}
-#quoi
-{
-    background-color: #006080;
-	border-radius: 7px;
-	margin: 20px;
+background-color: white ;
 }
 #projet
 {
@@ -78,18 +51,22 @@ nav
 	margin: 20px;
 }
 footer
-{
+{width:auto;
+ display:block;
+ height:100px;
+display: flex;
+justify-content: space-between;
 	border: 1px solid black;
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
 	background-color:  white;	
 }
-
-h1, h2, p, ul, ol
+#reseaux
 {
-	font-family: Georgia, verdana, courier new, sans-serif;
-	padding: 12px;}
-
+	display: flex;
+justify-content: space-around;
+	align-items: center;
+}
 
 /* faire flotter une image*/
 .centrer
@@ -111,6 +88,26 @@ h1, h2, p, ul, ol
 {
 	clear: both;
 }
+
+
+/* mise en page du texte*/
+
+
+h1, h2, p, ul, ol
+{
+	font-family: Georgia, verdana, courier new, sans-serif;
+	padding: 12px;}
+h1
+{
+	border-radius: 5px;
+	background-color:  #4CD9EF;
+	text-align: center;
+	font-size: 20em;
+}
+h2
+{padding: 12px;}
+
+/* mise en page des liens*/
 a:hover /* Apparence au survol des liens */
 {
    text-decoration: underline;
@@ -124,12 +121,4 @@ a /* Liens par défaut (non survolés) */
 font-size: 2em
 }
 /*mise en page du texte*/
-h1
-{
-	border-radius: 5px;
-	background-color:  #4CD9EF;
-	text-align: center;
-	font-size: 20em;
-}
-h2
-{padding: 12px;}
+
