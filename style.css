@@ -14,10 +14,9 @@ justify-content: space-around;
 
 #main{	width:auto; 
 	display:flex;
-	border: 1px #99e6e6 groove;
 	align-items: stretch;
 	background-color: white 
-	margin: 50px;
+	
 }
 
 #description{
@@ -98,7 +97,6 @@ p
 .floatleft
 {
 	float: left;
-	border-radius: 5px;
 }
 .floatright
 {
