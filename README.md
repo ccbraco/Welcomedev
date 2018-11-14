@@ -60,7 +60,7 @@ Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièv
 		   <p> J'ai eu une petite fille qui a 2 ans maintenant et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontre et de me pencher de façon sérieuse sur le métier de développeur. Avec l'aide d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat.  
 	</p>
 	</div>
-
+<br/><br/><br/>
 
 </div>	
 
