@@ -32,7 +32,7 @@
 	</div>
 	    <h1>A propos de moi</h1>
 	<div id="main">
-	    <h1>A propos de moi</h1>
+	   
             <div id="description">
 		    <p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>Alors ça, c'est une bonne question ! <br /><br />
