@@ -97,7 +97,9 @@ h1, h2, p, ul, ol
 {
 	font-family: Georgia, verdana, courier new, sans-serif;
 	padding: 12px;
-	font-size:0.5em;}
+	}
+p
+{font-size: 1em;}
 h1
 {
 	border-radius: 5px;
@@ -122,7 +124,7 @@ a /* Liens par défaut (non survolés) */
    text-decoration: none;
    color: #00b3b3;
    font-style: bold;
-font-size: 1em
+font-size: 1.5em
 }
 /*mise en page du texte*/
 
