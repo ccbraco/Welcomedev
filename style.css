@@ -120,7 +120,15 @@ a /* Liens par défaut (non survolés) */
    color: #00b3b3;
    font-style: italic;
 }
-
+h1
+{
+	border-radius: 5px;
+	background-color:  #00384d;
+	text-align: center;
+	font-size: 20em;
+	color: white;
+	
+}
 h2
 {
 	text-align: left;
