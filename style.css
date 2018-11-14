@@ -1,6 +1,6 @@
 /*structure de la page : position des sections*/
 #container{width:950px; margin:0 auto;
-background-color: #449B96;
+background-color: #4CD9EF;
 margin-top: 30px;
 }
 
@@ -120,13 +120,14 @@ a /* Liens par défaut (non survolés) */
 {
    text-decoration: none;
    color: #00b3b3;
-   font-style: italic;
+   font-style: bold;
+font-size: 20em
 }
 /*mise en page du texte*/
 h1
 {
 	border-radius: 5px;
-	background-color:  #00384d;
+	background-color:  #4CD9EF;
 	text-align: center;
 	font-size: 20em;
 }
