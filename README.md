@@ -8,11 +8,11 @@
 <div id="container">
 	<nav>
 			<ol>
-            		<ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</a></ul>
-             		<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul>
-			<ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon projet</a></ul>	
-            		<ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul>
-			<ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></ul>
+            		<figure><ul><a href="https://www.cdc.gov/vhf/ebola/index.html" target="_blank">A propos de moi</a></ul></figure>
+             		<figure><ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon parcours</a></ul></figure>
+			<figure><ul><a href="https://www.cdc.gov/parasites/ascariasis/index.html" target="_blank">Mon projet</a></ul></figure>	
+            		<figure><ul><a href="images/CV FL.pdf" target="_blank">Mon CV</a></ul></figure>
+			<figure><ul><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></ul></figure>
          		</ol>
 	 </nav>	
 	<aside>
