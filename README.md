@@ -18,8 +18,9 @@
              
 		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une lultitudes de métiers dont celui de développeurs web.</p>
 	</aside>
+	<h1>Mon parcours</h1>
 	<div id= "quoi">
-	   <h1>Mon parcours</h1>
+	   
 	   <p> <ul>
 		<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
 		<li><span class="date">2006-2008</span> Master d'Infectiologie l'<a href="https://sciences.univ-tours.fr/version-francaise/bienvenue-sur-le-site-de-la-faculte-de-sciences-et-techniques-159428.kjsp" target="_blank"> L'université des sciences et techniques</a>, Tours.</li>
