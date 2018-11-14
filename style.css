@@ -27,11 +27,9 @@ footer
 {width:auto;
  display:block;
  height:50px;
-border-radius: 5px;
 display: flex;
 justify-content: space-between;
-background-color:  yellow;
-border: 1px #99e6e6 groove;	
+	
 }
 #reseaux
 {
@@ -43,7 +41,6 @@ justify-content: space-around;
 header
 {
 	background-color:  #007a99;
-	flex-wrap: wrap;
 	align-items: center;
 }
 nav
@@ -53,4 +50,9 @@ nav
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
 }
-
+footer
+{
+border-radius: 5px;
+background-color:  yellow;
+border: 1px #99e6e6 groove;	
+}
