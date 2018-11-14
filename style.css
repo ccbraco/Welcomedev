@@ -42,6 +42,11 @@ justify-content: space-around;
 
 
 /* mise en page des sections*/
+body 
+{
+	background-image: url("images/background.png");
+	background-attachment: fixed;
+}
 header
 {
 	background-color:  #007a99;
@@ -54,6 +59,13 @@ nav
     border: 1px solid black;
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
+}
+#quoi
+{
+    background-color: #006080;
+	margin-left: 190px;
+	border-radius: 7px;
+	opacity: 0.95;
 }
 footer
 {
