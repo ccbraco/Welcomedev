@@ -88,6 +88,7 @@ p
 .floatleft
 {
 	float: left;
+	margin: 5px;
 }
 .floatright
 {
