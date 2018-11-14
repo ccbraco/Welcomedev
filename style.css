@@ -69,14 +69,18 @@ nav
 {
     background-color: #006080;
 	border-radius: 7px;
-	margin: 50px;
+	margin: 20px;
 }
 #description
 {
-	margin-left: 50px;
+	margin-left: 20px;
 	
 }
-
+#video
+{
+	margin-left: 20px;
+	
+}
 footer
 {
 	border: 1px solid black;
