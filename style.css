@@ -1,5 +1,6 @@
 /*structure de la page : position des sections*/
-#container{width:780px; margin:0 auto;}
+#container{width:780px; margin:0 auto;
+background-color: #2CB8B3 }
 
 nav{width:auto; display:flex; height:100px;}
 #nav
@@ -17,11 +18,11 @@ justify-content: space-around;
 
 #description{
 	float:right;
-background-color:  blue;}
+background-color: white  ;}
 
 #video{ 
 	float:left;
-background-color:  red;}
+background-color: white ;}
 
 footer
 {width:auto;
