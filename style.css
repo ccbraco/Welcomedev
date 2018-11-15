@@ -93,13 +93,13 @@ justify-content: space-around;
 /* mise en page du texte*/
 
 
-h1, h2, p, ul, ol
+h1, h2,h3, p, ul, ol
 {
 	font-family: Georgia, verdana, courier new, sans-serif;
 	padding: 12px;
 	}
 p
-{font-size: 1em;}
+{font-size: 1.3em;}
 h1
 {
 	border-radius: 5px;
