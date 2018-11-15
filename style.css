@@ -99,8 +99,8 @@ h1, h2, h3, p, ul, ol
 	padding: 12px;
 	}
 p
-{font-size: 1.5em;
-font-style: bold;}
+{font-size: 1.3em;
+}
 
 h1
 {
@@ -113,6 +113,7 @@ aside
 {
 	text-align: center;
 	color: #10202F;
+	font-style: bold;
    	
 }
 
