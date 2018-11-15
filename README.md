@@ -8,7 +8,7 @@
 <nav>
 		<figure><a href="#parcours">Mon parcours</a></figure>
 		<figure><a href="#moi">A propos de moi</a></figure>	
-		<figure><a href="#projet">Mon projet</a></figure>	
+		<figure><a href="#titreprojet">Mon projet</a></figure>	
             	<figure><a href="images/CV FL.pdf" target="_blank">Mon CV</a></figure>
 		<figure><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></figure>
 	 </nav>
