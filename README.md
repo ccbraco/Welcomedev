@@ -19,7 +19,7 @@
 		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. <br/>
 		Il représente une multitudes de métiers d'avenir dont celui de développeurs web. <br/>
 		C'est un métier passionnant, présentant beaucoup de similitudes avec mes activités précédentes. <br/>
-		Il est stimulant, évolue constamment, demande de la persévérance et on peut travailler n'importe où. <br/><br/>C'est pourquoi j'ai fait le choix de me reconvertir dans ce domaine: mon objectif c'est le retour à l'emploi et faire un métier toujours en évolution. </p>
+		Il est stimulant, évolue constamment, demande de la persévérance et permet de travailler n'importe où. <br/><br/>C'est pourquoi j'ai fait le choix de me reconvertir dans ce domaine: mon objectif c'est le retour à l'emploi et exercer un métieren évolution permanente. </p>
 	</aside>
 	
 	<h2 id="parcours">Mon parcours</h2>
@@ -42,18 +42,18 @@
             <div id="description">
 		    <p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>
-		Je suis le docteur Faustine LOUIS mais tu peux m'appeler Doc (ou Fofo). <br/> Je ne suis pas le genre de docteur qui soigne mais plutôt celui qui s'interesse aux microbes qui te rendent malade. Passionnée par le monde de l'invisible, j'ai plongé dans le monde de la génétique et de l'infectiologie. <br/> <br/>
-		
-		<a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI" /></a>Mon doctorat à Tours a été passionnant, une vraie torture mentale ! Je devais comprendre comment un virus se multiplie dans les cellules d'une guêpe parasitoïde qui pond ses oeufs avec le virus dans une chenille. Le virus empêche la chenille de tuer les larves de la guêpe et leur permet de la dévorer de l'intérieur ... <br/><br/> 
+		Je suis le docteur Faustine LOUIS mais pas le genre de docteur qui soigne, plutôt celui qui s'interesse aux microbes qui te rendent malade. <br/> <br/>
+		<h3>Mes recherches</h3>
+		<a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI" /></a> Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie. Mon doctorat à Tours a été passionnant, une vraie torture mentale ! Je devais comprendre comment un virus se multiplie dans les cellules d'une guêpe parasitoïde qui pond ses oeufs avec le virus dans une chenille. Le virus empêche la chenille de tuer les larves de la guêpe et leur permet de la dévorer de l'intérieur ... <br/><br/> 
 Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là, j'avais la panoplie: combinaison de protection, <a href="https://www.pasteur.fr/"><img src="images/IP.png" class="floatright" alt="pasteur" /></a>masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/>
-
-En parallèle de la recherche, je me suis beaucoup investit dans la médiation scientifique avec l'association les petits débrouillards. C'est important de partager ses connaissances et de discuter sciences avec les enfants et les adultes. J'ai mis en place et participé à de nombreux débats et animations scientifiques me permettant d'acquérir plus de pédagogie et de recul sur la recherche. Par ailleurs, le numérique est un des  grands axes de l'association.<br/><br/>
+		<h3>Mes loisirs</h3>
+Je suis très investie dans l'association les petits débrouillards, mouvement d'éducation populaire sensibilisant le grand public aux sciences. C'est important de partager ses connaissances et de discuter sciences avec les enfants et les adultes. J'ai mis en place et participé à de nombreux débats et animations scientifiques. Le numérique fait parti  des grands axes de l'association. Cette aventure me permet d'améliorer ma communication et ma pédagogie mais aussi du recul par rapport à la perception des progrès dans notre société. <br/><br/>
 	
 	</p>
 	</div>
 	
 	   <div id= "video">
-                <h3>Une guêpe en pleine action </h3>
+                <h3>Une guêpe en pleine action de parasitisme</h3>
 		<p> <a href="https://www.youtube.com/watch?v=vMG-LWyNcAs" target="_blank" class="lien"> Body Invaders | National Geographic </a> </p>
 		<video src="images/wasp.webm" controls poster="images/cotesia.jpg" class="centrer" width="200"></video>
 		
@@ -66,8 +66,15 @@ En parallèle de la recherche, je me suis beaucoup investit dans la médiation s
 	  <h2 id="titreprojet"> Mon Projet</h2>
 	  <div id="projet">
 		   <p>
-		   Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur. Mais les postes sont rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler tous le temps. J'ai suivi cette voie dans un premier temps puis j'ai (un peu) changé  de vie ! <br /><br /> J'ai eu une petite fille qui a 2 ans maintenant et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontre et de me pencher de façon sérieuse sur le métier de développeur. Avec l'aide d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat.  <a href="https://www.cefim.eu/"><img src="images/cefim.png" class="floatright" alt="cefim" /></a>
-	</p>
+		   Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur et on recommence jusqu'à ce qu'on arrive à répondre à notre questionnement. </p>
+		  <h3> Pourquoi me réorienter ?</h3> 
+<p>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. La recherche, c'est passionnant mais exigeant. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tous le reste. J'ai suivi cette voie dans un premier temps puis j'ai choisi de changer de vie ! </p><br /><br /> 
+<h3>Le métier de développeur web</h3>
+<p>J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation me permettant d'aller plus loin.</p><br/>
+<h3> La formation</h3>
+<a href="https://www.cefim.eu/"><img src="images/cefim.png" class="floatright" alt="cefim" /></a> <h3>La formation</h3>
+<p>Je me suis rendue à des réunions d'informations dans plusieurs organismes de formation dont le Cefim. J'ai beaucoup apprécié les détails qui nous ont été fournis sur la formation. Elle dure plus longtemps mais l'alternance de phases d'apprentissage et de phases "projet" me semble être une dynamique très formatrice. Je souhaite vivement pouvoir intégrer cette équipe, me plonger dans le code, partager avec mes collègues en formation afin d'ouvrir mon champ de possibilités et m'insérer dans le monde du travail.   
+</p>
 	</div>
 <br/><br/>
 </div>	
