@@ -134,5 +134,8 @@ a /* Liens par défaut (non survolés) */
    font-style: bold;
 font-size: 1.3em;
 }
+.lien
+{font-size: 1em;
+}
 /*mise en page du texte*/
 
