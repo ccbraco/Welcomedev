@@ -77,8 +77,8 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
 <p>J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation me permettant d'aller plus loin.</p><br/>
 
 <h3> La formation</h3>
-<a href="https://www.cefim.eu/"><img src="images/cefim.png" class="cefim" alt="cefim" target="_blank"/></a> 
-<p>Je me suis rendue à des réunions d'informations dans plusieurs organismes de formation dont le Cefim. J'ai beaucoup apprécié les détails qui nous ont été fournis sur la formation. Elle dure plus longtemps mais l'alternance de phases d'apprentissage et de phases "projet" me semble être une dynamique très formatrice. Je souhaite vivement pouvoir intégrer cette équipe, me plonger dans le code, partager avec mes collègues en formation afin d'ouvrir mon champ de possibilités et m'insérer dans le monde du travail.   
+<a href="https://www.cefim.eu/"><img src="images/cefim.png" class="floatleft" alt="cefim" target="_blank"/></a> 
+<p>Je me suis rendue à des réunions d'informations dans plusieurs organismes de formation dont le Cefim. <a href="https://www.cefim.eu/"><img src="images/cefim.png" class="floatleft" alt="cefim" target="_blank"/></a> J'ai beaucoup apprécié les détails qui nous ont été fournis sur la formation. Elle dure plus longtemps mais l'alternance de phases d'apprentissage et de phases "projet" me semble être une dynamique très formatrice. Je souhaite vivement pouvoir intégrer cette équipe, me plonger dans le code, partager avec mes collègues en formation afin d'ouvrir mon champ de possibilités et m'insérer dans le monde du travail.   
 </p>
 	</div>
 <br/><br/>
