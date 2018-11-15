@@ -93,13 +93,15 @@ justify-content: space-around;
 /* mise en page du texte*/
 
 
-h1, h2,h3, p, ul, ol
+h1, h2, h3, p, ul, ol
 {
 	font-family: Georgia, verdana, courier new, sans-serif;
 	padding: 12px;
 	}
 p
-{font-size: 1.3em;}
+{font-size: 1.5em;
+font-style: bold;}
+
 h1
 {
 	border-radius: 5px;
@@ -111,7 +113,7 @@ aside
 {
 	text-align: center;
 	color: #10202F;
-   	font-style: bold;
+   	
 }
 
 
