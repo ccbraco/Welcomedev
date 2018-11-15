@@ -71,8 +71,9 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
 <p>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. La recherche, c'est passionnant mais exigeant. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tous le reste. J'ai suivi cette voie dans un premier temps puis j'ai choisi de changer de vie ! </p><br /><br /> 
 <h3>Le métier de développeur web</h3>
 <p>J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation me permettant d'aller plus loin.</p><br/>
+
 <h3> La formation</h3>
-<a href="https://www.cefim.eu/"><img src="images/cefim.png" class="floatright" alt="cefim" /></a> <h3>La formation</h3>
+<a href="https://www.cefim.eu/"><img src="images/cefim.png" alt="cefim" /></a> 
 <p>Je me suis rendue à des réunions d'informations dans plusieurs organismes de formation dont le Cefim. J'ai beaucoup apprécié les détails qui nous ont été fournis sur la formation. Elle dure plus longtemps mais l'alternance de phases d'apprentissage et de phases "projet" me semble être une dynamique très formatrice. Je souhaite vivement pouvoir intégrer cette équipe, me plonger dans le code, partager avec mes collègues en formation afin d'ouvrir mon champ de possibilités et m'insérer dans le monde du travail.   
 </p>
 	</div>
