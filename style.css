@@ -99,9 +99,12 @@ h1, h2, h3, p, ul, ol
 	padding: 12px;
 	}
 p
-{font-size: 1.3em;
+{font-size: 1.1em;
 }
-
+ul 
+{color: #3F9DA6;
+	font-size: 1em;
+}
 h1
 {
 	border-radius: 5px;
