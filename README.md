@@ -16,7 +16,8 @@
 		
 	<aside>
              
-		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une multitudes de métiers d'avenir dont celui de développeurs web. C'est un métier passionnant, présentant beaucoup de similitudes avec mon métier précédent. Il est stimulant, évolue constamment, demande de la persévérance et on peut travailler n'importe où. Mais avant d'aller plus loin, je vais parler un peu de moi. </p>
+		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. Il représente une multitudes de métiers d'avenir dont celui de développeurs web. <br/>
+		C'est un métier passionnant, présentant beaucoup de similitudes avec mes activités précédentes. Il est stimulant, évolue constamment, demande de la persévérance et on peut travailler n'importe où. <br/><br/>Mais avant d'aller plus loin, je vais parler un peu de moi. </p>
 	</aside>
 	
 	<h2 id="parcours">Mon parcours</h2>
