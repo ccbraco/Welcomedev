@@ -49,11 +49,11 @@ En parallèle de la recherche, je me suis beaucoup investit dans la médiation s
 	
 	   <div id= "video">
                 <h3>Une guêpe en pleine action </h3>
-		<p> <a href="https://www.youtube.com/watch?v=vMG-LWyNcAs" target="_blank"> Body Invaders | National Geographic </a> </p>
+		<p> <a href="https://www.youtube.com/watch?v=vMG-LWyNcAs" target="_blank" class="lien"> Body Invaders | National Geographic </a> </p>
 		<video src="images/wasp.webm" controls poster="images/cotesia.jpg" class="centrer" width="200"></video>
 		
 		<h3>Les Petits Débrouillards</h3>
-		<p><a href="https://www.youtube.com/watch?v=DgR94p5cf1M&list=FLoTEedbBI6zQ2PW39PB2I2A" target="_blank"> Pourquoi devenir un Petit Débrouillard ? </a> </p>
+		<p><a href="https://www.youtube.com/watch?v=DgR94p5cf1M&list=FLoTEedbBI6zQ2PW39PB2I2A" target="_blank" class="lien"> Pourquoi devenir un Petit Débrouillard ? </a> </p>
 		<video src="images/pd.webm" controls poster="images/petitsdeb.png" width="200"></video>
             </div>
 	</div>	
