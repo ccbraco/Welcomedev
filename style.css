@@ -101,7 +101,7 @@ h1, h2, h3, p, ul, ol
 p
 {font-size: 1.1em;
 }
-ul 
+ul, ol
 {color: #3F9DA6;
 	font-size: 1em;
 }
