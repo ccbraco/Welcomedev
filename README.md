@@ -17,7 +17,7 @@
 		
 	
 	<aside>
-             <figure><a href="images/metier-du-numerique.png" alt="insect"></a></figure>
+             <figure><a href="images/metier-du-numerique.png" alt="insect"/></a></figure>
 		<p id="intro">Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. <br/>
 		Il représente une multitudes de métiers d'avenir dont celui de développeurs web. <br/>
 		C'est un métier passionnant, présentant beaucoup de similitudes avec mes activités précédentes. <br/>
@@ -55,13 +55,13 @@
 		
 		<h3>Mes recherches</h3>
 		
-		<p><a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"></a> 
+		<p><a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"/></a> 
 		
 Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie. Mon doctorat à Tours a été passionnant, une vraie torture mentale ! Je devais comprendre comment un virus se multiplie dans les cellules d'une guêpe parasitoïde qui pond ses oeufs avec le virus dans une chenille. Le virus empêche la chenille de tuer les larves de la guêpe et leur permet de la dévorer de l'intérieur ... <br/><br/> 
 Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là, j'avais la panoplie: combinaison de protection, <a href="https://www.pasteur.fr/"><img src="images/IP.png" class="floatright" alt="pasteur" /></a> masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/></p>
 
 		<h3>Mes loisirs</h3>
-<p><a href="images/insect.jpg" class="floatleft" alt="insect"></a>
+<p><a href="images/insect.jpg" class="floatleft" alt="insect"/></a>
 Je suis très investie dans l'association les petits débrouillards, mouvement d'éducation populaire sensibilisant le grand public aux sciences. C'est important de partager ses connaissances et de discuter sciences avec les enfants et les adultes. J'ai mis en place et participé à de nombreux débats et animations scientifiques. Le numérique fait parti  des grands axes de l'association. Cette aventure me permet d'améliorer ma communication et ma pédagogie mais aussi du recul par rapport à la perception des progrès dans notre société. <br/><br/></p>
 	
 
