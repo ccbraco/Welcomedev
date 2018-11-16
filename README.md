@@ -17,7 +17,9 @@
 		
 	
 	<aside>
-		<p id="intro"><a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png"  alt="IRBI"/><br/><br/>
+		<p id="intro">><br/><br/>
+		
+		<a href="images/metier-du-numerique.png"  alt="numerique"/></a>
 		
 		Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. <br/>
 		Il représente une multitudes de métiers d'avenir dont celui de développeurs web. <br/>
