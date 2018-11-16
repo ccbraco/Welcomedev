@@ -19,8 +19,6 @@
 	<aside>
 		<p id="intro"><br/><br/>
 		
-		<a href="images/metier-du-numerique.png"  alt="numerique"/></a>
-		
 		Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. <br/>
 		Il représente une multitudes de métiers d'avenir dont celui de développeurs web. <br/>
 		C'est un métier passionnant, présentant beaucoup de similitudes avec mes activités précédentes. <br/>
