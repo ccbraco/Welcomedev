@@ -12,8 +12,10 @@
             	<figure><a href="images/CV FL.pdf" target="_blank">Mon CV</a></figure>
 		<figure><a href="https://www.theses.fr/2013TOUR4037" target="_blank">Ma thèse</a></figure>
 	 </nav>
+	
 <div id="container">
 		
+	
 	<aside>
              <figure><a href="images/metier-du-numerique.png" alt="insect"></a></figure>
 		<p id="intro">Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. <br/>
@@ -22,9 +24,11 @@
 		Il est stimulant, évolue constamment, demande de la persévérance et permet de travailler n'importe où. <br/><br/>C'est pourquoi j'ai fait le choix de me reconvertir dans ce domaine: mon objectif c'est le retour à l'emploi et exercer un métieren évolution permanente. </p>
 	</aside>
 	
+	
+	
 	<h2 id="parcours">Mon parcours</h2>
+	
 	<div id= "quoi">
-	   
 	   <p> <ul>
 		<li><span class="date">2003-2007</span> Bénévole association naturaliste NATRIX, Tours.</li>
 		<li><span class="date">2006-2008</span> Master d'Infectiologie<a href="https://sciences.univ-tours.fr/version-francaise/bienvenue-sur-le-site-de-la-faculte-de-sciences-et-techniques-159428.kjsp" target="_blank"> L'université des sciences et techniques</a>, Tours.</li>
@@ -36,18 +40,25 @@
 			<li><span class="date">2018</span> Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank"> STRIDULI</a>, Tours.</li>
 		</ul></p>
 	</div>
+	
+	
+	
 	    <h2 id="moi">A propos de moi</h2>
+	    
+	    
 	<div id="main">
 	   
-            <div id="description">
+          <div id="description">
 		    <p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>
 		Je suis le docteur Faustine LOUIS mais pas le genre de docteur qui soigne, plutôt celui qui s'interesse aux microbes qui te rendent malade. <br/> <br/>
+		
 		<h3>Mes recherches</h3>
 		<a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI" /></a> 
 		
 Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie. Mon doctorat à Tours a été passionnant, une vraie torture mentale ! Je devais comprendre comment un virus se multiplie dans les cellules d'une guêpe parasitoïde qui pond ses oeufs avec le virus dans une chenille. Le virus empêche la chenille de tuer les larves de la guêpe et leur permet de la dévorer de l'intérieur ... <br/><br/> 
 Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là, j'avais la panoplie: combinaison de protection, <a href="https://www.pasteur.fr/"><img src="images/IP.png" class="floatright" alt="pasteur" /></a> masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/>
+
 		<h3>Mes loisirs</h3>
 <a href="images/insect.jpg" class="floatleft" alt="insect"></a>
 Je suis très investie dans l'association les petits débrouillards, mouvement d'éducation populaire sensibilisant le grand public aux sciences. C'est important de partager ses connaissances et de discuter sciences avec les enfants et les adultes. J'ai mis en place et participé à de nombreux débats et animations scientifiques. Le numérique fait parti  des grands axes de l'association. Cette aventure me permet d'améliorer ma communication et ma pédagogie mais aussi du recul par rapport à la perception des progrès dans notre société. <br/><br/>
@@ -56,6 +67,7 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
 	</div>
 	
 	   <div id= "video">
+	   
                 <h3>Une guêpe en pleine action de parasitisme</h3>
 		<p> <a href="https://www.youtube.com/watch?v=vMG-LWyNcAs" target="_blank" class="lien"> Body Invaders | National Geographic </a> </p>
 		<video src="images/wasp.webm" controls poster="images/cotesia.jpg" class="centrer" width="200"></video>
@@ -66,17 +78,25 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
             </div>
 	</div>	
 
+
+
+
 	  <h2 id="titreprojet"> Mon Projet</h2>
+	  
 	  <div id="projet">
 		   <p>
 		   Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur et on recommence jusqu'à ce qu'on arrive à répondre à notre questionnement. </p>
 		 
 		 <h3> Pourquoi me réorienter ?</h3> 
 		  
-<p>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. La recherche, c'est passionnant mais exigeant. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tous le reste. J'ai suivi cette voie dans un premier temps puis j'ai choisi de changer de vie ! </p><br /><br /> 
+<p>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. La recherche, c'est passionnant mais exigeant. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tous le reste. J'ai suivi cette voie dans un premier temps puis j'ai choisi de changer de vie ! </p> <br/><br/> 
+
 
 <h3>Le métier de développeur web</h3>
-<p>J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation me permettant d'aller plus loin.</p><br/>
+
+<p>J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> 
+	L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation me permettant d'aller plus loin.</p>
+	<br/>
 
 <h3> La formation</h3>
 <figure><a href="https://www.cefim.eu/"><img src="images/cefim.png" class="floatleft" alt="cefim" target="_blank"/></a></figure>
