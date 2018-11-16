@@ -55,7 +55,7 @@
 		
 		<h3>Mes recherches</h3>
 		
-		<p><a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI" /></a> 
+		<p><a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"></a> 
 		
 Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie. Mon doctorat à Tours a été passionnant, une vraie torture mentale ! Je devais comprendre comment un virus se multiplie dans les cellules d'une guêpe parasitoïde qui pond ses oeufs avec le virus dans une chenille. Le virus empêche la chenille de tuer les larves de la guêpe et leur permet de la dévorer de l'intérieur ... <br/><br/> 
 Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là, j'avais la panoplie: combinaison de protection, <a href="https://www.pasteur.fr/"><img src="images/IP.png" class="floatright" alt="pasteur" /></a> masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/></p>
