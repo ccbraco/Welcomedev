@@ -16,7 +16,7 @@
 		
 	<aside>
              
-		<p>Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. <br/>
+		<p id="intro">Les métiers du numériques font partis du secteur qui recrute le plus à l'heure actuelle. <br/>
 		Il représente une multitudes de métiers d'avenir dont celui de développeurs web. <br/>
 		C'est un métier passionnant, présentant beaucoup de similitudes avec mes activités précédentes. <br/>
 		Il est stimulant, évolue constamment, demande de la persévérance et permet de travailler n'importe où. <br/><br/>C'est pourquoi j'ai fait le choix de me reconvertir dans ce domaine: mon objectif c'est le retour à l'emploi et exercer un métieren évolution permanente. </p>
