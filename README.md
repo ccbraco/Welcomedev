@@ -17,7 +17,7 @@
 		
 	
 	<aside>
-		<p id="intro">><br/><br/>
+		<p id="intro"><br/><br/>
 		
 		<a href="images/metier-du-numerique.png"  alt="numerique"/></a>
 		
