@@ -106,7 +106,7 @@ p
 {font-size: 1.2em;
 }
 ul, ol
-{color: #3F9DA6;
+{color: #A7EAF0;
 	font-size: 1em;
 }
 h1
@@ -120,6 +120,11 @@ h3
 {
 text-align: center;
 	color: #3F9DA6;
+}
+h4
+{
+text-align: center;
+	color: #58A982;
 }
 #intro
 {
