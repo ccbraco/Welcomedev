@@ -89,7 +89,7 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
 	  
 	  <div id="projet">
 		   <p>
-		  <img src="images/idea.jpg" class="floatleft" alt="idée"/> Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur et on recommence jusqu'à ce qu'on arrive à répondre à notre questionnement. </p>
+		  <img src="images/idea.png" class="floatleft" alt="idée"/> Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur et on recommence jusqu'à ce qu'on arrive à répondre à notre questionnement. </p>
 		 
 		 <h3> Pourquoi me réorienter ?</h3> 
 		  
