@@ -72,7 +72,7 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
 	
 	   <div id= "video">
 	   
-                <h3>Une guêpe en pleine action de parasitisme</h3>
+                <h4>Une guêpe en pleine action de parasitisme</h4>
 		<p> <a href="https://www.youtube.com/watch?v=vMG-LWyNcAs" target="_blank" class="lien"> Body Invaders | National Geographic </a> </p>
 		<video src="images/wasp.webm" controls poster="images/cotesia.jpg" class="centrer" width="200"></video>
 		
