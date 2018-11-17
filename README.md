@@ -93,13 +93,13 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
 		 
 		 <h3> Pourquoi me réorienter ?</h3> 
 		  
-<p>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. La recherche, c'est passionnant mais exigeant. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tous le reste. J'ai suivi cette voie dans un premier temps puis j'ai choisi de changer de vie ! </p> <br/><br/> 
+<p>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. La recherche, c'est passionnant mais exigeant personnellement. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tout le reste. J'ai suivi cette voie dans un premier temps puis j'ai choisi de changer de vie ! </p> <br/><br/> 
 
 
 <h3>Le métier de développeur web</h3>
 
 <p>J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> 
-	L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation me permettant d'aller plus loin.</p>
+	L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation afin d'acquérir les connaissances nécessaire pour proposer mes compétences aux entreprises qui recruutent.</p>
 	<br/>
 
 <h3> La formation</h3>
