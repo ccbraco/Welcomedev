@@ -60,8 +60,8 @@
 		
 		<p><a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"/></a> 
 		
-Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie. Mon doctorat à Tours a été passionnant, une vraie torture mentale ! Je devais comprendre comment un virus se multiplie dans les cellules d'une guêpe parasitoïde qui pond ses oeufs avec le virus dans une chenille. Le virus empêche la chenille de tuer les larves de la guêpe et leur permet de la dévorer de l'intérieur ... <br/><br/> 
-Puis, j'ai travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là, j'avais la panoplie: combinaison de protection, <a href="https://www.pasteur.fr/"><img src="images/IP.png" class="floatright" alt="pasteur" /></a> masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/></p>
+Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie. Mon doctorat à Tours a été passionnant, demandant une grande capacité d'abstraction !  Mon job était de comprendre comment <strong>un virus spécial </strong>est fabriquer dans les cellules d'une guêpe avant d'être injecté avec ses oeufs qu'elle pond dans une chenille. Ce virus empêche la chenille de tuer les larves qui peuvent alors dévorer celle-ci de l'intérieur jusqu'à se transformer en guêpe ... La nature est si belle ! <br/><br/> 
+J'ai ensuite travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là, j'avais la panoplie: combinaison de protection, <a href="https://www.pasteur.fr/"><img src="images/IP.png" class="floatright" alt="pasteur" /></a> masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/></p>
 
 		<h3>Mes loisirs</h3>
 <p> <img src="images/insect.jpg" class="floatleft" alt="insectes"/>
@@ -93,13 +93,13 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
 		 
 		 <h3> Pourquoi me réorienter ?</h3> 
 		  
-<p>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille. La recherche, c'est passionnant mais exigeant personnellement. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tout le reste. J'ai suivi cette voie dans un premier temps puis j'ai choisi de changer de vie ! </p> <br/><br/> 
+<p>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille.  <img src="images/poisson.jpg" class="floatright" alt="orientation"/>  La recherche, c'est passionnant mais exigeant personnellement. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tout le reste. J'ai suivi cette voie dans un premier temps puis j'ai choisi de changer de vie ! </p> <br/><br/> 
 
 
 <h3>Le métier de développeur web</h3>
 
 <p>J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> 
-	L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation afin d'acquérir les connaissances nécessaire pour proposer mes compétences aux entreprises qui recruutent.</p>
+	  <img src="images/idea.png" class="floatright" alt="idée"/> L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur openclassroom, France IOI et code combat. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation afin d'acquérir les connaissances nécessaire pour proposer mes compétences aux entreprises qui recruutent.</p>
 	<br/>
 
 <h3> La formation</h3>
