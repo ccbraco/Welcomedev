@@ -136,7 +136,14 @@ h5
 {
 	text-align: center;
 	color: #10202F;
-	font-style: bold;
+	font-weight: bold;
+   	
+}
+#show
+{
+	text-align: center;
+	color: #2d937f;
+	
    	
 }
 strong
