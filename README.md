@@ -60,7 +60,7 @@
 		
 		<p>
 		
-<em>Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie.</em><br/></br>
+<em>Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie.</em><br/><br/>
 <a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"/></a> <strong>Ma thèse: </strong>Mon doctorat à Tours a été passionnant, demandant une grande capacité d'abstraction !  Mon job était de comprendre comment <strong>un virus d'insecte </strong>se développe dans les cellules d'une guêpe avant que celle-ci l'injecte avec ses oeufs dans une chenille. <br/>
 Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent alors dévorer celle-ci de l'intérieur jusqu'à se transformer en guêpe (Alien a tout pomper sur ce modèle) ... <br/>La nature est si belle ! <br/><br/> 
 
