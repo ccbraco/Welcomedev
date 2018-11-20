@@ -100,7 +100,7 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
 
 <h3>Le métier de développeur web</h3>
 
-<p> Finalement, le métier de développeur n'est pas très loin de ce que je faisais avant. L'environnement change mais pas la façon de faire.  <br/> <img src="images/devweb.jpg" class="floatleft" alt="idée"/> 
+<p> <img src="images/devweb.jpg" class="floatleft" alt="idée"/> Finalement, le métier de développeur n'est pas très loin de ce que je faisais avant. L'environnement change mais pas la façon de faire.  <br/> 
 	 On a une problématique à laquelle il faut répondre. Après avoir bien défini cette problématique on propose une solution semblant la plus appropriée. On met alors en place notre proposition (en labo on appelle ça protocole) à l'aide des outils adaptés puis on teste et on valide nos propositions. </br></br>
 	 
 	 Ce métier nécessite des qualités que j'ai acquises au cours de mon expérience dans la recherche. Je suis autonome et inventive, je me tiens au courant de l'évolutions des outils et sait m'autoformer pour progresser et m'adapter au enjeux de mon métier. </p>
