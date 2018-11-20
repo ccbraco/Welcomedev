@@ -98,7 +98,7 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 		<li>on design un protocole de test</li>
 		<li>on recommence plusieurs fois</li>
 		<li>on valide notre réponse</li>
-		  </p>
+		  </ol></p>
 		 
 		 <h3> Pourquoi me réorienter ?</h3> 
 		  
