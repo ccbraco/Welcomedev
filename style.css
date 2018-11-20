@@ -107,13 +107,13 @@ p
 {font-size: 1.1em;
 text-align: justify;
 }
-ul,
+ul
 {color: #A7EAF0;
 	font-size: 1em;
 }
 ol
 {
-	font-size: 1.2em;
+	font-size: 1em;
 }
 h1
 {
@@ -153,9 +153,9 @@ h5
 #conclusion
 {
 	text-align: center;
-	color: #ca81d3;
+	color: #1a376d;
 	font-weight: bold;
-	font-size: 1.1em;
+	font-size: 1em;
 	
    	
 }
