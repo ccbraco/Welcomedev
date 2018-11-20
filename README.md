@@ -60,14 +60,15 @@
 		
 		<p>
 		
-Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie.<br/>
-<a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"/></a> <strong>Ma thèse: </strong>Mon doctorat à Tours a été passionnant, demandant une grande capacité d'abstraction !  Mon job était de comprendre comment <strong>un virus spécial </strong>est fabriquer dans les cellules d'une guêpe avant d'être injecté avec ses oeufs qu'elle pond dans une chenille. Ce virus empêche la chenille de tuer les larves qui peuvent alors dévorer celle-ci de l'intérieur jusqu'à se transformer en guêpe ... La nature est si belle ! <br/><br/> 
+<em>Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie.</em><br/>
+<a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"/></a> <strong>Ma thèse: </strong>Mon doctorat à Tours a été passionnant, demandant une grande capacité d'abstraction !  Mon job était de comprendre comment <strong>un virus d'insecte </strong>se développe dans les cellules d'une guêpe avant que celle-ci l'injecte avec ses oeufs dans une chenille. <br/>
+Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent alors dévorer celle-ci de l'intérieur jusqu'à se transformer en guêpe (Alien a tout pomper sur ce modèle) ... <br/>La nature est si belle ! <br/><br/> 
 
-<img src="images/mosquito.png" class="floatleft" alt="IRBI"/><strong>Mon postdoc: </strong>J'ai ensuite travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là, j'avais la panoplie: combinaison de protection, <a href="https://www.pasteur.fr/"><img src="images/IP.png" class="floatright" alt="pasteur" /></a> masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/></p>
+<img src="images/mosquito.png" class="floatleft" alt="IRBI"/><strong>Mon postdoc: </strong>J'ai ensuite travailler 2 ans à l'Institut Pasteur de Paris sur <em>un virus de fièvre hémorragique </em>transmis par les moustiques, l'air et les fluides. <br/>Là, j'avais la panoplie: combinaison de protection, <a href="https://www.pasteur.fr/"><img src="images/IP.png" class="floatright" alt="pasteur" /></a> masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/></p>
 
 		<h3>Mes loisirs</h3>
 <p> <img src="images/insect.jpg" class="floatleft" alt="insectes"/>
-Je suis très investie dans l'association les petits débrouillards, mouvement d'éducation populaire sensibilisant le grand public aux sciences. C'est important de partager ses connaissances et de discuter sciences avec les enfants et les adultes. J'ai mis en place et participé à de nombreux débats et animations scientifiques. Le numérique fait parti  des grands axes de l'association. Cette aventure me permet d'améliorer ma communication et ma pédagogie mais aussi du recul par rapport à la perception des progrès dans notre société. <br/><br/></p>
+	Je suis très investie dans l'association <strong>les petits débrouillards</strong>, mouvement d'éducation populaire sensibilisant le grand public aux sciences. <br/>C'est essentiel de partager ses connaissances et de discuter sciences avec les enfants et les adultes. <br/>J'ai mis en place et participé à de nombreux débats et animations scientifiques. <a href="http://lespetitsdebrouillards.org/?rub=axes" target="_blank" >Le numérique </a>fait parti de nos grands axes. <br/>Cette aventure formidable m'a permit de rencontrer des personnes venant de tous les domaines et m'a apporté beaucoup de connaissances pédagogiques.J'ai pris du recul sur l'impact des chercheurs dans notre société mais aussi de la perception de la population par rapport aux progrès dans notre société. <br/><br/></p>
 	
 
 	</div>
@@ -91,26 +92,32 @@ Je suis très investie dans l'association les petits débrouillards, mouvement d
 	  
 	  <div id="projet">
 		   <p>
-		  <img src="images/idea.png" class="floatleft" alt="idée"/> Résoudre des énigmes, c'est ce qui me passionne. En recherche, on se pose une question, on a des outils et pour y répondre, on met en place un protocole de test-erreur et on recommence jusqu'à ce qu'on arrive à répondre à notre questionnement. </p>
+		  <img src="images/idea.png" class="floatleft" alt="idée"/> <strong>Résoudre des énigmes</strong>, c'est ce qui me passionne. En recherche, on se pose une question puis: 
+		  <ol>
+		<li> on évalue les outils à notre disposition </li>
+		<li>on design un protocole de test</li>
+		<li>on recommence plusieurs fois</li>
+		<li>on valide notre réponse</li>
+		  </p>
 		 
 		 <h3> Pourquoi me réorienter ?</h3> 
 		  
-<p><img src="images/think.jpg" class="floatright" alt="think"/>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille.    La recherche, c'est passionnant mais exigeant personnellement. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tout le reste. J'ai suivi cette voie dans un premier temps puis je fais le choix de changer de métier.  ! <br/><br/> 
-J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. j'ai monté mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de développeur. </br> Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur <a href="https://openclassrooms.com/" target="_blank">openclassroom</a>, <a href="http://www.france-ioi.org/" target="_blank">France IOI </a>et <a href="https://codecombat.com/" target="_blank">code combat</a>.<img src="images/poisson.jpg" class="floatleft" alt="orientation"/> Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation afin d'acquérir les connaissances nécessaire pour proposer mes compétences aux entreprises qui recrutent. </p>
+<p><img src="images/think.jpg" class="floatright" alt="think"/>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille.   <br/><br/> La recherche, c'est passionnant mais exigeant personnellement. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tout le reste.<br/> J'ai suivi cette voie dans un premier temps puis je fais le choix de changer de métier.  ! <br/><br/> 
+J'ai décidé de faire une pause et de réfléchir à ma situation et mes compétences. <br/> J'ai commencé par monter mon auto entreprise de communication scientifique tout en réfléchissant à mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permit de faire des rencontres et de me pencher de façon sérieuse sur le métier de <strong>développeur</strong>. <br/> Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur <a href="https://openclassrooms.com/" target="_blank">openclassroom</a>, <a href="http://www.france-ioi.org/" target="_blank">France IOI </a>et <a href="https://codecombat.com/" target="_blank">code combat</a>.<img src="images/poisson.jpg" class="floatleft" alt="orientation"/> Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation afin d'acquérir les connaissances nécessaire et proposer mes compétences aux entreprises qui recrutent. </p>
 
 <h3>Le métier de développeur web</h3>
 
-<p> <img src="images/devweb.jpg" class="floatleft" alt="idée"/> Finalement, le métier de développeur n'est pas très loin de ce que je faisais avant. L'environnement change mais pas la façon de faire.  <br/> 
-	 On a une problématique à laquelle il faut répondre. Après avoir bien défini cette problématique on propose une solution semblant la plus appropriée. On met alors en place notre proposition (en labo on appelle ça protocole) à l'aide des outils adaptés puis on teste et on valide nos propositions. </br></br>
+<p> <img src="images/devweb.jpg" class="floatleft" alt="idée"/> Finalement, le métier de développeur n'est pas très loin de ce que je faisais avant. L'environnement change mais pas la façon de faire.  <br/> <br/>
+	 On a une problématique à laquelle il faut répondre. Après avoir bien défini cette problématique on propose une solution semblant la plus appropriée. On met alors en place notre proposition (en labo on appelle ça protocole) à l'aide des outils adaptés puis on teste et on valide nos propositions. <br/><br/>
 	 
-	 Ce métier nécessite des qualités que j'ai acquises au cours de mon expérience dans la recherche. Je suis autonome et inventive, je me tiens au courant de l'évolutions des outils et sait m'autoformer pour progresser et m'adapter au enjeux de mon métier. </p>
+	<em> Ce métier nécessite des qualités que j'ai acquises au cours de mon expérience dans la recherche. Je suis autonome et inventive, je me tiens au courant de l'évolutions des outils et sait m'autoformer pour progresser et m'adapter au enjeux de mon métier.</em></p>
 	<br/>
 
 <h3> La formation</h3>
 
-<p><a href="https://www.cefim.eu/"><img src="images/cefim.png" class="floatright" alt="cefim" target="_blank"/></a>Je me suis rendue à des réunions d'informations dans plusieurs organismes de formation dont le Cefim. <br/>
-	J'ai beaucoup apprécié les détails qui nous ont été fournis sur la formation. Elle dure plus longtemps mais l'alternance de phases d'apprentissage et de phases "projet" me semble être une dynamique très formatrice. Les formateurs sont professionnels et l'accompagnement nous donne toutes nos chances de réussir dans notre entreprise de reconversion. Le réseau de cette école est sans conteste une force, les étudiants peuvent être mis en contact et facilite le retour à l'emploi. <br/><br/>
-	<em>Je souhaite vivement pouvoir intégrer cette équipe pour me plonger dans le code, partager nos compétences avec mes collègues en formation, ouvrir mon champ de possibilités et m'insérer harmonieusement dans le monde du travail.</em>   
+<p>Avant d'entamer cette entreprise, j'ai évaluer les offres de postes par rapport à ce métier sur le territoire, les différentes écoles de formation sur Tours et comparé ce qu'elles proposaient. <a href="https://www.cefim.eu/"><img src="images/cefim.png" class="floatright" alt="cefim" target="_blank"/></a>Je me suis alors inscrites aux différentes réunions d'informations pour bien comprendre les particularités de chacune. C'est comme ça que je suis arrivée au Cefim. <br/></br>
+	J'ai beaucoup apprécié les détails qui nous ont été fournis sur la formation. Elle dure plus longtemps que d'autres mais l'alternance de phases d'apprentissage et de phases "projet" me semble être une dynamique très formatrice. Les formateurs sont professionnels et l'accompagnement nous donne toutes nos chances de réussir dans notre entreprise de reconversion. Le réseau de cette école est sans conteste une force, les étudiants peuvent être mis en contact ce qui facilite le retour à l'emploi. <br/><br/>
+	<em id="conclusion">Je souhaite vivement pouvoir intégrer cette équipe pour me plonger dans le code, partager nos compétences avec mes collègues en formation, ouvrir mon champ de possibilités et m'insérer harmonieusement dans le monde du travail.</em>   
 </p>
 	</div>
 <br/><br/>
