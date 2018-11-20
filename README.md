@@ -60,7 +60,7 @@
 		
 		<p>
 		
-Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie. 
+Passionnée par le monde de l'invisible, je me suis plongé dans les domaines de la génétique et de l'infectiologie. </br>
 <a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"/></a> <strong>Ma thèse: </strong>Mon doctorat à Tours a été passionnant, demandant une grande capacité d'abstraction !  Mon job était de comprendre comment <strong>un virus spécial </strong>est fabriquer dans les cellules d'une guêpe avant d'être injecté avec ses oeufs qu'elle pond dans une chenille. Ce virus empêche la chenille de tuer les larves qui peuvent alors dévorer celle-ci de l'intérieur jusqu'à se transformer en guêpe ... La nature est si belle ! <br/><br/> 
 
 <img src="images/mosquito.png" class="floatleft" alt="IRBI"/><strong>Mon postdoc: </strong>J'ai ensuite travailler 2 ans à l'Institut Pasteur de Paris sur un virus de fièvre hémorragique transmis par les moustiques, l'air et les fluides. Là, j'avais la panoplie: combinaison de protection, <a href="https://www.pasteur.fr/"><img src="images/IP.png" class="floatright" alt="pasteur" /></a> masque, gants, lunettes et laboratoire sécurisé. Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/><br/></p>
