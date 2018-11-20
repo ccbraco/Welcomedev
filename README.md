@@ -54,7 +54,7 @@
           <div id="description">
 		    <p>
 	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>
-		<em>Je suis le docteur Faustine LOUIS mais pas le genre de docteur qui soigne, plutôt celui qui s'interesse aux microbes qui te rendent malade. </em><br/> <br/></p>
+		<br/><br/><em id="show">Je suis le docteur Faustine LOUIS mais pas le genre de docteur qui soigne, plutôt celui qui s'interesse aux microbes qui te rendent malade. </em><br/> <br/></p>
 		
 		<h3>Mes recherches</h3>
 		
