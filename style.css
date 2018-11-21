@@ -2,7 +2,7 @@
 
 body 
 {
-	background-image: url("images/background.png");
+	
 	background-attachment: fixed;
 }
 nav
@@ -17,7 +17,7 @@ height:70px;
 }
 #container
 {width:950px; margin:0 auto;
-background-color: #A7EAF0;
+background-image: url("images/background.png");
 margin-top: 30px;
 }
 #quoi
