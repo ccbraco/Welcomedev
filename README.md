@@ -117,7 +117,7 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 
 <p>Avant d'entamer cette entreprise, j'ai évaluer les offres de postes par rapport à ce métier sur le territoire, les différentes écoles de formation sur Tours et comparé ce qu'elles proposaient. <a href="https://www.cefim.eu/"><img src="images/cefim.png" class="floatright" alt="cefim" target="_blank"/></a><br/>Je me suis alors inscrites aux différentes réunions d'informations pour bien comprendre les particularités de chacune. <em>C'est comme ça que je suis arrivée au <strong>Cefim</strong>.</em> <br/><br/>
 	J'ai beaucoup apprécié les détails qui nous ont été fournis sur la formation. Elle dure plus longtemps que d'autres mais l'alternance de phases d'apprentissage et de phases "projet" me semble être une dynamique très formatrice. <br/>Les formateurs sont professionnels et l'accompagnement nous donne toutes nos chances d'accomplir notre projet de reconversion. Le réseau de cette école est sans conteste une force, les étudiants peuvent être mis en contact avec des recruteursce qui facilite le retour à l'emploi. <br/><br/>
-	<em id="conclusion">Je souhaite vivement pouvoir intégrer cette équipe pour me plonger dans le code, partager nos compétences avec mes collègues en formation, ouvrir mon champ de possibilités et m'insérer harmonieusement dans le monde du travail.</em>   
+	<em id="conclusion">Je souhaite vivement pouvoir intégrer cette équipe pour me plonger dans le code, partager nos compétences avec mes collègues en formation, ouvrir mon champ de possibilités et m'insérer dans le monde du travail.</em>   
 </p>
 	</div>
 <br/><br/>
