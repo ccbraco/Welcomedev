@@ -10,20 +10,21 @@ nav
 display:flex; 
 height:70px;
 	background-color: white;
-    	border: 2px solid #26bfb2;
+    	
 	border-radius: 7px;
 	
 	positioin: relative;
 }
 #container
 {width:950px; margin:0 auto;
-background-color:  #b7d87d;
+background-color:  #4abac4;
 margin-top: 30px;
+	opacity:0.8;
 }
 #quoi
 {
-    background-color: #26bfb2;
-	opacity: 0.8;
+    background-color: #1d7c84;
+	
 	border-radius: 7px;
 	margin: 20px;
 }
