@@ -64,11 +64,11 @@
 <a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"/></a> <strong>Ma thèse: </strong>Mon doctorat à Tours a été passionnant, demandant une grande capacité d'abstraction !  Mon job était de comprendre comment <em>un virus d'insecte </em>se développe dans les cellules d'une guêpe avant que celle-ci l'injecte avec ses oeufs dans une chenille. <br/>
 Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent alors dévorer celle-ci de l'intérieur jusqu'à se transformer en guêpe (Alien a tout pomper sur ce modèle) ... <br/>La nature est si belle ! <br/><br/> 
 
-<img src="images/mosquito.png" class="floatleft" alt="IRBI"/><strong>Mon postdoc: </strong>J'ai ensuite travailler 2 ans à l'<a href="https://www.pasteur.fr/"target="_blank">Institut Pasteur</a> de Paris sur <em>un virus de fièvre hémorragique </em>transmis par les moustiques, l'air et les fluides. <br/>Là, j'avais la panoplie: combinaison de protection, masque, gants, lunettes et laboratoire sécurisé. <br/>Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/></p>
+<img src="images/mosquito.png" class="floatleft" alt="IRBI"/><strong>Mon postdoc: </strong>J'ai ensuite travailler 2 ans à l'<a href="https://www.pasteur.fr/" target="_blank">Institut Pasteur</a> de Paris sur <em>un virus de fièvre hémorragique </em>transmis par les moustiques, l'air et les fluides. <br/>Là, j'avais la panoplie: combinaison de protection, masque, gants, lunettes et laboratoire sécurisé. <br/>Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/></p>
 
 		<h3>Mes loisirs</h3>
 <p> <img src="images/insect.jpg" class="floatleft" alt="insectes"/>
-	Je suis très investie dans l'association <a href="http://www.lespetitsdebrouillards.org/"target="_blank">les petits débrouillards</a>, mouvement d'éducation populaire sensibilisant le grand public aux sciences. <br/>C'est essentiel de partager ses connaissances et de discuter sciences avec les enfants et les adultes. <br/>J'ai mis en place et participé à de nombreux débats et animations scientifiques. <a href="http://lespetitsdebrouillards.org/?rub=axes" target="_blank" >Le numérique </a>fait parti de nos grands axes. <br/>Cette aventure formidable m'a permis de rencontrer des personnes venant de tous les domaines et m'a apporté beaucoup de connaissances pédagogiques. J'ai pris du recul sur l'impact des chercheurs sur notre société mais aussi de la perception (négative et positive) de la population par rapport aux progrès (médicaux, technologiques...). <br/><br/></p>
+	Je suis très investie dans l'association <a href="http://www.lespetitsdebrouillards.org/" target="_blank">les petits débrouillards</a>, mouvement d'éducation populaire sensibilisant le grand public aux sciences. <br/>C'est essentiel de partager ses connaissances et de discuter sciences avec les enfants et les adultes. <br/>J'ai mis en place et participé à de nombreux débats et animations scientifiques. <a href="http://lespetitsdebrouillards.org/?rub=axes" target="_blank" >Le numérique </a>fait parti de nos grands axes. <br/>Cette aventure formidable m'a permis de rencontrer des personnes venant de tous les domaines et m'a apporté beaucoup de connaissances pédagogiques. J'ai pris du recul sur l'impact des chercheurs sur notre société mais aussi de la perception (négative et positive) de la population par rapport aux progrès (médicaux, technologiques...). <br/><br/></p>
 	
 
 	</div>
@@ -92,7 +92,7 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 	  
 	  <div id="projet">
 		   <p>
-		  <img src="images/idea.png" class="floatright" alt="idée"/> <strong>Résoudre des énigmes</strong>, c'est ce qui me passionne. Mon cursus m'a enseigné l'organisation de mes idées et surtout la persévérance.<br/>En recherche, on se pose une question puis: 
+		   <strong>Résoudre des énigmes</strong>, c'est ce qui me passionne.<img src="images/idea.png" class="floatright" alt="idée"/> Mon cursus m'a enseigné l'organisation de mes idées et surtout la persévérance.<br/>En recherche, on se pose une question puis: 
 		  <ol>
 		<li> on évalue les outils à notre disposition </li>
 		<li>on design un protocole de test</li>
