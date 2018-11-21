@@ -9,13 +9,13 @@ nav
 {width:auto; 
 display:flex; 
 height:70px;
-    	
+    	background-color: white;
 	border-radius: 7px;
 	
 	positioin: relative;
 }
 figure
-{background-color: white;}
+{box-shadow: 6px 6px 6px #2F4F4F;}
 
 #container
 {width:950px; margin:0 auto;
