@@ -175,7 +175,7 @@ a:hover /* Apparence au survol des liens */
 a /* Liens par défaut (non survolés) */
 {
    text-decoration: none;
-   color: #046846;
+   color: #013d29;
    font-style: bold;
 font-size: 1em;
 }
