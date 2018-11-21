@@ -2,7 +2,7 @@
 
 body 
 {
-	
+	background-color: #d8f4a4;
 	background-attachment: fixed;
 }
 nav
@@ -17,13 +17,13 @@ height:70px;
 }
 #container
 {width:950px; margin:0 auto;
-background-color:  #4abac4;
+box-shadow: 6px 6px 6px #2F4F4F;
 margin-top: 30px;
-	opacity:0.8;
+	
 }
 #quoi
 {
-    background-color: #1d7c84;
+    background-color: #d8f4a4;
 	
 	border-radius: 7px;
 	margin: 20px;
@@ -110,7 +110,7 @@ p
 text-align: justify;
 }
 ul
-{color: #A7EAF0;
+{color: black;
 	font-size: 1em;
 }
 ol
