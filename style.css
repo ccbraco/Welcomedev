@@ -119,10 +119,9 @@ ol
 h1
 {
 	border-radius: 5px;
-	background-color: #368c6f;
+	background-color: #249664;
 	text-align: center;
 	font-size: 20em;
-	opacity: 0.8;
 }
 h3
 {
@@ -176,7 +175,7 @@ a:hover /* Apparence au survol des liens */
 a /* Liens par défaut (non survolés) */
 {
    text-decoration: none;
-   color: #39a861;
+   color: #44c1dd;
    font-style: bold;
 font-size: 1em;
 }
