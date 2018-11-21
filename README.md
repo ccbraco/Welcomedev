@@ -92,7 +92,7 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 	  
 	  <div id="projet">
 		   <p>
-		   <strong>Résoudre des énigmes</strong>, c'est ce qui me passionne.<img src="images/idea.png" class="floatright" alt="idée"/> Mon cursus m'a enseigné l'organisation de mes idées et surtout la persévérance.<br/>En recherche, on se pose une question puis: 
+		   <strong>Résoudre des énigmes</strong>, c'est ce qui me passionne.<img src="images/idea.jpg" class="floatright" alt="idée"/> Mon cursus m'a enseigné l'organisation de mes idées et surtout la persévérance.<br/>En recherche, on se pose une question puis: 
 		  <ol>
 		<li> on évalue les outils à notre disposition </li>
 		<li>on design un protocole de test</li>
