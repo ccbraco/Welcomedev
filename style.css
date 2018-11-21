@@ -19,7 +19,7 @@ height:70px;
 {width:950px; margin:0 auto;
 box-shadow: 6px 6px 6px #2F4F4F;
 margin-top: 30px;
-	  background-color: #f1f2bf;
+	  background-color: #9ad6c9;
 	
 }
 #quoi
@@ -121,7 +121,7 @@ ol
 h1
 {
 	border-radius: 5px;
-	
+	background-color:  white;
 	text-align: center;
 	font-size: 20em;
 	box-shadow: 6px 6px 0px #2F4F4F;
