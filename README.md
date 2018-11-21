@@ -18,7 +18,7 @@
 	
 	<aside>
 		<p id="intro">
-		<img src="images/metier-du-numerique.png" alt="numerique" />
+		<img src="images/web.png" alt="métier du numerique" />
 		<br/><br/>
 		
 		Les métiers du numérique font partis du secteur qui recrute le plus à l'heure actuelle. <br/>
