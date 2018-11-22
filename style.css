@@ -13,10 +13,7 @@ height:70px;
 	border-radius: 7px;
 	align-items: stretch;
 }
-figure
-{display: flex;
-    justify-content: center;
-    align-items: center;}
+
 
 #container
 {width:950px; margin:0 auto;
