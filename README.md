@@ -7,12 +7,10 @@
 	</head>
 
 <body>
-
-
 	 
 <div id="container">
-		<nav>
-			<figure><a href="#parcours">  Mon parcours  </a></figure>
+	<nav>
+		<figure><a href="#parcours">  Mon parcours  </a></figure>
 		<figure><a href="#moi">  A propos de moi  </a></figure>	
 		<figure><a href="#titreprojet">  Mon projet  </a></figure>	
             	<figure><a href="images/CV FL.pdf" target="_blank">  Mon CV  </a></figure>
@@ -27,7 +25,7 @@
 		Les métiers du numérique font partis du secteur qui recrute le plus à l'heure actuelle. <br/>
 		Il représente une multitudes de métiers d'avenir dont celui de<strong> développeurs web</strong>. <br/><br/>
 		C'est un métier passionnant, présentant beaucoup de similitudes avec mes activités précédentes. <br/>
-		Il est stimulant, évolue constamment, demande de la persévérance et permet de travailler n'importe où. <br/><br/><em>C'est pourquoi j'ai fait le choix de me reconvertir dans ce domaine: mon objectif: c'est <strong> trouver un emploi qui me plaise </strong>et exercer un métier en évolution permanente.</em> </p>
+		Il est stimulant, évolue constamment, demande de la persévérance et permet de travailler n'importe où. <br/><br/><em> 			C'est pourquoi j'ai fait le choix de me reconvertir dans ce domaine: mon objectif: c'est <strong> trouver un emploi qui me 		plaise </strong>et exercer un métier en évolution permanente.</em> </p>
 	</aside>
 	
 	
@@ -39,37 +37,35 @@
 		<li><span class="date">2003-2007</span>  Bénévole association naturaliste NATRIX, Tours.</li>
 		<li><span class="date">2006-2008</span>  Master d'Infectiologie<a href="https://sciences.univ-tours.fr/version-francaise/bienvenue-sur-le-site-de-la-faculte-de-sciences-et-techniques-159428.kjsp" target="_blank"> L'université des sciences et techniques</a>, Tours.</li>
 		<li><span class="date">2007-2008</span>  Bénévole <a href="http://www2.cnrs.fr/jeunes/25.htm" target="_blank"> Club CNRS</a> Science pop', Tours.</li>
-			<li><span class="date">2008-2013</span>  Doctorat de virologie à l'<a href="http://irbi.univ-tours.fr/" target="_blank"> Institut de Recherche sur la Biologie de l'Insecte</a>, Tours.</li>
-			<li><span class="date">2008-</span>  Bénévole et administratrice de l'<a href="http://www.lespetitsdebrouillards.org/" target="_blank">Association les Petits Débrouillards</a>, Tours et Paris.</li>
-			<li><span class="date">2012-2013</span>  Attaché temporaire d'enseignement et recherche à l'université de Tours.</li>
-			<li><span class="date">2013-2016</span>  Chercheuse Contractuelle à l'<a href="https://www.pasteur.fr/fr" target="_blank"> Institut Pasteur</a>, Paris.</li>
-			<li><span class="date">2018</span>  Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank"> STRIDULI</a>, Tours.</li>
-		</ul></p>
+		<li><span class="date">2008-2013</span>  Doctorat de virologie à l'<a href="http://irbi.univ-tours.fr/" target="_blank"> Institut de Recherche sur la Biologie de l'Insecte</a>, Tours.</li>
+		<li><span class="date">2008-</span>  Bénévole et administratrice de l'<a href="http://www.lespetitsdebrouillards.org/" target="_blank">Association les Petits Débrouillards</a>, Tours et Paris.</li>
+		<li><span class="date">2012-2013</span>  Attaché temporaire d'enseignement et recherche à l'université de Tours.</li>
+		<li><span class="date">2013-2016</span>  Chercheuse Contractuelle à l'<a href="https://www.pasteur.fr/fr" target="_blank"> Institut Pasteur</a>, Paris.</li>
+		<li><span class="date">2018</span>  Créatrice de l'agence d'animation et de communication scientifique <a href="https://striduli.wixsite.com/striduli" target="_blank"> STRIDULI</a>, Tours.</li>
+		</ul>
+		</p>
 	</div>
 	
 	
 	
-	    <h2 id="moi">A propos de moi</h2>
-	    
+	<h2 id="moi">A propos de moi</h2>
 	    
 	<div id="main">
 	   
           <div id="description">
-		    <p>
-	<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>
+	  	<p>
+		<a href="images/CV FL.pdf"><img src="images/fofomini.png" class="floatleft" alt="cv fofo" title="télécharger mon cv"/></a>
 		<br/><br/><em id="show">Je suis le docteur Faustine LOUIS, mais pas le genre de docteur qui soigne, plutôt celui qui s'interesse aux microbes qui te rendent malade. </em><br/> <br/></p>
 		
-		<h3>Mes recherches</h3>
+	<h3>Mes recherches</h3>
 		
 		<p>
-		
-<em>Passionnée par le monde de l'invisible, je me suis plongée dans les domaines de la génétique et de l'infectiologie.</em><br/><br/>
-<a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"/></a> <strong>Ma thèse: </strong>Mon doctorat à Tours a été passionnant, demandant une grande capacité d'abstraction !  Mon job était de comprendre comment <em>un virus d'insecte </em>se développe dans les cellules d'une guêpe avant que celle-ci l'injecte avec ses oeufs dans une chenille. <br/>
+		<em>Passionnée par le monde de l'invisible, je me suis plongée dans les domaines de la génétique et de l'infectiologie.</em><br/><br/><a href="http://irbi.univ-tours.fr/"><img src="images/IRBI.png" class="floatleft" alt="IRBI"/></a> <strong>Ma thèse: </strong>Mon doctorat à Tours a été passionnant, demandant une grande capacité d'abstraction !  Mon job était de comprendre comment <em>un virus d'insecte </em>se développe dans les cellules d'une guêpe avant que celle-ci l'injecte avec ses oeufs dans une chenille. <br/>
 Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent alors dévorer celle-ci de l'intérieur jusqu'à se transformer en guêpe (Alien a tout pomper sur ce modèle) ... <br/>La nature est si belle ! <br/><br/> 
 
 <img src="images/mosquito.png" class="floatleft" alt="IRBI"/><strong>Mon postdoc: </strong>J'ai ensuite travailler 2 ans à l'<a href="https://www.pasteur.fr/" target="_blank">Institut Pasteur</a> de Paris sur <em>un virus de fièvre hémorragique </em>transmis par les moustiques, l'air et les fluides. <br/>Là, j'avais la panoplie: combinaison de protection, masque, gants, lunettes et laboratoire sécurisé. <br/>Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/></p>
 
-		<h3>Mes loisirs</h3>
+	<h3>Mes loisirs</h3>
 <p> <img src="images/insect.jpg" class="floatleft" alt="insectes"/>
 	Je suis très investie dans l'association <a href="http://www.lespetitsdebrouillards.org/" target="_blank">les petits débrouillards</a>, mouvement d'éducation populaire sensibilisant le grand public aux sciences. <br/>C'est essentiel de partager ses connaissances et de discuter sciences avec les enfants et les adultes. <br/>J'ai mis en place et participé à de nombreux débats et animations scientifiques. <a href="http://lespetitsdebrouillards.org/?rub=axes" target="_blank" >Le numérique </a>fait parti de nos grands axes. <br/>Cette aventure formidable m'a permis de rencontrer des personnes venant de tous les domaines et m'a apporté beaucoup de connaissances pédagogiques. J'ai pris du recul sur l'impact des chercheurs sur notre société mais aussi de la perception (négative et positive) de la population par rapport aux progrès (médicaux, technologiques...). <br/><br/></p>
 	
