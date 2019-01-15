@@ -27,7 +27,7 @@
 		C'est un métier passionnant, présentant beaucoup de similitudes avec mes activités précédentes. <br/>
 		Il est stimulant, évolue constamment, demande de la persévérance et permet de travailler n'importe où. <br/><br/><em> 			C'est pourquoi j'ai fait le choix de me reconvertir dans ce domaine: mon objectif: c'est <strong> trouver un emploi qui me 		plaise </strong>et exercer un métier en évolution permanente.</em> </p>
 	</aside>
-	
+	<a href="#container">  Haut de la page  </a>
 	
 	
 	<h2 id="parcours">Mon parcours</h2>
@@ -66,20 +66,19 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 <img src="images/mosquito.png" class="floatleft" alt="IRBI"/><strong>Mon postdoc: </strong>J'ai ensuite travailler 2 ans à l'<a href="https://www.pasteur.fr/" target="_blank">Institut Pasteur</a> de Paris sur <em>un virus de fièvre hémorragique </em>transmis par les moustiques, l'air et les fluides. <br/>Là, j'avais la panoplie: combinaison de protection, masque, gants, lunettes et laboratoire sécurisé. <br/>Je devais évaluer si les moustiques français peuvent transmettre ce virus Africain. <br/></p>
 
 	<h3>Mes loisirs</h3>
-<p> <img src="images/insect.jpg" class="floatleft" alt="insectes"/>
-	Je suis très investie dans l'association <a href="http://www.lespetitsdebrouillards.org/" target="_blank">les petits débrouillards</a>, mouvement d'éducation populaire sensibilisant le grand public aux sciences. <br/>C'est essentiel de partager ses connaissances et de discuter sciences avec les enfants et les adultes. <br/>J'ai mis en place et participé à de nombreux débats et animations scientifiques. <a href="http://lespetitsdebrouillards.org/?rub=axes" target="_blank" >Le numérique </a>fait parti de nos grands axes. <br/>Cette aventure formidable m'a permis de rencontrer des personnes venant de tous les domaines et m'a apporté beaucoup de connaissances pédagogiques. J'ai pris du recul sur l'impact des chercheurs sur notre société mais aussi de la perception (négative et positive) de la population par rapport aux progrès (médicaux, technologiques...). <br/><br/></p>
+		<p> <img src="images/insect.jpg" class="floatleft" alt="insectes"/>
+		Je suis très investie dans l'association <a href="http://www.lespetitsdebrouillards.org/" target="_blank">les petits 	débrouillards</a>, mouvement d'éducation populaire sensibilisant le grand public aux sciences. <br/>C'est essentiel de partager ses connaissances et de discuter sciences avec les enfants et les adultes. <br/>J'ai mis en place et participé à de nombreux débats et animations scientifiques. <a href="http://lespetitsdebrouillards.org/?rub=axes" target="_blank" >Le numérique </a>fait parti de nos grands axes. <br/>Cette aventure formidable m'a permis de rencontrer des personnes venant de tous les domaines et m'a apporté beaucoup de connaissances pédagogiques. J'ai pris du recul sur l'impact des chercheurs sur notre société mais aussi de la perception (négative et positive) de la population par rapport aux progrès (médicaux, technologiques...). <br/><br/></p>
 	
-
 	</div>
 	
-	   <div id= "video">
-	   
-                <h4>Une guêpe en pleine action de parasitisme</h4>
-		<p> <a href="https://www.youtube.com/watch?v=vMG-LWyNcAs" target="_blank" class="lien"> Body Invaders | National Geographic </a> </p>
+	<div id= "video">
+		<h4>Une guêpe en pleine action de parasitisme</h4>
+			<p> <a href="https://www.youtube.com/watch?v=vMG-LWyNcAs" target="_blank" class="lien"> Body Invaders | National Geographic </a> </p>
 		<video src="images/wasp.webm" controls poster="images/cotesia.jpg" class="centrer" width="200"></video>
 		<br/><br/><br/><br/><br/>
+		
 		<h4>Les Petits Débrouillards</h4>
-		<p><a href="https://www.youtube.com/watch?v=DgR94p5cf1M&list=FLoTEedbBI6zQ2PW39PB2I2A" target="_blank" class="lien"> Pourquoi devenir un Petit Débrouillard ? </a> </p>
+			<p><a href="https://www.youtube.com/watch?v=DgR94p5cf1M&list=FLoTEedbBI6zQ2PW39PB2I2A" target="_blank" class="lien"> Pourquoi devenir un Petit Débrouillard ? </a> </p>
 		<video src="images/pd.webm" controls poster="images/petitsdeb.png" width="200"></video>
             </div>
 	</div>	
@@ -92,12 +91,13 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 	  <div id="projet">
 		   <p>
 		   <strong>Résoudre des énigmes</strong>, c'est ce qui me passionne.<img src="images/idea.jpg" class="floatright" alt="idée"/> Mon cursus m'a enseigné l'organisation de mes idées et surtout la persévérance.<br/>En recherche, on se pose une question puis: 
-		  <ol>
+		<ol>
 		<li> on évalue les outils à notre disposition </li>
 		<li>on design un protocole de test</li>
 		<li>on recommence plusieurs fois</li>
 		<li>on valide notre réponse</li>
-		  </ol></p>
+		</ol>
+		</p>
 		 
 		 <h3> Pourquoi me réorienter ?</h3> 
 		  
