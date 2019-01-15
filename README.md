@@ -45,7 +45,7 @@
 		</ul>
 		</p>
 	</div>
-	
+	<a href="#container">  Haut de la page  </a>
 	
 	
 	<h2 id="moi">A propos de moi</h2>
@@ -83,7 +83,7 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
             </div>
 	</div>	
 
-
+<a href="#container">  Haut de la page  </a>
 
 
 	  <h2 id="titreprojet"> Mon Projet</h2>
@@ -104,24 +104,25 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 <p><img src="images/think.jpg" class="floatright" alt="think"/><em>J'ai une petite fille de 2 ans et je souhaiterais trouver un compromis entre le monde du travail et ma vie de famille.  </em> <br/><br/> La recherche, c'est passionnant mais exigeant personnellement. Les postes sont devenus rares et les contrats ne durent pas longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au détriment de tout le reste.<br/> <br/><em>J'ai suivi cette voie dans un premier temps puis j'ai fais le choix de changer de métier. </em> <br/><br/> 
 <img src="images/poisson.jpg" class="floatleft" alt="orientation"/> J'ai fait une pause et réfléchit à ma situation et mes compétences. <br/> J'ai commencé par monter mon auto entreprise de communication scientifique tout en préparant mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permis de faire des rencontres et de me pencher de façon sérieuse sur le métier de <em>développeur</em>. <br/> Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur <a href="https://openclassrooms.com/" target="_blank">openclassroom</a>, <a href="http://www.france-ioi.org/" target="_blank">France IOI </a>et <a href="https://codecombat.com/" target="_blank">code combat</a>. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation afin d'acquérir les connaissances nécessaire et proposer mes compétences aux entreprises qui recrutent. </p>
 
-<h3>Le métier de développeur web</h3>
+	<h3>Le métier de développeur web</h3>
 
-<p> <img src="images/devweb.jpg" class="floatleft" alt="idée"/> Finalement, le métier de développeur n'est pas très loin de ce que je faisais avant. L'environnement change mais pas la façon de faire.  <br/> <br/>
-	 On a une problématique à laquelle il faut répondre. Après avoir bien défini cette problématique, on propose une solution semblant la plus appropriée. On met alors en place notre proposition (en labo on appelle ça protocole) à l'aide des outils adaptés puis on teste et on valide nos propositions. <br/><br/>
+		<p> <img src="images/devweb.jpg" class="floatleft" alt="idée"/> Finalement, le métier de développeur n'est pas très loin 		de ce que je faisais avant. L'environnement change mais pas la façon de faire.  <br/> <br/>
+	 	On a une problématique à laquelle il faut répondre. Après avoir bien défini cette problématique, on propose une solution 		semblant la plus appropriée. On met alors en place notre proposition (en labo on appelle ça protocole) à l'aide des outils 		adaptés puis on teste et on valide nos propositions. <br/><br/>
 	 
-	<em> Ce métier nécessite des qualités que j'ai acquises au cours de mon expérience dans la recherche. Je suis autonome et inventive, je me tiens au courant de l'évolutions des outils et sait m'autoformer pour progresser et m'adapter aux enjeux de mon métier.</em></p>
+		<em> Ce métier nécessite des qualités que j'ai acquises au cours de mon expérience dans la recherche. Je suis autonome et 		inventive, je me tiens au courant de l'évolutions des outils et sait m'autoformer pour progresser et m'adapter aux enjeux de 			mon métier.</em></p>
 	
 
-<h3> La formation</h3>
+	<h3> La formation</h3>
 
-<p>Avant d'entamer cette entreprise, j'ai évaluer les offres de postes par rapport à ce métier sur le territoire, les différentes écoles de formation sur Tours et comparé ce qu'elles proposaient. <br/>Je me suis alors inscrites aux différentes réunions d'informations pour bien comprendre les particularités de chacune. <br/><em>C'est comme ça que je suis arrivée au <strong>Cefim</strong>.</em> <br/></p>
+		<p>Avant d'entamer cette entreprise, j'ai évaluer les offres de postes par rapport à ce métier sur le territoire, les 			différentes 		écoles de formation sur Tours et comparé ce qu'elles proposaient. <br/>Je me suis alors inscrites 		aux 		différentes réunions 	d'informations pour bien comprendre les particularités de chacune. <br/><em>C'est 		comme ça que je suis 		arrivée au <strong>Cefim</strong>.</em> <br/></p>
 	
-	<p><a href="https://www.cefim.eu/" class="floatleft"><img src="images/cefim.png" alt="cefim" target="_blank"/></a>J'ai beaucoup apprécié les détails qui nous ont été fournis sur la formation. Elle dure plus longtemps que d'autres mais l'alternance de phases d'apprentissage et de phases "projet" me semble être une dynamique très formatrice. <br/>Les formateurs sont professionnels et l'accompagnement nous donne toutes nos chances d'accomplir notre projet de reconversion. Le réseau de cette école est sans conteste une force, les étudiants peuvent être mis en contact avec des recruteursce qui facilite le retour à l'emploi. <br/><br/>
-	<em id="conclusion">Je souhaite vivement pouvoir intégrer cette équipe pour me plonger dans le code, partager nos compétences avec mes collègues en formation, ouvrir mon champ de possibilités et m'insérer durablement dans le monde du travail.</em>   
-</p>
+		<p><a href="https://www.cefim.eu/" class="floatleft"><img src="images/cefim.png" alt="cefim" target="_blank"/></a>J'ai 			beaucoup apprécié les détails qui nous ont été fournis sur la formation. Elle dure plus longtemps que d'autres mais 			l'alternance de phases d'apprentissage et de phases "projet" me semble être une dynamique très formatrice. <br/>Les 			formateurs sont professionnels et l'accompagnement nous donne toutes nos chances d'accomplir notre projet de reconversion. 			Le réseau de cette école est sans conteste une force, les étudiants peuvent être mis en contact avec des recruteursce 			qui facilite le retour à l'emploi. <br/><br/>
+		<em id="conclusion">Je souhaite vivement pouvoir intégrer cette équipe pour me plonger dans le code, partager nos 			compétences avec mes collègues en formation, ouvrir mon champ de possibilités et m'insérer durablement dans le monde du 		travail.</em>   
+		</p>
 	</div>
-<br/><br/>
+	<br/><br/>
 </div>	
+<a href="#container">  Haut de la page  </a>
 
 	<footer>
 	<div id= "reseaux">
