@@ -66,21 +66,15 @@ nav
 footer
 {
 	width:auto;
- 	display:block;
  	height:100px;
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	border-radius: 7px;
 	box-shadow: 6px 6px 0px #2F4F4F;
 	background-color:  white;	
 }
 
-#reseaux
-{
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
-}
 
 /* faire flotter une image*/
 .centrer
