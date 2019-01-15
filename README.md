@@ -121,8 +121,9 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 		</p>
 	</div>
 	<br/><br/>
+	<a href="#container">  Haut de la page  </a>
 </div>	
-<a href="#container">  Haut de la page  </a>
+
 
 	<footer>
 	<div id= "reseaux">
