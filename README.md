@@ -102,7 +102,7 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 		 <h3> Pourquoi me réorienter ?</h3> 
 		  
 			<p><img src="images/think.jpg" class="floatright" alt="think"/><em>J'ai une petite fille de 2 ans et je 				souhaiterais trouver un compromis entre le monde du travail et ma vie de famille.  </em> <br/><br/> La recherche, 			c'est passionnant mais exigeant personnellement. Les postes sont devenus rares et les contrats ne durent pas 				longtemps. Il faut changer de ville, de pays tous les deux ans, être très disponible, travailler énormément au 				détriment de tout le reste.<br/> <br/><em>J'ai suivi cette voie dans un premier temps puis j'ai fais le choix de 			changer de métier. </em> <br/><br/> 
-			<img src="images/poisson.jpg" class="floatleft" alt="orientation"/> J'ai fait une pause et réfléchit à ma 				situation et mes compétences. <br/> J'ai commencé par monter mon auto entreprise de communication scientifique tout en préparant mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permis de faire des rencontres et de me pencher de façon sérieuse sur le métier de <em>développeur</em>. <br/> Sur les conseils d'amis dans le domaine, j'ai commencé les cours sur <a href="https://openclassrooms.com/" target="_blank">openclassroom</a>, <a href="http://www.france-ioi.org/" target="_blank">France IOI </a>et <a href="https://codecombat.com/" target="_blank">code combat</a>. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation afin d'acquérir les connaissances nécessaire et proposer mes compétences aux entreprises qui recrutent. </p>
+			<img src="images/poisson.jpg" class="floatleft" alt="orientation"/> J'ai fait une pause et réfléchit à ma 				situation et mes compétences. <br/> J'ai commencé par monter mon auto entreprise de communication scientifique 				tout en préparant mon projet de reconversion. <br/> L'aventure auto entrepreneur m'a permis de faire des 				rencontres et de me pencher de façon sérieuse sur le métier de <em>développeur</em>. <br/> Sur les conseils d'amis 			dans le domaine, j'ai commencé les cours sur <a href="https://openclassrooms.com/" target="_blank">openclassroom</a>, <a href="http://www.france-ioi.org/" target="_blank">France IOI </a>et <a href="https://codecombat.com/" target="_blank">code combat</a>. Me sentant véritablement à l'aise, je suis convaincue que ce métier est fait pour moi et je suis prête à me lancer dans une formation afin d'acquérir les connaissances nécessaire et proposer mes compétences aux entreprises qui recrutent. </p>
 
 	<h3>Le métier de développeur web</h3>
 
@@ -126,13 +126,13 @@ Ce virus génial empêche la chenille de tuer les larves de guêpe qui peuvent a
 
 
 	<footer>
-	<div id= "reseaux">
+	
 	<p> Me suivre sur les réseaux sociaux </p>
 	<figure><a href="https://www.facebook.com/louis.faustine" target="_blank"><img src="images/facebook.png" alt="facebook" title="facebook"/></a> </figure>
 	<figure><a href="https://www.linkedin.com/in/faustine-louis-2981bab3/" target="_blank"><img src="images/linkedin.png" alt="linkedin" title="linkedin"/></a> </figure>
 	<figure><a href="https://www.researchgate.net/profile/Faustine_Louis" target="_blank"><img src="images/researchgate.png" alt="" title="researchgate"/></a></figure> 
 	<figure><a href="https://striduli.wixsite.com/striduli" target="_blank"><img src="images/striduli.png" alt="striduli" title="striduli"/></a> 		</figure>				
-	</div>	
+	
 	</footer>
 	
 
